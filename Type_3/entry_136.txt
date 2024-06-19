@@ -1,0 +1,164 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/New_York_City and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/New_York_City and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles) and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/Wilshire_Boulevard and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/Samaritans and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles) and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Wilshire_Boulevard and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Samaritans and the value is : 1
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles) and the value is : 1
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/Wilshire_Boulevard and the value is : 0
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/Samaritans and the value is : 0
+http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles) and http://dbpedia.org/resource/Wilshire_Boulevard and the value is : 0
+http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles) and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles) and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles) and http://dbpedia.org/resource/Samaritans and the value is : 1
+http://dbpedia.org/resource/Wilshire_Boulevard and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Wilshire_Boulevard and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Wilshire_Boulevard and http://dbpedia.org/resource/Samaritans and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Samaritans and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Samaritans and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/Sirhan_Sirhan and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/Palestinians and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/New_York_City and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Sirhan_Sirhan and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Palestinians and the value is : 0
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/Sirhan_Sirhan and the value is : 0
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/Palestinians and the value is : 1
+http://dbpedia.org/resource/Sirhan_Sirhan and http://dbpedia.org/resource/Palestinians and the value is : 0
+http://dbpedia.org/resource/Sirhan_Sirhan and http://dbpedia.org/resource/Palestinians and the value is : 1
+http://dbpedia.org/resource/Sirhan_Sirhan and http://dbpedia.org/resource/Robert_F._Kennedy and the value is : 0
+http://dbpedia.org/resource/Sirhan_Sirhan and http://dbpedia.org/resource/United_States_Senate and the value is : 1
+http://dbpedia.org/resource/Sirhan_Sirhan and http://dbpedia.org/resource/New_York_City and the value is : 1
+http://dbpedia.org/resource/Palestinians and http://dbpedia.org/resource/Robert_F._Kennedy and the value is : 0
+http://dbpedia.org/resource/Palestinians and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Palestinians and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/New_York_City and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/John_F._Kennedy and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/1972_United_States_presidential_election and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/John_F._Kennedy and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/1972_United_States_presidential_election and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/John_F._Kennedy and http://dbpedia.org/resource/1972_United_States_presidential_election and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/1972_United_States_presidential_election and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/1972_United_States_presidential_election and the value is : 0
+http://dbpedia.org/resource/South_Dakota and http://dbpedia.org/resource/Robert_F._Kennedy and the value is : 1
+http://dbpedia.org/resource/South_Dakota and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/South_Dakota and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 0
+http://dbpedia.org/resource/South_Dakota and http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles) and the value is : 0
+http://dbpedia.org/resource/South_Dakota and http://dbpedia.org/resource/Samaritans and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles) and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/Samaritans and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles) and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Samaritans and the value is : 1
+http://dbpedia.org/resource/John_Fitzgerald_(tennis) and http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles) and the value is : 0
+http://dbpedia.org/resource/John_Fitzgerald_(tennis) and http://dbpedia.org/resource/Samaritans and the value is : 1
+http://dbpedia.org/resource/Ambassador_Hotel_(Los_Angeles) and http://dbpedia.org/resource/Samaritans and the value is : 0
+http://dbpedia.org/resource/Sirhan_Sirhan and http://dbpedia.org/resource/Palestinians and the value is : 1
+http://dbpedia.org/resource/Sirhan_Sirhan and http://dbpedia.org/resource/Robert_F._Kennedy and the value is : 0
+http://dbpedia.org/resource/Sirhan_Sirhan and http://dbpedia.org/resource/United_States_Senate and the value is : 1
+http://dbpedia.org/resource/Sirhan_Sirhan and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 1
+http://dbpedia.org/resource/Sirhan_Sirhan and http://dbpedia.org/resource/John_F._Kennedy and the value is : 1
+http://dbpedia.org/resource/Palestinians and http://dbpedia.org/resource/Robert_F._Kennedy and the value is : 0
+http://dbpedia.org/resource/Palestinians and http://dbpedia.org/resource/United_States_Senate and the value is : 1
+http://dbpedia.org/resource/Palestinians and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 0
+http://dbpedia.org/resource/Palestinians and http://dbpedia.org/resource/John_F._Kennedy and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/John_F._Kennedy and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/John_F._Kennedy and the value is : 0
+http://dbpedia.org/resource/John_Fitzgerald_(tennis) and http://dbpedia.org/resource/John_F._Kennedy and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/John_Fitzgerald_(tennis) and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/Arlington_National_Cemetery and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Arlington_National_Cemetery and the value is : 0
+http://dbpedia.org/resource/John_Fitzgerald_(tennis) and http://dbpedia.org/resource/Arlington_National_Cemetery and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/United_States_Secret_Service and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/United_States_Secret_Service and the value is : 0
+http://dbpedia.org/resource/John_Fitzgerald_(tennis) and http://dbpedia.org/resource/United_States_Secret_Service and the value is : 0
+http://dbpedia.org/resource/Hubert_Humphrey and http://dbpedia.org/resource/Richard_Nixon and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/Robert_F._Kennedy_assassination_conspiracy_theories and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Robert_F._Kennedy_assassination_conspiracy_theories and the value is : 1
+http://dbpedia.org/resource/John_Fitzgerald_(tennis) and http://dbpedia.org/resource/Robert_F._Kennedy_assassination_conspiracy_theories and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/United_States_Senate and the value is : 1
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 0
+http://dbpedia.org/resource/Robert_F._Kennedy and http://dbpedia.org/resource/Huey_Long and the value is : 0
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/John_Fitzgerald_(tennis) and the value is : 1
+http://dbpedia.org/resource/United_States_Senate and http://dbpedia.org/resource/Huey_Long and the value is : 1
+http://dbpedia.org/resource/John_Fitzgerald_(tennis) and http://dbpedia.org/resource/Huey_Long and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Robert F. Kennedy, the United States Senator from New York and brother of President John F. Kennedy, was assassinated on June 5, 1968, in Los Angeles, California, while campaigning for the Democratic nomination for President of the United States. Kennedy was mortally wounded shortly after midnight on June 5, 1968, in the Ambassador Hotel on Wilshire Boulevard in Los Angeles, and died 26 hours later at Good Samaritan Hospital. He was shot by Sirhan Sirhan, a 24-year-old Palestinian man who had become a naturalized United States citizen 10 months earlier. Sirhan was convicted of Kennedy's murder and is serving a life sentence for the crime. 
+
+Coref Resolved: 
+
+Robert F. Kennedy, the United States Senator from New York and brother of President John F. Kennedy, was Kennedy's murder on June 5, 1968, in Los Angeles, California, while campaigning for the Democratic nomination for President of the United States. Robert F. Kennedy, the United States Senator from New York and brother of President John F. Kennedywas mortally wounded shortly after midnight on June 5, 1968, in the Ambassador Hotel on Wilshire Boulevard in Los Angeles, California, and died 26 hours later at Good Samaritan Hospital. Robert F. Kennedy, the United States Senator from New York and brother of President John F. Kennedywas shot by Sirhan Sirhan, a 24-year-old Palestinian man who had become a naturalized United States citizen 10 months earlier. Sirhan Sirhan, a 24-year-old Palestinian man who had become a naturalized United States citizen 10 months earlierwas convicted of Robert F. Kennedy, the United States Senator from New York and brother of President John F. Kennedymurder and is serving a life sentence for Kennedy's murder .
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+The assassination of Robert Francis "Bobby" Kennedy, a United States Senator and brother of assassinated President John Fitzgerald "Jack" Kennedy, took place shortly after midnight on June 5, 1968, in Los Angeles, California, during the campaign season for the United States presidential election. After winning the California and South Dakota primary elections for the Democratic nomination for President of the United States, Kennedy was shot as he walked through the kitchen of the Ambassador Hotel and died in the Good Samaritan Hospital twenty-six hours later. Sirhan Sirhan, a 24-year-old Palestinian Jordanian immigrant, was convicted of Kennedy's murder and is serving a life sentence for the crime. The shooting was recorded on audio tape by a freelance newspaper reporter, and the aftermath was captured on film. Kennedy's body lay in repose at St. Patrick's Cathedral in New York for two days before a funeral mass was held on June 8. His body was interred near his brother John at Arlington National Cemetery. His death prompted the protection of presidential candidates by the United States Secret Service. Hubert Humphrey went on to win the Democratic nomination for the presidency, but ultimately lost the election to Richard Nixon. As with his brother John's death, Kennedy's assassination and the circumstances surrounding it have spawned a variety of conspiracy theories. As of 2015, Kennedy remains one of only two sitting United States Senators to be assassinated, the other being Huey Long. 
+
+Coref Resolved: 
+
+The assassination of Robert Francis "Bobby" Kennedy, a United States Senator and brother of assassinated President John Fitzgerald "Jack" Kennedy, took place shortly after midnight on June 5, 1968, in Los Angeles, California, during the campaign season for the United States presidential election. After winning the Californiaand South Dakota primary elections for the Democratic nomination for President of the United States, Robert Francis "Bobby" Kennedy, a United States Senator and brother of assassinated President John Fitzgerald "Jack" Kennedywas The shooting as Robert Francis "Bobby" Kennedy, a United States Senator and brother of assassinated President John Fitzgerald "Jack" Kennedywalked through the kitchen of the Ambassador Hotel and died in the Good Samaritan Hospital twenty-six hours later. Sirhan Sirhan, a 24-year-old Palestinian Jordanian immigrant, was convicted of Robert Francis "Bobby" Kennedy, a United States Senator and brother of assassinated President John Fitzgerald "Jack" Kennedymurder and is serving a life sentence for The assassination of Robert Francis "Bobby" Kennedy, a United States Senator and brother of assassinated President John Fitzgerald "Jack" Kennedy. The shooting was recorded on audio tape by a freelance newspaper reporter, and the aftermath was captured on film. Robert Francis "Bobby" Kennedy, a United States Senator and brother of assassinated President John Fitzgerald "Jack" Kennedybody lay in repose at St. Patrick's Cathedral in New York for two days before a funeral mass was held on June 8. Robert Francis "Bobby" Kennedy, a United States Senator and brother of assassinated President John Fitzgerald "Jack" Kennedybody was interred near Robert Francis "Bobby" Kennedy, a United States Senator and brother of assassinated President John Fitzgerald "Jack" Kennedybrother John at Arlington National Cemetery. Robert Francis "Bobby" Kennedy, a United States Senator and brother of assassinated President John Fitzgerald "Jack" Kennedydeath prompted the protection of presidential candidates by the United States Secret Service. Hubert Humphrey went on to win the Democratic nomination for the presidency, but ultimately lost the United States presidential electionto Richard Nixon. As with Robert Francis "Bobby" Kennedy, a United States Senator and brother of assassinated President John Fitzgerald "Jack" Kennedybrother John's death, Robert Francis "Bobby" Kennedy, a United States Senator and brother of assassinated President John Fitzgerald "Jack" Kennedyassassination and the circumstances surrounding The assassination of Robert Francis "Bobby" Kennedy, a United States Senator and brother of assassinated President John Fitzgerald "Jack" Kennedyhave spawned a variety of conspiracy theories. As of 2015, Robert Francis "Bobby" Kennedy, a United States Senator and brother of assassinated President John Fitzgerald "Jack" Kennedyremains one of only two sitting United States Senators to be assassinated, the other being Huey Long.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.3793103448275862 and for ground truth is : 0.3815789473684211
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate accurate 
+

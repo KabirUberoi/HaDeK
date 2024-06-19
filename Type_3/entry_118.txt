@@ -1,0 +1,219 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Welsh_people and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Cwmaman and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Cynon_Valley and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Wales and the value is : 0
+http://dbpedia.org/resource/Welsh_people and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Welsh_people and http://dbpedia.org/resource/Cwmaman and the value is : 1
+http://dbpedia.org/resource/Welsh_people and http://dbpedia.org/resource/Cynon_Valley and the value is : 0
+http://dbpedia.org/resource/Welsh_people and http://dbpedia.org/resource/Wales and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Cwmaman and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Cynon_Valley and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Wales and the value is : 0
+http://dbpedia.org/resource/Cwmaman and http://dbpedia.org/resource/Cynon_Valley and the value is : 0
+http://dbpedia.org/resource/Cwmaman and http://dbpedia.org/resource/Wales and the value is : 0
+http://dbpedia.org/resource/Cynon_Valley and http://dbpedia.org/resource/Wales and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Kelly_Jones and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Lead_vocalist and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Lead_guitar and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Bass_guitar and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Backing_vocalist and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Rhythm_guitar and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Jamie_Morrison and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Keyboard_instrument and the value is : 1
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Lead_vocalist and the value is : 0
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Lead_guitar and the value is : 0
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Backing_vocalist and the value is : 0
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Rhythm_guitar and the value is : 0
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Jamie_Morrison and the value is : 0
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Keyboard_instrument and the value is : 1
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Lead_guitar and the value is : 1
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Backing_vocalist and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Rhythm_guitar and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Jamie_Morrison and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Lead_guitar and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Lead_guitar and http://dbpedia.org/resource/Backing_vocalist and the value is : 0
+http://dbpedia.org/resource/Lead_guitar and http://dbpedia.org/resource/Rhythm_guitar and the value is : 0
+http://dbpedia.org/resource/Lead_guitar and http://dbpedia.org/resource/Jamie_Morrison and the value is : 0
+http://dbpedia.org/resource/Lead_guitar and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Lead_guitar and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Backing_vocalist and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Rhythm_guitar and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Jamie_Morrison and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Rhythm_guitar and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Jamie_Morrison and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Rhythm_guitar and http://dbpedia.org/resource/Jamie_Morrison and the value is : 0
+http://dbpedia.org/resource/Rhythm_guitar and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Rhythm_guitar and http://dbpedia.org/resource/Keyboard_instrument and the value is : 1
+http://dbpedia.org/resource/Jamie_Morrison and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/Jamie_Morrison and http://dbpedia.org/resource/Keyboard_instrument and the value is : 1
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Stuart_Cable and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Backing_vocalist and the value is : 1
+http://dbpedia.org/resource/Stuart_Cable and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Stuart_Cable and http://dbpedia.org/resource/Backing_vocalist and the value is : 1
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Backing_vocalist and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/UK_Singles_Chart and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Brit_Awards and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Ivor_Allchurch and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Cwmaman and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Cynon_Valley and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Wales and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Cwmaman and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Cynon_Valley and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Wales and the value is : 0
+http://dbpedia.org/resource/Cwmaman and http://dbpedia.org/resource/Cynon_Valley and the value is : 0
+http://dbpedia.org/resource/Cwmaman and http://dbpedia.org/resource/Wales and the value is : 0
+http://dbpedia.org/resource/Cynon_Valley and http://dbpedia.org/resource/Wales and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Kelly_Jones and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Lead_vocalist and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Lead_guitar and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Backing_vocalist and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Adam and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Jamie_Morrison and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Keyboard_instrument and the value is : 1
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Lead_vocalist and the value is : 0
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Lead_guitar and the value is : 0
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Bass_guitar and the value is : 1
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Backing_vocalist and the value is : 0
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Adam and the value is : 0
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Jamie_Morrison and the value is : 0
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Kelly_Jones and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Lead_guitar and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Backing_vocalist and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Adam and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Jamie_Morrison and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Lead_vocalist and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Lead_guitar and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Lead_guitar and http://dbpedia.org/resource/Backing_vocalist and the value is : 0
+http://dbpedia.org/resource/Lead_guitar and http://dbpedia.org/resource/Adam and the value is : 0
+http://dbpedia.org/resource/Lead_guitar and http://dbpedia.org/resource/Jamie_Morrison and the value is : 0
+http://dbpedia.org/resource/Lead_guitar and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Lead_guitar and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Backing_vocalist and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Adam and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Jamie_Morrison and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Bass_guitar and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Adam and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Jamie_Morrison and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Backing_vocalist and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Adam and http://dbpedia.org/resource/Jamie_Morrison and the value is : 0
+http://dbpedia.org/resource/Adam and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Adam and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Jamie_Morrison and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/Jamie_Morrison and http://dbpedia.org/resource/Keyboard_instrument and the value is : 1
+http://dbpedia.org/resource/Drum_kit and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Stuart_Cable and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Javier_Weyler and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Stuart_Cable and http://dbpedia.org/resource/Javier_Weyler and the value is : 0
+http://dbpedia.org/resource/Stuart_Cable and http://dbpedia.org/resource/Drum_kit and the value is : 1
+http://dbpedia.org/resource/Javier_Weyler and http://dbpedia.org/resource/Drum_kit and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Whisky and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Stereophonics and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Alternative_rock and the value is : 1
+http://dbpedia.org/resource/Whisky and http://dbpedia.org/resource/Stereophonics and the value is : 0
+http://dbpedia.org/resource/Whisky and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Alternative_rock and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Word_Gets_Around and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/More_Life and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/A_Thousand_Trees and the value is : 0
+http://dbpedia.org/resource/Word_Gets_Around and http://dbpedia.org/resource/More_Life and the value is : 1
+http://dbpedia.org/resource/Word_Gets_Around and http://dbpedia.org/resource/A_Thousand_Trees and the value is : 1
+http://dbpedia.org/resource/More_Life and http://dbpedia.org/resource/A_Thousand_Trees and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Theft and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Just_Looking and the value is : 0
+http://dbpedia.org/resource/Theft and http://dbpedia.org/resource/Just_Looking and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Rock_music and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/The_Beatles and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Led_Zeppelin and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Sega_Genesis and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Oasis and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Blur_(band) and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/U2 and the value is : 0
+http://dbpedia.org/resource/The_Beatles and http://dbpedia.org/resource/Led_Zeppelin and the value is : 0
+http://dbpedia.org/resource/The_Beatles and http://dbpedia.org/resource/Sega_Genesis and the value is : 1
+http://dbpedia.org/resource/The_Beatles and http://dbpedia.org/resource/Oasis and the value is : 0
+http://dbpedia.org/resource/The_Beatles and http://dbpedia.org/resource/Blur_(band) and the value is : 0
+http://dbpedia.org/resource/The_Beatles and http://dbpedia.org/resource/U2 and the value is : 1
+http://dbpedia.org/resource/Led_Zeppelin and http://dbpedia.org/resource/Sega_Genesis and the value is : 0
+http://dbpedia.org/resource/Led_Zeppelin and http://dbpedia.org/resource/Oasis and the value is : 0
+http://dbpedia.org/resource/Led_Zeppelin and http://dbpedia.org/resource/Blur_(band) and the value is : 0
+http://dbpedia.org/resource/Led_Zeppelin and http://dbpedia.org/resource/U2 and the value is : 0
+http://dbpedia.org/resource/Sega_Genesis and http://dbpedia.org/resource/Oasis and the value is : 0
+http://dbpedia.org/resource/Sega_Genesis and http://dbpedia.org/resource/Blur_(band) and the value is : 1
+http://dbpedia.org/resource/Sega_Genesis and http://dbpedia.org/resource/U2 and the value is : 0
+http://dbpedia.org/resource/Oasis and http://dbpedia.org/resource/Blur_(band) and the value is : 0
+http://dbpedia.org/resource/Oasis and http://dbpedia.org/resource/U2 and the value is : 0
+http://dbpedia.org/resource/Blur_(band) and http://dbpedia.org/resource/U2 and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Reading_F.C. and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Leeds and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Glastonbury_Festival and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/V_Festival and the value is : 1
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Oxegen and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Reading_F.C. and the value is : 1
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Leeds and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Glastonbury_Festival and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/V_Festival and the value is : 0
+http://dbpedia.org/resource/Republic_of_Ireland and http://dbpedia.org/resource/Oxegen and the value is : 1
+http://dbpedia.org/resource/Reading_F.C. and http://dbpedia.org/resource/Leeds and the value is : 0
+http://dbpedia.org/resource/Reading_F.C. and http://dbpedia.org/resource/Glastonbury_Festival and the value is : 0
+http://dbpedia.org/resource/Reading_F.C. and http://dbpedia.org/resource/V_Festival and the value is : 1
+http://dbpedia.org/resource/Reading_F.C. and http://dbpedia.org/resource/Oxegen and the value is : 0
+http://dbpedia.org/resource/Leeds and http://dbpedia.org/resource/Glastonbury_Festival and the value is : 0
+http://dbpedia.org/resource/Leeds and http://dbpedia.org/resource/V_Festival and the value is : 0
+http://dbpedia.org/resource/Leeds and http://dbpedia.org/resource/Oxegen and the value is : 0
+http://dbpedia.org/resource/Glastonbury_Festival and http://dbpedia.org/resource/V_Festival and the value is : 1
+http://dbpedia.org/resource/Glastonbury_Festival and http://dbpedia.org/resource/Oxegen and the value is : 1
+http://dbpedia.org/resource/V_Festival and http://dbpedia.org/resource/Oxegen and the value is : 0
+http://dbpedia.org/resource/Stereophonics and http://dbpedia.org/resource/Music_of_Cardiff and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Stereophonics are a Welsh rock band that formed in 1992 in the village of Cwmaman in Cynon Valley, Wales. The band consists of Kelly Jones (lead vocals, lead guitar), Richard Jones (bass guitar, backing vocals), Adam Zindani (rhythm guitar, backing vocals), Jamie Morrison (drums, percussion) and touring member Tony Kirkham (keyboards). The group previously included Stuart Cable (drums, percussion, backing vocals) from 1992 until his departure in 2003. Stereophonics have released nine studio albums, including six UK number one albums. The band have sold over 10 million albums worldwide. The band have also achieved seventeen Top 10 singles on the UK Singles Chart, including "Dakota" which hit number one in 2005. The band have been nominated for five Brit Awards, winning Best British Group in 2002. They have also won two Ivor Novello Awards for songwriting. 
+
+Coref Resolved: 
+
+Stereophonics are a Welsh rock band that formed in 1992 in the village of Cwmaman in Cynon Valley, Wales. Stereophonics consists of Kelly Jones (lead vocals, lead guitar), Richard Jones (bass guitar, backing vocals), Adam Zindani (rhythm guitar, backing vocals), Jamie Morrison (drums, percussion) and touring member Tony Kirkham (keyboards). Stereophonics previously included Stuart Cable (drums, percussion, backing vocals) from 1992 until Stuart Cable (drums, percussion, backing vocals) departure in 2003. Stereophonics have released nine studio albums, including six UK number one albums. Stereophonics have sold over 10 million albums worldwide. Stereophonics have also achieved seventeen Top 10 singles on the UK Singles Chart, including "Dakota" which hit number one in 2005. Stereophonics have been nominated for five Brit Awards, winning Best British Group in 2002. Stereophonics have also won two Ivor Novello Awards for songwriting.
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Stereophonics are a Welsh rock band that formed in 1992 in the village of Cwmaman in Cynon Valley, Wales. The band currently comprises Kelly Jones (lead vocals and guitar), Richard Jones (bass guitar and backing vocals), Adam Zindani (guitar and backing vocals), Jamie Morrison (drums) and touring member Tony Kirkham (keyboards). The group previously included Stuart Cable (1992 2003) and Javier Weyler (2004 2012) on drums. Stereophonics have released eight studio albums, including five consecutive UK number one albums, their latest album being 2013's "Graffiti on the Train". A successful compilation album, ", was released in November 2008 and charted at number two in the United Kingdom. Described as "classic UK rock delivered with whiskey vocals", the band have been summarised as possessing a sound akin to the genres of alternative rock and "British traditional rock". Stereophonics' debut album, "Word Gets Around", was released in August 1997 and charted at number six in the UK, aided by the singles "Local Boy in the Photograph", "More Life in a Tramps Vest" and "A Thousand Trees". The band reached mainstream success with the release of "Performance and Cocktails" (and its promotional singles "The Bartender and the Thief", "Just Looking" and "Pick a Part That's New") in 1999 and have achieved a total of ten top-ten singles as well as one number one 2005's "Dakota". Having sold around 9 million copies worldwide, Stereophonics are one of the most successful Welsh rock acts. Upon their release of "Pull the Pin", they became the eighth group to achieve five consecutive UK number one albums (after The Beatles, Led Zeppelin, ABBA, Genesis, Oasis, Blur and U2). The band have also been praised for their live performances, which have landed them headlining slots at many of the UK and Ireland's most high-profile music festivals, including Reading and Leeds in 2000, Glastonbury in 2002, V Festival in 2002, the Isle of Wight in 2004 and 2009, and Oxegen in 2010. The band is part of the Cardiff music scene. 
+
+Coref Resolved: 
+
+Stereophonics are a Welsh rock band that formed in 1992 in the village of Cwmaman in Cynon Valley, Wales. Stereophonics currently comprises Kelly Jones (lead vocals and guitar), Richard Jones (bass guitar and backing vocals), Adam Zindani (guitar and backing vocals), Jamie Morrison (drums) and touring member Tony Kirkham (keyboards). Stereophonics previously included Stuart Cable (1992 2003) and Javier Weyler (2004 2012) on drums. Stereophonics have released eight studio albums, including five consecutive UK number one albums, Stereophonics latest album being 2013's "Graffiti on the Train". A successful compilation album, ", was released in November 2008 and charted at number two in the United Kingdom. Described as "classic UK rock delivered with whiskey vocals", Stereophonics have been summarised as possessing a sound akin to the genres of alternative rock and "British traditional rock". Stereophonics debut album, "Word Gets Around", was released in August 1997 and charted at number six in the United Kingdom, aided by the singles "Local Boy in the Photograph", "More Life in a Tramps Vest" and "A Thousand Trees". Stereophonics reached mainstream success with the release of "Performance and Cocktails" (and "Performance and Cocktails" promotional singles "The Bartender and the Thief", "Just Looking" and "Pick a Part That's New") in 1999 and have achieved a total of ten top-ten singles as well as one number one 2005's "Dakota". Having sold around 9 million copies worldwide, Stereophonics are one of the most successful Welsh rock acts. Upon Stereophonics release of "Pull the Pin", Stereophonics became the eighth group to achieve five consecutive UK number one albums (after The Beatles, Led Zeppelin, ABBA, Genesis, Oasis, Blur and U2). Stereophonics have also been praised for Stereophonics live performances, which have landed Stereophonics headlining slots at many of the UK and Ireland's most high-profile music festivals, including Reading and Leeds in 2000, Glastonbury in 2002, V Festival in 2002, the Isle of Wight in 2004 and 2009, and Oxegen in 2010. Stereophonics is part of the Cardiff music scene.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2463768115942029 and for ground truth is : 0.275
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate minor_inaccurate accurate minor_inaccurate major_inaccurate 
+

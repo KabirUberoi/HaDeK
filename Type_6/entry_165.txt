@@ -1,0 +1,38 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Spain and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Lorca_FC and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Alicante and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Zarzuela and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Spain and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Spain and the value is : 0
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Género_chico and the value is : 1
+http://dbpedia.org/resource/Carlos_Arniches and http://dbpedia.org/resource/Playwright and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Carlos Arniches y Barrera (1866 1943) was a Spanish dramatist and novelist. He was born in Alicante, Spain, and studied law in Madrid. He began writing plays in 1891, and his first success was El cabo primero (1893). He wrote more than fifty plays, many of which were adapted for the cinema. He also wrote novels, short stories, and essays. He was a member of the Generation of '98, a group of Spanish writers who sought to revive Spanish literature after the decline of Romanticism. He was also a member of the Royal Spanish Academy. He died in Madrid in 1943. 
+
+Coref Resolved: 
+
+Carlos Arniches y Barrera (1866 1943) was a Spanish dramatist and novelist. Carlos Arniches y Barrera (1866 1943) was born in Alicante, Spain, and studied law in Madrid. Carlos Arniches y Barrera (1866 1943) began writing plays in 1891, and Carlos Arniches y Barrera (1866 1943) first success was El cabo primero (1893). Carlos Arniches y Barrera (1866 1943) wrote more than fifty plays, many of which were adapted for the cinema. Carlos Arniches y Barrera (1866 1943) also wrote novels, short stories, and essays. Carlos Arniches y Barrera (1866 1943) was a member of the Generation of '98, a group of Spanish writers who sought to revive Spanish literature after the decline of Romanticism. Carlos Arniches y Barrera (1866 1943) was also a member of the Royal Spanish Academy. Carlos Arniches y Barrera (1866 1943) died in Madridin 1943.
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Carlos Arniches (11 October 1866 - 16 April 1943) was a Spanish playwright, born in Alicante. His prolific work, drawing on the traditions of the género chico, the zarzuela and the grotesque, came to dominate Spanish comic theatre in the early twentieth century. After starting his career as a novelist and journalist, Arniches turned to theatre in 1888 with the publication of his first play, "Casa Editorial". Much of his work is set in lower-class Madrid and uses colloquial language, song, dance and music. Arniches was complimented in a 1935 interview by Federico García Lorca, often a scathing critic of Spanish theatre in the 1920s and 1930s, as "more of a poet than almost any of those who are writing theatre in verse at the moment". Following the consolidation of the Franco regime after the Spanish Civil War, the social dramas of Carlos Arniches were among the relatively non-controversial plays allowed by the new government. 
+
+Coref Resolved: 
+
+Carlos Arniches (11 October 1866 - 16 April 1943) was a Spanish playwright, born in Alicante. Carlos Arniches prolific work, drawing on the traditions of the género chico, the zarzuela and the grotesque, came to dominate Spanish comic theatre in the early twentieth century. After starting Carlos Arniches career as a novelist and journalist, Carlos Arniches turned to theatre in 1888 with the publication of Carlos Arniches first play, "Casa Editorial". Much of Carlos Arniches work is set in lower-class Madrid and uses colloquial language, song, dance and music. Carlos Arniches was complimented in a 1935 interview by Federico García Lorca, often a scathing critic of Spanish theatre in the 1920s and 1930s, as "more of a poet than almost any of those who are writing theatre in verse at the moment". Following the consolidation of the Franco regime after the Spanish Civil War, the social dramas of Carlos Arniches were among the relatively non-controversial plays allowed by the new government.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0 and for ground truth is : 0.5
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate major_inaccurate major_inaccurate accurate accurate major_inaccurate accurate 
+

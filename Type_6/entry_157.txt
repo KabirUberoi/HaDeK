@@ -1,0 +1,36 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Barbara_Billingsley and http://dbpedia.org/resource/Robert_F._Kennedy and the value is : 0
+http://dbpedia.org/resource/Barbara_Billingsley and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/Barbara_Billingsley and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Barbara_Billingsley and http://dbpedia.org/resource/Starlight_Express and the value is : 0
+http://dbpedia.org/resource/Barbara_Billingsley and http://dbpedia.org/resource/Hollywood_Burbank_Airport and the value is : 0
+http://dbpedia.org/resource/Barbara_Billingsley and http://dbpedia.org/resource/June_Cleaver and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+"Rusty Stevens (born Russell Stevens Jr., October 5, 1932 October 24, 2000) was an American actor. He is best known for his role as Larry Mondello on the television series Leave It to Beaver. Stevens was born in Los Angeles, California, the son of Russell Stevens Sr. and his wife, the former Dorothy M. Smith. He began his acting career at the age of seven, appearing in the 1939 film The Story of Alexander Graham Bell. He went on to appear in numerous films and television shows, including The Adventures of Ozzie and Harriet, The Donna Reed Show, The Many Loves of Dobie Gillis, and The Monkees. In 1957, Stevens was cast as Larry Mondello, the Beaver's best friend, on Leave It to Beaver. He appeared in all 234 episodes of the series, which ran until 1963. After the show ended, Stevens continued to act in films and television, appearing in such shows as The Munsters, The Monkees, and The Brady Bunch. He retired from acting in the late 1970s." 
+
+Coref Resolved: 
+
+"Rusty Stevens (born Russell Stevens Jr., October 5, 1932 October 24, 2000) was an American actor. Rusty Stevens is best known for Rusty Stevens role as Larry Mondello on the television series Leave It to Beaver. Rusty Stevens was born in Los Angeles, California, the son of Russell Stevens Sr. and Russell Stevens Sr. wife, the former Dorothy M. Smith. Rusty Stevens began Rusty Stevens acting career at the age of seven, appearing in the 1939 film The Story of Alexander Graham Bell. Rusty Stevens went on to appear in numerous films and television shows, including The Adventures of Ozzie and Harriet, The Donna Reed Show, The Many Loves of Dobie Gillis, and The Monkees. In 1957, Rusty Stevens was cast as Larry Mondello , on the television series Leave It to Beaver. Rusty Stevens appeared in all 234 episodes of the television series Leave It to Beaver. After the television series Leave It to Beaverended, Rusty Stevens continued to act in films and television, appearing in such shows as The Munsters, The Monkees, and The Brady Bunch. Rusty Stevens retired from acting in the late 1970s."
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Robert "Rusty" Stevens (born November 25, 1948) is an American former child actor best remembered for his role as Larry Mondello, Theodore "Beaver" Cleaver's young friend, in the original "Leave It to Beaver" television series. Stevens appeared in 68 of the show's 235 episodes, between 1957 and 1960. Stevens was reported to have left the show in 1960 because his family moved from Burbank to Philadelphia, Pennsylvania, although Barbara Billingsley, who played "June Cleaver" on the series, said in a TV archive interview that Stevens was dropped because his overbearing mother caused grief for the producers of the series. After 1960, Stevens appeared in a handful of television episodes on other shows, including the NBC family drama "National Velvet". He was also cast as a schoolboy bully on an episode of ABC's "The Rifleman". Stevens briefly returned to the screen when he reprised his role as Larry Mondello in the 1983 made-for-television reunion movie, "Still the Beaver", and for three episodes of "The New Leave It to Beaver". 
+
+Coref Resolved: 
+
+Robert "Rusty" Stevens (born November 25, 1948) is an American former child actor best remembered for Robert "Rusty" Stevens role as Larry Mondello, Theodore "Beaver" Cleaver's young friend, in the original "Leave It to Beaver" television series. Robert "Rusty" Stevens appeared in 68 of the original "Leave It to Beaver" television series235 episodes, between 1957 and 1960. Robert "Rusty" Stevens was reported to have left the original "Leave It to Beaver" television seriesin 1960because Robert "Rusty" Stevens family moved from Burbank to Philadelphia, Pennsylvania, although Barbara Billingsley, who played "June Cleaver" on the original "Leave It to Beaver" television series, said in a TV archive interview that Robert "Rusty" Stevens was dropped because Robert "Rusty" Stevens overbearing mother caused grief for the producers of the original "Leave It to Beaver" television series. After 1960, Robert "Rusty" Stevens appeared in a handful of television episodes on other shows, including the NBC family drama "National Velvet". Robert "Rusty" Stevens was also cast as a schoolboy bully on an episode of ABC's "The Rifleman". Robert "Rusty" Stevens briefly returned to the screen when Robert "Rusty" Stevens reprised Robert "Rusty" Stevens role as Larry Mondello, Theodore "Beaver" Cleaver's young friendin the 1983 made-for-television reunion movie, "Still the Beaver", and for three episodes of "The New Leave It to Beaver".
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0 and for ground truth is : 0.16666666666666666
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate major_inaccurate major_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate 
+

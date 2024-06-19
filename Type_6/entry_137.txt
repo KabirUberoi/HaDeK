@@ -1,0 +1,34 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/EFL_League_One and the value is : 1
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Football_in_Scotland and the value is : 0
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Burton_Albion_F.C. and the value is : 0
+http://dbpedia.org/resource/Paul_Caddis and http://dbpedia.org/resource/Association_football and the value is : 1
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Paul Caddis (born 28 October 1988) is a Scottish professional footballer who plays as a right back for League One club Burton Albion. Caddis began his career with Celtic, making his debut in 2006. He spent time on loan at Dundee and Dundee United before joining Swindon Town in 2010. He was named in the PFA League One Team of the Year in 2012 13, and was appointed captain of Swindon in 2013. He joined Birmingham City in 2014, and was part of the team that won the Football League Trophy in the same year. He joined Blackburn Rovers in 2016, and was loaned to Burton Albion in 2017. He signed permanently for Burton in 2018. Caddis has represented Scotland at under-19 and under-21 level. 
+
+Coref Resolved: 
+
+Paul Caddis (born 28 October 1988) is a Scottish professional footballer who plays as a right back for League One club Burton Albion. Caddis began Caddis career with Celtic, making Caddis debut in 2006. Caddis spent time on loan at Dundee and Dundee United before joining Swindon Town in 2010. Caddis was named in the PFA League One Team of the Year in 2012 13, and was appointed captain of Swindon Town in 2013. Caddis joined Birmingham City in the same year, and was part of the team that won the Football League Trophy in the same year. Caddis joined Blackburn Rovers in 2016, and was loaned to Burton Albion in 2017. Caddis signed permanently for Burton Albion in 2018. Caddis has represented Scotland at under-19 and under-21 level.
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Paul McLean Caddis (born 19 April 1988) is a Scottish footballer who plays for English Championship club Birmingham City. He predominantly plays as either a right back or right winger, but due to his versatility and having two good feet, he can also play at left back and anywhere across the midfield. He has played for both Celtic and Swindon Town in all positions apart from striker and goalkeeper. Caddis started his career with Scottish Premier League club Celtic. He broke into the first team during the 2007 08 season, but never managed to hold down a starting place over the next few years. He spent the second half of the 2008 09 season on loan to Dundee United. Caddis was sold to English League One club Swindon Town in August 2010. He spent the 2012 13 season on loan to Birmingham City, and joined the club on a permanent contract in September 2013. Caddis played regularly for the Scotland under-21 team and also captained the side. 
+
+Coref Resolved: 
+
+Paul McLean Caddis (born 19 April 1988) is a Scottish footballer who plays for English Championship club Birmingham City. Caddis predominantly plays as either a right back or right winger, but due to Caddis versatility and having two good feet, Caddis can also play at left back and anywhere across the midfield. Caddis has played for both Celtic and Swindon Town in all positions apart from striker and goalkeeper. Caddis started Caddis career with Celtic . Caddis broke into the first team during the 2007 08 season, but never managed to hold down a starting place over the next few years. Caddis spent the second half of the 2008 09 season on loan to Dundee United. Caddis was sold to Swindon Town in August 2010. Caddis spent the 2012 13 season on loan to English Championship club Birmingham City, and joined English Championship club Birmingham Cityon a permanent contract in September 2013. Caddis played regularly for the Scotland under-21 team and also captained the Scotland under-21 team .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.5 and for ground truth is : 0
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate accurate 
+

@@ -1,0 +1,102 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/The_Sun_Makers and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/William_Blake and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Avon_Products and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Doctor_Who and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/English_people and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Royal_Academy_of_Arts and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/West_End_theatre and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Minder and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/EastEnders and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Kamelion and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/The_Professionals_(TV_series) and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Mario_Artist and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/BBC and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Minder and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Travis_Nash and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/William_Blake and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Gynoid and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Hunter_Hunted_(band) and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Doctor_Who and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Police_dog and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/The_Professionals_(TV_series) and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/English_literature and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Associated-Rediffusion and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Cinema_of_Japan and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Radio_drama and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Mawdryn_Undead and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Revenge and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Ken_Russell and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Big_Finish_Productions and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/The_Love_School and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Danger_Man and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Gravity_Falls and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Doctor_Who and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/William_Wilberforce and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Slavery and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Anthony_Babington and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Unidentified_flying_object and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/William_Blake and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/John_Ruskin and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Cyberman and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Doctor_Who_Unbound and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Imagination and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Television_in_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Paul_the_Apostle and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Royal_Exchange_Assurance_Corporation and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Ghost_Stories_(Coldplay_album) and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Press_Gang and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Legolas and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Edward_II_of_England and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Ebenezer_Scrooge and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Elizabeth_R and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Isuzu_Journey and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Midnight and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Brighton and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/William_Pitt_the_Younger and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/George_IV_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Charn and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/James_VI_and_I and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Bob_Cratchit and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/BBC_Radio_4 and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/East_Sussex and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/BBC_Television and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Fyodor_Dostoevsky and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Pre-Raphaelite_Brotherhood and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Manchester and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Percy_Grainger and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Sapphire and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Deva_Victrix and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Kaldor_City and the value is : 1
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Golden_Age_of_Radio and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Science_fiction_on_television and the value is : 0
+http://dbpedia.org/resource/David_Collings and http://dbpedia.org/resource/Full_Fathom_Five_(album) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+David Collings (born 3 May 1940) is an English actor. He is best known for his roles in television series such as Doctor Who, Blake's 7, The Professionals, Minder, and EastEnders. Collings was born in London and trained at the Royal Academy of Dramatic Art. He made his stage debut in 1962, and his first television appearance was in the BBC's Play of the Month in 1965. He has since appeared in numerous television series, including Doctor Who, in which he played the villainous Vorus in the 1977 serial The Sun Makers, and the android Kamelion in the 1983 serial Planet of Fire. He also appeared in the Doctor Who spin-off K-9 and Company in 1981. Collings has also appeared in the science fiction series Blake's 7, playing the role of Servalan's aide, Avon's nemesis, Travis, in the first two series. He also appeared in the BBC drama series The Professionals, playing the role of the villainous Mr. Jones in the episode "Hunter Hunted". He has also appeared in the ITV drama series Minder, 
+
+Coref Resolved: 
+
+David Collings (born 3 May 1940) is an English actor. David Collings is best known for David Collings roles in television series such as Doctor Who, Blake's 7, The Professionals, Minder, and EastEnders. David Collings was born in London and trained at the Royal Academy of Dramatic Art. David Collings made David Collings stage debut in 1962, and David Collings first television appearance was in the BBC's Play of the Month in 1965. David Collings has since appeared in numerous television series, including Doctor Who, in which David Collings played the villainous Vorus in the 1977 serial The Sun Makers, and the android Kamelion in the 1983 serial Planet of Fire. David Collings also appeared in the Doctor Whospin-off K-9 and Company in 1981. David Collings has also appeared in Blake's 7, playing the role of Servalan's aide, Avon's nemesis, Travis, in the first two series. David Collings also appeared in The Professionals, playing the role of the villainous Mr. Jones in the episode "Hunter Hunted". David Collings has also appeared in Minder,
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+David Collings (born 4 June 1940 in Brighton, East Sussex) is an English actor. He has played various roles on television, including the leading dramatic role in Fyodor Dostoyevsky's "Crime and Punishment" in 1964 (with Associated-Rediffusion Television). Collings has played historical characters such as Percy Grainger in Ken Russell's "Song of Summer" (1968), John Ruskin in "The Love School" (1975), a BBC series about the Pre-Raphaelites, and Sir Anthony Babington in "Elizabeth R". In 1975, he portrayed William Wilberforce in "The Fight Against Slavery", and starred as William Pitt in "Prince Regent" in 1979. He appeared three times in the long-running British science fiction television series "Doctor Who", including Vorus in "Revenge of the Cybermen", Poul in "The Robots of Death" and Mawdryn in the serial "Mawdryn Undead". He has also played an alternate Doctor in one of the audio plays by Big Finish Productions in the "Doctor Who Unbound" series, "Full Fathom Five". Collings returned to the role of Poul, now named Paulus, in the episode "Hidden Persuaders" of the audio drama series "Kaldor City". On radio, he portrayed Legolas in the BBC Radio 4 adaptation of "The Lord of the Rings". He also appeared as Deva in the final episode of "Blake's 7" and as the character of 'Silver' in several of the "Sapphire and Steel" adventures. He also appeared in the TV series "Danger Man", "Mystery and Imagination", "UFO" and "Gideon's Way", in which he played an emotionally disturbed man attacking young women in the episode "The Prowler". Collings played the character of Bob Cratchit in the 1970 film musical adaptation of "Scrooge". He did the voice acting for the Japanese television series "Journey to the West", released in English-speaking countries as "Monkey". In 2006, Collings was the reader of the critically acclaimed recordings of "The Complete Ghost Stories of M. R. James". He is also noted for his children's television appearances, including the role of Julian Oakapple in "Midnight is a Place" (1977). In 1989, he played Charn (the villain) in "Through the Dragon's Eye" and had a recurring role as the headmaster in "Press Gang" from 1989-1993. He played the parts of Mortimer the Elder and Matrevis in the summer 2011 production of Edward II at the Royal Exchange, Manchester, which also featured Sam Collings. 
+
+Coref Resolved: 
+
+David Collings (born 4 June 1940 in Brighton, East Sussex) is an English actor. David Collings has played various roles on television, including the leading dramatic role in Fyodor Dostoyevsky's "Crime and Punishment" in 1964 (with Associated-Rediffusion Television). David Collings has played historical characters such as Percy Grainger in Ken Russell's "Song of Summer" (1968), John Ruskin in "The Love School" (1975), a BBC series about the Pre-Raphaelites, and Sir Anthony Babington in "Elizabeth R". In 1975, David Collings portrayed William Wilberforce in "The Fight Against Slavery", and starred as William Pitt in "Prince Regent" in 1979. David Collings appeared three times in the long-running British science fiction television series "Doctor Who", including Vorus in "Revenge of the Cybermen", Poul in "The Robots of Death" and Mawdryn in the serial "Mawdryn Undead". David Collings has also played an alternate Doctor in one of the audio plays by Big Finish Productions in the "Doctor Who Unbound" series, "Full Fathom Five". David Collings returned to the role of Poul , now named Paulus, in the episode "Hidden Persuaders" of the audio drama series "Kaldor City". On radio, David Collings portrayed Legolas in the BBC Radio 4 adaptation of "The Lord of the Rings". David Collings also appeared as Deva in the final episode of "Blake's 7" and as the character of 'Silver' in several of the "Sapphire and Steel" adventures. David Collings also appeared in the TV series "Danger Man", "Mystery and Imagination", "UFO" and "Gideon's Way", in which David Collings played an emotionally disturbed man attacking young women in the episode "The Prowler". David Collings played the character of Bob Cratchit in the 1970 film musical adaptation of "Scrooge". David Collings did the voice acting for the Japanese television series "Journey to the West", released in English-speaking countries as "Monkey". In 2006, David Collings was the reader of the critically acclaimed recordings of "The Complete Ghost Stories of M. R. James". David Collings is also noted for David Collings children's television appearances, including the role of Julian Oakapple in "Midnight is a Place" (1977). In 1989, David Collings played Charn (the villain) in "Through the Dragon's Eye" and had a recurring role as the headmaster in "Press Gang" from 1989-1993. David Collings played the parts of Mortimer the Elder and Matrevis in the summer 2011 production of Edward II at the Royal Exchange, Manchester, which also featured David Collings .
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.19047619047619047 and for ground truth is : 0.39215686274509803
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

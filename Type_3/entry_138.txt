@@ -1,0 +1,193 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Cleveland and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Cleveland and http://dbpedia.org/resource/Chicago and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Illinois and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Kip_Winger and the value is : 1
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Reb_Beach and the value is : 1
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Rod_Morgenstein and the value is : 1
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Kip_Winger and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Reb_Beach and the value is : 0
+http://dbpedia.org/resource/Los_Angeles and http://dbpedia.org/resource/Rod_Morgenstein and the value is : 0
+http://dbpedia.org/resource/Kip_Winger and http://dbpedia.org/resource/Reb_Beach and the value is : 0
+http://dbpedia.org/resource/Kip_Winger and http://dbpedia.org/resource/Rod_Morgenstein and the value is : 0
+http://dbpedia.org/resource/Reb_Beach and http://dbpedia.org/resource/Rod_Morgenstein and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Paul_Horowitz and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Paul_Horowitz and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Paul_Horowitz and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Sammy_Hagar and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Gary_Pihl and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Martin_Crane and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Aldo_Nova and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Steve_Perry and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Alice_Cooper and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Tommy_Shaw and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Sammy_Hagar and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Gary_Pihl and the value is : 1
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Martin_Crane and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Aldo_Nova and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Steve_Perry and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Alice_Cooper and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Tommy_Shaw and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Sammy_Hagar and the value is : 1
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Gary_Pihl and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Martin_Crane and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Aldo_Nova and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Steve_Perry and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Alice_Cooper and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Tommy_Shaw and the value is : 0
+http://dbpedia.org/resource/Sammy_Hagar and http://dbpedia.org/resource/Boston and the value is : 0
+http://dbpedia.org/resource/Sammy_Hagar and http://dbpedia.org/resource/Gary_Pihl and the value is : 0
+http://dbpedia.org/resource/Sammy_Hagar and http://dbpedia.org/resource/Martin_Crane and the value is : 0
+http://dbpedia.org/resource/Sammy_Hagar and http://dbpedia.org/resource/Aldo_Nova and the value is : 0
+http://dbpedia.org/resource/Sammy_Hagar and http://dbpedia.org/resource/Steve_Perry and the value is : 0
+http://dbpedia.org/resource/Sammy_Hagar and http://dbpedia.org/resource/Alice_Cooper and the value is : 0
+http://dbpedia.org/resource/Sammy_Hagar and http://dbpedia.org/resource/Tommy_Shaw and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Gary_Pihl and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Martin_Crane and the value is : 1
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Aldo_Nova and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Steve_Perry and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Alice_Cooper and the value is : 0
+http://dbpedia.org/resource/Boston and http://dbpedia.org/resource/Tommy_Shaw and the value is : 0
+http://dbpedia.org/resource/Gary_Pihl and http://dbpedia.org/resource/Martin_Crane and the value is : 0
+http://dbpedia.org/resource/Gary_Pihl and http://dbpedia.org/resource/Aldo_Nova and the value is : 1
+http://dbpedia.org/resource/Gary_Pihl and http://dbpedia.org/resource/Steve_Perry and the value is : 0
+http://dbpedia.org/resource/Gary_Pihl and http://dbpedia.org/resource/Alice_Cooper and the value is : 0
+http://dbpedia.org/resource/Gary_Pihl and http://dbpedia.org/resource/Tommy_Shaw and the value is : 0
+http://dbpedia.org/resource/Martin_Crane and http://dbpedia.org/resource/Aldo_Nova and the value is : 0
+http://dbpedia.org/resource/Martin_Crane and http://dbpedia.org/resource/Steve_Perry and the value is : 0
+http://dbpedia.org/resource/Martin_Crane and http://dbpedia.org/resource/Alice_Cooper and the value is : 0
+http://dbpedia.org/resource/Martin_Crane and http://dbpedia.org/resource/Tommy_Shaw and the value is : 0
+http://dbpedia.org/resource/Aldo_Nova and http://dbpedia.org/resource/Steve_Perry and the value is : 0
+http://dbpedia.org/resource/Aldo_Nova and http://dbpedia.org/resource/Alice_Cooper and the value is : 0
+http://dbpedia.org/resource/Aldo_Nova and http://dbpedia.org/resource/Tommy_Shaw and the value is : 0
+http://dbpedia.org/resource/Steve_Perry and http://dbpedia.org/resource/Alice_Cooper and the value is : 0
+http://dbpedia.org/resource/Steve_Perry and http://dbpedia.org/resource/Tommy_Shaw and the value is : 0
+http://dbpedia.org/resource/Alice_Cooper and http://dbpedia.org/resource/Tommy_Shaw and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Canadians and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Aldo_Nova and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Canadians and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Aldo_Nova and the value is : 0
+http://dbpedia.org/resource/Canadians and http://dbpedia.org/resource/Aldo_Nova and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Paul_Schuster_Taylor and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Kip_Winger and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Raise_Your_Fist and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Hibu and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Kip_Winger and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Raise_Your_Fist and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Hibu and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Kip_Winger and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Raise_Your_Fist and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Hibu and the value is : 0
+http://dbpedia.org/resource/Kip_Winger and http://dbpedia.org/resource/Raise_Your_Fist and the value is : 1
+http://dbpedia.org/resource/Kip_Winger and http://dbpedia.org/resource/Hibu and the value is : 0
+http://dbpedia.org/resource/Raise_Your_Fist and http://dbpedia.org/resource/Hibu and the value is : 0
+http://dbpedia.org/resource/Kip_Winger and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Kip_Winger and http://dbpedia.org/resource/Paul_Schuster_Taylor and the value is : 0
+http://dbpedia.org/resource/Kip_Winger and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Reb_Beach and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Kip_Winger and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Reb_Beach and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Kip_Winger and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Reb_Beach and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Kip_Winger and the value is : 0
+http://dbpedia.org/resource/Reb_Beach and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Reb_Beach and http://dbpedia.org/resource/Kip_Winger and the value is : 0
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/Kip_Winger and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/New_York_City and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Steve_Perry and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Steve_Perry and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Reb_Beach and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Tommy_Shaw and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Reb_Beach and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Tommy_Shaw and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Reb_Beach and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Tommy_Shaw and the value is : 0
+http://dbpedia.org/resource/Reb_Beach and http://dbpedia.org/resource/Tommy_Shaw and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Greatest_hits_album and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Kip_Winger and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Kip_Winger and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Kip_Winger and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Cinderella and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Keyboardist and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Cinderella and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Keyboardist and the value is : 0
+http://dbpedia.org/resource/Cinderella and http://dbpedia.org/resource/Keyboardist and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Paul_Schuster_Taylor and http://dbpedia.org/resource/Babylon and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/California and http://dbpedia.org/resource/Babylon and the value is : 0
+http://dbpedia.org/resource/Rock_music and http://dbpedia.org/resource/Babylon and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Paul Taylor (born Paul Taylor Winger on April 19, 1959) is an American singer-songwriter, multi-instrumentalist, and record producer. He is best known as the lead singer and songwriter of the band Winger. Taylor is also a solo artist, having released two albums, and has written and produced songs for other artists. Taylor was born in Cleveland, Ohio, and grew up in the suburbs of Chicago. He began playing guitar at the age of 12, and by the time he was 15, he was playing in local bands. He attended the University of Illinois at Urbana-Champaign, where he studied music and theater. After college, he moved to Los Angeles and formed the band Winger with Kip Winger, Reb Beach, and Rod Morgenstein. The band released four albums between 1988 and 1993, and had several hit singles, including "Seventeen" and "Headed for a Heartbreak". Taylor left Winger in 1994 to pursue a solo career. He released his debut solo album, Another Place and Time, in 1998. 
+
+Coref Resolved: 
+
+Paul Taylor (born Paul Taylor Winger on April 19, 1959) is an American singer-songwriter, multi-instrumentalist, and record producer. Paul Taylor is best known as the lead singer and songwriter of the band Winger. Paul Taylor is also a solo artist, having released two albums, and has written and produced songs for other artists. Paul Taylor was born in Cleveland, Ohio, and grew up in the suburbs of Chicago. Paul Taylor began playing guitar at the age of 12, and by the time Paul Taylor was 15, Paul Taylor was playing in local bands. Paul Taylor attended the University of Illinois at Urbana-Champaign, where Paul Taylor studied music and theater. After college, Paul Taylor moved to Los Angeles and formed the band Wingerwith Kip Winger, Reb Beach, and Rod Morgenstein. the band Wingerreleased four albums between 1988 and 1993, and had several hit singles, including "Seventeen" and "Headed for a Heartbreak". Paul Taylor left the band Wingerin 1994 to pursue a solo career. Paul Taylor released Paul Taylor debut solo album, Another Place and Time, in 1998.
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitz, is an American musician, who is best known as the keyboardist guitarist with the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014). Although he is perhaps most frequently associated with Winger, Taylor has also played with numerous other prominent musicians, including future Sammy Hagar and Boston guitarist Gary Pihl (in his early days), Eric Martin (solo artist and future Mr. Big frontman), Aldo Nova, Steve Perry of Journey, Alice Cooper, and Tommy Shaw. Taylor experienced his first mainstream success in the early 1980s as the touring keyboardist in Canadian musician Aldo Nova's backing band, and he appears in the music video for Nova's biggest hit, "Fantasy." Prior to forming Winger, Taylor and Kip Winger were both playing with Alice Cooper's backing band on the tours for Cooper's mid-80s albums, "Constrictor" (1986) and "Raise Your Fist and Yell" (1987). During this time, the two began composing songs together and, while on break from touring, recorded what would become the first Winger demos. Whereas Kip left Alice's band prior to the European leg of the 1987 tour, Paul remained on board for the European dates. However, in the midst of touring Europe, Paul received a call from Kip, who had been working with future Winger lead guitarist Reb Beach recording more demos in New York, informing him that he had gotten a record deal. After the European tour was finished, Paul flew straight back to New York, and the Winger project (initially known as "Sahara") began rehearsing and recording their debut album. Taylor remained in Winger throughout the band's most successful period, which included the two smash albums, "Winger" and "In the Heart of the Young". However, after the tour supporting the latter album ended in 1991, Taylor left the band in early 1992, citing exhaustion and a desire to write and get involved with other projects. Throughout the 1990s, Taylor immersed himself in numerous other projects, perhaps the most prolific of which was recording and touring with Steve Perry for his 1994 solo album. In 1998, he returned to the Alice Cooper band (this time, alongside fellow former Winger guitarist Reb Beach), and once that tour ended, he embarked on a brief tour with Tommy Shaw. Winger reunited in 2001 to record new material for a "Greatest Hits" album. Although it is unclear whether Taylor participated in these recording sessions, he did later join the band on the supporting tour. Though Paul was asked by Kip Winger to rejoin the band again to work on their 2006 reunion album, he declined because he was already involved with other projects. More recently, Taylor has become involved in composing music for television series programs and has also been pursuing his passion for photography. He also spent the summer months of 2012 touring with Cinderella throughout the U.S. playing keyboards for them. He returned to Winger during mid-2013 and performed with them on select tour dates up through early 2014 and appeared in the Queen Babylon released in late 2014. 
+
+Coref Resolved: 
+
+Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitz, is an American musician, who is best known as the keyboardist guitarist with the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014). Although Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzis perhaps most frequently associated with the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014), Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzhas also played with numerous other prominent musicians, including future Sammy Hagar and Boston guitarist Gary Pihl (in future Sammy Hagar and Boston guitarist Gary Pihl early days), Eric Martin (solo artist and future Mr. Big frontman), Aldo Nova, Steve Perry of Journey, Alice Cooper, and Tommy Shaw. Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzexperienced Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzfirst mainstream success in the early 1980s as the touring keyboardist in Canadian musician Aldo Nova's backing band, and Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzappears in the music video for Canadian musician Aldo Nova's biggest hit, "Fantasy." Prior to forming the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014), Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzand Kip Winger were both playing with Alice Cooperbacking band on the tours for Alice Coopermid-80s albums, "Constrictor" (1986) and "Raise Your Fist and Yell" (1987). During this time, Taylor and Kip Winger began composing songs together and, while on break from touring, recorded what would become the first the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)demos. Whereas Kip Winger left Alice Cooperband prior to the European leg of the 1987tour, Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzremained on board for the European leg of the 1987 tour. However, in the midst of touring Europe, Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzreceived a call from Kip, who had been working with future the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)lead guitarist Reb Beach recording more demos in New York, informing Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzthat Kip Winger had gotten a record deal. After the 1987 tourwas finished, Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzflew straight back to New York, and the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)began rehearsing and recording the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)debut album. Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzremained in the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)throughout the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)most successful period, which included the two smash albums, "the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)" and "In the Heart of the Young". However, after the tour supporting "In the Heart of the Young"ended in 1991, Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzleft the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)in early 1992, citing exhaustion and a desire to write and get involved with other projects. Throughout the 1990s, Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzimmersed Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzin numerous other projects, perhaps the most prolific of which was recording and touring with Steve Perry for Steve Perry 1994 solo album. In 1998, Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzreturned to the Alice Cooperband (this time, alongside fellow former the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)guitarist Reb Beach), and once that tour ended, Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzembarked on a brief tour with Tommy Shaw. the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)reunited in 2001 to record new material for a "Greatest Hits" album. Although it is unclear whether Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzparticipated in these recording sessions, Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzdid later join the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)on the supporting tour. Though Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzwas asked by Kip Winger to rejoin the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)again to work on the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)2006 reunion album, Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzdeclined because Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzwas already involved with other projects. More recently, Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzhas become involved in composing music for television series programs and has also been pursuing Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzpassion for photography. Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzalso spent the summer months of 2012 touring with Cinderella throughout the U.S. playing keyboards for Cinderella . Paul Taylor (born June 4, 1960, San Francisco, California), formerly credited as Paul Horowitzreturned to the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)during mid-2013 and performed with the late 1980s and early 1990s rock band, Winger (1987--1992, 2001--2003, 2013--2014)on select tour dates up through early 2014 and appeared in the Queen Babylon released in late 2014.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.2857142857142857 and for ground truth is : 0.040268456375838924
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate minor_inaccurate accurate minor_inaccurate major_inaccurate 
+

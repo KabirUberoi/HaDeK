@@ -1,0 +1,41 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Americans and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Daytime_Emmy_Award and the value is : 1
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Slap_Shot and the value is : 1
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Grammy_Award and the value is : 1
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Broadway_theatre and the value is : 0
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Academy_Award_for_Best_Supporting_Actress and the value is : 1
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/David_Mamet and the value is : 1
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/CBS_Schoolbreak_Special and the value is : 1
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/The_Verdict and the value is : 1
+http://dbpedia.org/resource/Lindsay_Crouse and http://dbpedia.org/resource/Much_Ado_About_Nothing and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Lindsay Crouse (born May 12, 1948) is an American actress. She is known for her roles in the films House of Games (1987), Places in the Heart (1984), and Slap Shot (1977). She has also appeared in the television series The West Wing, Law Order, and The Good Wife. Crouse was born in New York City and raised in nearby Scarsdale. She attended Harvard University, where she studied English and American literature. After graduating in 1970, she moved to New York City and began her acting career. She made her Broadway debut in 1972 in the play That Championship Season. Crouse has appeared in numerous films and television shows throughout her career. She won an Obie Award for her performance in the play The Marriage of Bette and Boo in 1985. She was nominated for an Academy Award for Best Supporting Actress for her role in Places in the Heart. In addition to her acting career, Crouse has also written and directed several plays and films. 
+
+Coref Resolved: 
+
+Lindsay Crouse (born May 12, 1948) is an American actress. Crouse is known for Crouse roles in the films House of Games (1987), Places in the Heart (1984), and Slap Shot (1977). Crouse has also appeared in the television series The West Wing, Law Order, and The Good Wife. Crouse was born in New York City and raised in nearby Scarsdale. Crouse attended Harvard University, where Crouse studied English and American literature. After graduating in 1970, Crouse moved to New York City and began Crouse acting career. Crouse made Crouse Broadway debut in 1972 in the play That Championship Season. Crouse has appeared in numerous films and television shows throughout Crouse career. Crouse won an Obie Award for Crouse performance in the play The Marriage of Bette and Boo in 1985. Crouse was nominated for an Academy Award for Best Supporting Actress for Crouse role in Places in the Heart (1984). In addition to Crouse acting career, Crouse has also written and directed several plays and films.
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Lindsay Ann Crouse (born May 12, 1948) is an American actress. She made her Broadway debut in the 1972 revival of "Much Ado About Nothing" and appeared in her first film in 1976 in "All the President's Men". For her role in the 1984 film "Places in the Heart", she received an Academy Award nomination for Best Supporting Actress. Her other films include "Slap Shot" (1977), "Between the Lines" (1977), "The Verdict" (1982), "Prefontaine" (1997) and "The Insider" (1999). She also had a leading role in the 1987 film "House of Games", which was directed by her then-husband David Mamet. In 1996, she received a Daytime Emmy Award nomination for "Between Mother and Daughter", an episode of CBS Schoolbreak Special. She is also a Grammy Award nominee. 
+
+Coref Resolved: 
+
+Lindsay Ann Crouse (born May 12, 1948) is an American actress. Lindsay Ann Crouse made Lindsay Ann Crouse Broadway debut in the 1972 revival of "Much Ado About Nothing" and appeared in Lindsay Ann Crouse first film in 1976 in "All the President's Men". For Lindsay Ann Crouse role in the 1984 film "Places in the Heart", Lindsay Ann Crouse received an Academy Award nomination for Best Supporting Actress. Lindsay Ann Crouse other films include "Slap Shot" (1977), "Between the Lines" (1977), "The Verdict" (1982), "Prefontaine" (1997) and "The Insider" (1999). Lindsay Ann Crouse also had a leading role in the 1987 film "House of Games", which was directed by Lindsay Ann Crouse then-husband David Mamet. In 1996, Lindsay Ann Crouse received a Daytime Emmy Award nomination for "Between Mother and Daughter", an episode of CBS Schoolbreak Special. Lindsay Ann Crouse is also a Grammy Award nominee.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.0 and for ground truth is : 0.8
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate minor_inaccurate minor_inaccurate major_inaccurate accurate minor_inaccurate accurate major_inaccurate accurate major_inaccurate 
+

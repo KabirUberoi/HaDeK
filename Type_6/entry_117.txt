@@ -1,0 +1,89 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/New_York_Knicks and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/1998_NBA_draft and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/International_Basketball_League and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Europe and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Continental_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/American_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/NBA_G_League and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Los_Angeles_Lakers and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Basketball and the value is : 1
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Toronto_Raptors and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/NCAA_Division_I_Men's_Basketball_Tournament and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/American_football and the value is : 1
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/National_Basketball_Association and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Bucknell_University and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Basketball and the value is : 1
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Bucknell_University and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Charles_II_of_England and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Lee_University and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Charles_II_of_England and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/UEFA and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Role-playing_video_game and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Basketball and the value is : 1
+http://dbpedia.org/resource/The_New_York_Times and http://dbpedia.org/resource/College_basketball and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Charles_II_of_England and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Charles_II_of_England and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Charles_II_of_England and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Charles_II_of_England and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Mount_Gilboa and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/Basketball and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Atlanta_Hawks and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Patriot_League and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Bucknell_University and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Magnetoencephalography and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Bucknell_University and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Bucknell_University and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Afula and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Göttingen and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Artland_Dragons and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Charles_II_of_England and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Charles_II_of_England and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Antonio_Orozco and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/Charles_II_of_England and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Belgium_national_football_team and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Charles_II_of_England and the value is : 0
+http://dbpedia.org/resource/The_New_York_Times and http://dbpedia.org/resource/Charles_II_of_England and the value is : 0
+http://dbpedia.org/resource/The_New_York_Times and http://dbpedia.org/resource/Cliff_Lee and the value is : 1
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/United_Society_Partners_in_the_Gospel and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/RBC_Pepinster and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Kingdom_of_Lindsey and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Bucknell_University and the value is : 0
+http://dbpedia.org/resource/Bucknell_University and http://dbpedia.org/resource/Cliff_Lee and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Bucknell_University and the value is : 0
+http://dbpedia.org/resource/Cliff_Lee and http://dbpedia.org/resource/Germany_women's_national_football_team and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Charles Lee (born October 28, 1975) is an American former professional basketball player. He played college basketball for the University of Pennsylvania and was drafted by the Los Angeles Lakers in the second round of the 1998 NBA draft. Lee played in the NBA for the Lakers, the Toronto Raptors, the New York Knicks, and the Atlanta Hawks. He also played in the Continental Basketball Association, the International Basketball League, and the American Basketball Association. Lee was a member of the 2001 02 Raptors team that made the playoffs for the first time in franchise history. He also played in the NBA Development League and in Europe. 
+
+Coref Resolved: 
+
+Charles Lee (born October 28, 1975) is an American former professional basketball player. Charles Lee played college basketball for the University of Pennsylvania and was drafted by the Los Angeles Lakers in the second round of the 1998 NBA draft. Charles Lee played in NBA for the Los Angeles Lakers , the Toronto Raptors, the New York Knicks, and the Atlanta Hawks. Charles Lee also played in the Continental Basketball Association, the International Basketball League, and the American Basketball Association. Charles Lee was a member of the 2001 02 Raptors team that made the playoffs for the first time in franchise history. Charles Lee also played in the NBA Development League and in Europe.
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Charles Lee (born November 11, 1984) is an American former professional basketball player and current assistant coach for the Atlanta Hawks of the NBA. A 6'3" guard from Bucknell University, he has spent most of his professional career in Israel and Europe. Charles ( Chuckles ) is married to his college sweetheart, Lindsey Lee, who also played basketball at Bucknell. The 2006 Patriot League Player of the Year, Lee helped guide Bucknell to two straight Patriot League championships and two straight NCAA Tournament second-round appearances. In four seasons with the Bison, he earned first team All-Patriot League honors twice (2004, 2005) and second team All-Patriot League honors once (2003). He finished his career at Bucknell with 1,147 career points (11.0 PPG), 568 rebounds (5.5 RPG), and 167 steals (1.61 SPG). Lee enrolled at Bucknell a year before the school started offering athletic scholarships, and never received anything more than partial financial aid. The New York Times called him one of college basketball s best nonscholarship players . At Bucknell, Lee majored in business. After graduating in 2006, Lee played with the San Antonio Spurs during the NBA s summer league and pre-season, but he did not make the regular season roster. He has since played for Hapoel Gilboa Afula in Israel, Verviers-Pepinster in Belgium, and MEG Göttingen and Artland Dragons in Germany. On June 25, 2012, Bucknell announced that Lee is returning to his alma mater as an assistant men s basketball coach. 
+
+Coref Resolved: 
+
+Charles Lee (born November 11, 1984) is an American former professional basketball player and current assistant coach for the Atlanta Hawks of the NBA. A 6'3" guard from Bucknell University, Charles Lee has spent most of Charles Lee professional career in Israel and Europe. Charles Lee is married to Charles Lee college sweetheart, Lindsey Lee, who also played basketball at Bucknell University. The 2006 Patriot League Player of the Year, Lee helped guide Bucknell Universityto two straight Patriot League championships and two straight NCAA Tournament second-round appearances. In four seasons with Bucknell University, Charles Lee earned first team All-Patriot League honors twice (2004, 2005) and second team All-Patriot League honors once (2003). Charles Lee finished Charles Lee career at Bucknell Universitywith 1,147 career points (11.0 PPG), 568 rebounds (5.5 RPG), and 167 steals (1.61 SPG). Charles Lee enrolled at Bucknell Universitya year before Bucknell Universitystarted offering athletic scholarships, and never received anything more than partial financial aid. The New York Times called Charles Lee one of college basketball s best nonscholarship players . At Bucknell University, Charles Lee majored in business. After graduating in 2006, Charles Lee played with the San Antonio Spurs during the NBAsummer league and pre-season, but Charles Lee did not make the regular season roster. Charles Lee has since played for Hapoel Gilboa Afula in Israel , Verviers-Pepinster in Belgium, and MEG Göttingen and Artland Dragons in Germany. On June 25, 2012, Bucknell Universityannounced that Charles Lee is returning to Charles Lee alma mater as an assistant men s basketball coach.
+
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 0.125 and for ground truth is : 0.09302325581395349
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate 
+
