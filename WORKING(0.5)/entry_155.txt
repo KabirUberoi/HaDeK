@@ -1,0 +1,151 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Chinese_language and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Taiwanese_Americans and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Computer_scientist and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Santa_Barbara_Unified_School_District and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Chinese_language and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Chinese_language and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Computer_graphics and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Computer_vision and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Chinese_language and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Chinese_language and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Bachelor_of_Science and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Electrical_engineering and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/National_Taiwan_University and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Chinese_language and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Master_of_Science and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Computer_science and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/University_of_Southern_California and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Chinese_language and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Jet_Propulsion_Laboratory and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Chinese_language and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Chinese_language and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Computer_science and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Chinese_language and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Computer_graphics and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Computer_vision and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Medical_imaging and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Chinese_language and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Computer_graphics and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Computer_vision and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Robotics and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/National_Science_Foundation_CAREER_Awards and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/IEEE_Computer_Society and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/ACM_SIGGRAPH and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Chinese_Americans and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Gulangyu and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/China and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Christian_music and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Piano and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Piano and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Piano and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Shanghai_Conservatory_of_Music and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Child_prodigy and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Frédéric_Chopin and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Shanghai and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Queen_Elisabeth_Competition and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Belgium and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Europe and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Cultural_Revolution and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/China and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Far_East and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/King_Arthur and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Arthur_Rubinstein and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/King_Arthur and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Arthur_Rubinstein and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/China and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Gina_Bachauer_International_Piano_Competition and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Maryland and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Paloma_O'Shea and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Spain and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Alice_Tully_Hall and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Carnegie_Hall and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Lincoln_Center and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/John_F._Kennedy_Center_for_the_Performing_Arts and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Washington_metropolitan_area and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Europe and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/South_America and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Far_East and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Pianism and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Juilliard_School and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Sascha_Gorodnitzki and the value is : 1
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Germany and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/France and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Andorra and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Switzerland and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Italy and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Montreal_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Maestro and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Charles_Dutoit and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Moscow_Philharmonic_Orchestra and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Russia and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Finland and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Europe and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Asia and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/China_National_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Beijing and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Shanghai_Symphony_Orchestra and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Shanghai and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Kyushu_University and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Japan and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Sony_Classical_Records and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/RCA_Records and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Master_of_Arts and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Japan and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Romantic_music and the value is : 0
+http://dbpedia.org/resource/Fei-Ping_Hsu and http://dbpedia.org/resource/Concert and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Fei-Ping Hsu (Chinese 許飛平 born October 28, 1962) is a Taiwanese-American computer scientist and professor at the University of California, Santa Barbara.
+He is best known for his research in computer graphics, computer vision, and robotics.
+Hsu received his B.S. degree in electrical engineering from National Taiwan University in 1985, and his M.S. and Ph.D. degrees in computer science from the University of Southern California in 1988 and 1991, respectively.
+He was a research scientist at the Jet Propulsion Laboratory from 1991 to 1993.
+He joined the faculty of the University of California, Santa Barbara in 1993, where he is currently a professor in the Department of Computer Science.
+Hsu's research interests include computer graphics, computer vision, robotics, and medical imaging.
+He has published over 200 papers in these areas and has received numerous awards, including the National Science Foundation CAREER Award, the IEEE Computer Society Technical Achievement Award, and the ACM SIGGRAPH Significant New Researcher Award.
+
+
+Coref Resolved: 
+
+Fei-Ping Hsu (Chinese 許飛平 born October 28, 1962) is a Taiwanese-American computer scientist and professor at the University of California, Santa Barbara.
+Fei-Ping Hsu (Chinese 許飛平 born October 28, 1962) is best known for Fei-Ping Hsu (Chinese 許飛平 born October 28, 1962) research in computer graphics, computer vision, and robotics.
+Fei-Ping Hsu (Chinese 許飛平 born October 28, 1962) received Fei-Ping Hsu (Chinese 許飛平 born October 28, 1962) B.S. degree in electrical engineering from National Taiwan University in 1985, and Fei-Ping Hsu (Chinese 許飛平 born October 28, 1962)M.S. and Ph.D. degrees in computer science from the University of Southern California in 1988 and 1991, respectively.
+Fei-Ping Hsu (Chinese 許飛平 born October 28, 1962) was a research scientist at the Jet Propulsion Laboratory from 1991to 1993.
+Fei-Ping Hsu (Chinese 許飛平 born October 28, 1962) joined the faculty of the University of California, Santa Barbarain 1993, where Fei-Ping Hsu (Chinese 許飛平 born October 28, 1962) is currently a professor in the Department of Computer Science.
+Fei-Ping Hsu (Chinese 許飛平 born October 28, 1962) research interests include computer graphics, computer vision, robotics, and medical imaging.
+Fei-Ping Hsu (Chinese 許飛平 born October 28, 1962) has published over 200 papers in computer graphics, computer vision, robotics, and medical imagingand has received numerous awards, including the National Science Foundation CAREER Award, the IEEE Computer Society Technical Achievement Award, and the ACM SIGGRAPH Significant New Researcher Award.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Fei-Ping Hsu (b. 1952 - d. 2001) was a renowned Chinese American pianist known for his sensitive, brilliant, and poetic interpretations. Mr. Hsu was born on the island of Gulangyu in southeast China. As the youngest son of a Christian pastor, he grew up singing hymns while his mother played on an upright piano. One day, when his mother was ill, the five-year-old Fei-Ping went to the piano and played the hymns by ear. The family realized his tremendous talent and encouraged him to study music. When he was eight years old, he had a rare opportunity to meet Professor Ji-Sen Fan, the head of the piano department of the Shanghai Conservatory, and was recognized as a child prodigy. By the time he was twelve, he already played the complete Chopin Etudes and had performed with the Shanghai Philharmonic. Feiping was invited to perform for Queen Elisabeth of Belgium, who was so impressed with his ability that she personally invited Fei-Ping to study and perform in Europe under her sponsorship. Unfortunately, he was not allowed to accept this invitation due to the advent of the Cultural Revolution during the 1960s. However, he survived the labor camps and became well known in China, touring extensively throughout the Far East as a soloist with the Central Philharmonic, the foremost leading orchestra. He was a gold medal winner at the Arthur Rubinstein International Piano Competition, the first pianist in the competition's history from the People's Republic of China. He also garnered top prizes in other international competitions, including the Gina Bachauer Memorial Piano Scholarship Competition, the University of Maryland International Competition, and the Paloma O'Shea International Competition (Spain). Mr. Hsu made his New York recital debut at Alice Tully Hall in 1983 and performed throughout the United States, including notable appearances at Carnegie Hall, Lincoln Center, and the Kennedy Center in Washington, D.C. He also frequently toured Europe, South America, and the Far East. Mr. Hsu was especially noted for his larger-than-life virtuosic style of Horowitzian pianism. In 1979, Fei-Ping Hsu received permission to study in the United States. Among others, he attended the Juilliard School of Music under the tutelage of Sascha Gorodnitzki. He had given numerous concerts in Germany, France, Andorra, Switzerland, and Italy. He has appeared as a soloist with major orchestras, including the Montreal Symphony Orchestra under the baton of Maestro Charles Dutoit, the Moscow Philharmonic in Russia, the Finnish Tempere Symphony Orchestra in Europe, as well as numerous orchestras in the United States performing in various concert halls and music festivals. Mr. Hsu was also actively engaged in his native Asia, where his collaborations include appearances with the China National Symphony Orchestra in Beijing, the Shanghai Symphony Orchestra, the Shanghai Radio Symphony Orchestra, and the Kyushu Symphony Orchestra in Japan. Since the early 1970s, Mr. Hsu had recorded for major labels such as Columbia Records, RCA Victor Records, Hugo Records, ROI Productions, and MA Recordings in Japan. Highly regarded as one of the foremost pianists of the Western and Romantic traditions, Hsu was also an early champion of the music of the modern composer Huang An-Lun. His life was cut short in a road accident while on a concert tour in China on November 27, 2001, and he is remembered by many to this day. He is survived by his wife and daughter. 
+
+Coref Resolved: 
+
+Fei-Ping Hsu (b. 1952 - d. 2001) was a renowned Chinese American pianist known for Fei-Ping Hsu sensitive, brilliant, and poetic interpretations.Fei-Ping Hsu was born on the island of Gulangyu in southeast China.As the youngest son of a Christian pastor, Fei-Ping Hsu grew up singing hymns while Fei-Ping Hsu mother played on an upright piano.One day, when Fei-Ping Hsu mother was ill, Fei-Ping Hsu went to the piano and played hymns by ear.The family realized Fei-Ping Hsu tremendous talent and encouraged Fei-Ping Hsu to study music.When Fei-Ping Hsu was eight years old, Fei-Ping Hsu had a rare opportunity to meet Professor Ji-Sen Fan, the head of the piano department of the Shanghai Conservatory, and was recognized as a child prodigy.By the time Fei-Ping Hsu was twelve, Fei-Ping Hsu already played the complete Chopin Etudes and had performed with the Shanghai Philharmonic.Fei-Ping Hsu was invited to perform for Queen Elisabeth of Belgium, who was so impressed with Fei-Ping Hsu ability that she personally this invitation Fei-Ping Hsu to study and perform in Europe under she sponsorship.Unfortunately, Fei-Ping Hsu was not allowed to accept this invitation due to the advent of the Cultural Revolution during the 1960s.However, Fei-Ping Hsu survived the labor camps and became well known in China, touring extensively throughout the Far East as a soloist with the Central Philharmonic, the foremost leading orchestra.Fei-Ping Hsu was a gold medal winner at the Arthur Rubinstein International Piano Competition, the first pianist in the Arthur Rubinstein International Piano Competitionhistory from China.Fei-Ping Hsu also garnered top prizes in other international competitions, including the Gina Bachauer Memorial Piano Scholarship Competition, the University of Maryland International Competition, and the Paloma O'Shea International Competition (Spain).Fei-Ping Hsu made Fei-Ping Hsu New York recital debut at Alice Tully Hall in 1983 and performed throughout the United States, including notable appearances at Carnegie Hall, Lincoln Center, and the Kennedy Center in Washington, D.C. Fei-Ping Hsu also frequently toured Europe , South America, and the Far East .Fei-Ping Hsu was especially noted for Fei-Ping Hsu larger-than-life virtuosic style of Horowitzian pianism.In 1979, Fei-Ping Hsu received permission to study in the United States.Among others, Fei-Ping Hsu attended the Juilliard School of Music under the tutelage of Sascha Gorodnitzki.Fei-Ping Hsu had given numerous concerts in Germany, France, Andorra, Switzerland, and Italy.Fei-Ping Hsu has appeared as a soloist with major orchestras, including the Montreal Symphony Orchestra under the baton of Maestro Charles Dutoit, the Moscow Philharmonic in Russia, the Finnish Tempere Symphony Orchestra in Europe , as well as numerous orchestras in the United Statesperforming in various concert halls and music festivals.Fei-Ping Hsu was also actively engaged in Fei-Ping Hsu native Asia, where Fei-Ping Hsu collaborations include appearances with the China National Symphony Orchestra in Beijing, the Shanghai Symphony Orchestra, the Shanghai Radio Symphony Orchestra, and the Kyushu Symphony Orchestra in Japan.Since the early 1970s, Fei-Ping Hsu had recorded for major labels such as Columbia Records, RCA Victor Records, Hugo Records, ROI Productions, and MA Recordings in Japan.Highly regarded as one of the foremost pianists of the Western and Romantic traditions, Fei-Ping Hsu was also an early champion of the music of the modern composer Huang An-Lun. Fei-Ping Hsu life was cut short in a road accident while on a concert tour in Chinaon November 27, 2001, and Fei-Ping Hsu is remembered by many to this day.Fei-Ping Hsu is survived by Fei-Ping Hsu wife and daughter.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.3 0.5 0.16666666666666666 0.5 0.2 0.14285714285714285 
+
+Value for ground truth is : 
+0.0 0.5 0.0 0.0 -1 0.0 0.0 0.0 0.0 0.0 0.4 0.0 0.1 0.0 0.0 0.5 0.0 0.0 0.0 0.0 0.0 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

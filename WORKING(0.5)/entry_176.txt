@@ -1,0 +1,56 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Swimming_at_the_2017_World_Aquatics_Championships_–_Women's_1500_metre_freestyle and the value is : 1
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Freestyle_swimming and the value is : 1
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Swimming_at_the_2017_World_Aquatics_Championships_–_Women's_1500_metre_freestyle and the value is : 1
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/Katie_Ledecky and http://dbpedia.org/resource/Michael_Phelps and the value is : 1
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Katie Ledecky (born March 17, 1997) is an American competitive swimmer.
+She has won five Olympic gold medals and 15 world championship gold medals, the most in history for a female swimmer.
+Ledecky holds the world records in the women's 400-, 800-, and 1500-meter freestyle (long course).
+She also holds the fastest-ever times in the women's 500-, 1000-, and 1650-yard freestyle (short course).
+Ledecky has broken 28 world records in her career.
+She is the first woman to have won the 200-, 400-, 800-, and 1500-meter freestyle events at a major international competition.
+Ledecky is the most decorated female swimmer in World Championship history, and the second-most decorated swimmer of either gender, behind only Michael Phelps.
+
+
+Coref Resolved: 
+
+Katie Ledecky (born March 17, 1997) is an American competitive swimmer.
+Katie Ledecky (born March 17, 1997) has won five Olympic gold medals and 15 world championship gold medals, the most in history for a female swimmer.
+Katie Ledecky (born March 17, 1997) holds the world records in the women's 400-, 800-, and 1500-meter freestyle (long course).
+Katie Ledecky (born March 17, 1997) also holds the fastest-ever times in the women's 500-, 1000-, and 1650-yard freestyle (short course).
+Katie Ledecky (born March 17, 1997) has broken 28 world records in Katie Ledecky (born March 17, 1997) career.
+Katie Ledecky (born March 17, 1997) is the first woman to have won the 200-, 400-, 800-, and 1500-meter freestyle events at a major international competition.
+Katie Ledecky (born March 17, 1997) is the most decorated female swimmer in World Championship history, and the second-most decorated swimmer of either gender, behind only Michael Phelps.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Kathleen Genevieve Ledecky (born March 17, 1997) is an American competition swimmer, Olympic gold medalist, nine-time world champion, and current world record holder in multiple events. She is the current world record-holder in the 400-, 800-, and 1,500-meter freestyle (long course). She also holds the fastest-ever times in the 500- and 1,650-yard freestyles. In her international debut at the 2012 Summer Olympics as a 15-year-old, Ledecky unexpectedly won gold in the 800-meter freestyle in what was the second-fastest performance ever. In total, she has won fifteen medals in major international competitions, all of them gold, spanning the Summer Olympics, the World Championships, and the Pan Pacific Championships. During her career, she has broken ten world records. Ledecky's success has earned her Swimming World's World Swimmer of the Year and the American Swimmer of the Year awards in 2013 and 2014, as well as the FINA Swimmer of the Year award in 2013. Ledecky was also named the International Female Champion of Champions by L'Équipe in 2014. 
+
+Coref Resolved: 
+
+Kathleen Genevieve Ledecky (born March 17, 1997) is an American competition swimmer, Olympic gold medalist, nine-time world champion, and current world record holder in multiple events.Kathleen Genevieve Ledecky is the current world record-holder in the 400-, 800-, and 1,500-meter freestyle (long course).Kathleen Genevieve Ledecky also holds the fastest-ever times in the 500- and 1,650-yard freestyles.In Kathleen Genevieve Ledecky international debut at the 2012 Summer Olympics as a 15-year-old, Kathleen Genevieve Ledecky unexpectedly won gold in the 800-meter freestyle in what was the second-fastest performance ever.In total, Kathleen Genevieve Ledecky has won fifteen medals in major international competitions, all of fifteen medals gold, spanning the Summer Olympics, the World Championships, and the Pan Pacific Championships.During Kathleen Genevieve Ledecky career, Kathleen Genevieve Ledecky has broken ten world records.Kathleen Genevieve Ledecky success has earned Kathleen Genevieve Ledecky Swimming World's World Swimmer of the Year and the American Swimmer of the Year awards in 2013 and 2014, as well as the FINA Swimmer of the Year award in 2013 .Kathleen Genevieve Ledecky was also named the International Female Champion of Champions by L'Équipe in 2014.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 1.0 1.0 1.0 -1 1.0 1.0 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate accurate accurate major_inaccurate minor_inaccurate accurate 
+

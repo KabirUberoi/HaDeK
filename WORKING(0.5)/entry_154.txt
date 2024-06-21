@@ -1,0 +1,72 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Trinidad_and_Tobago and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Auburn_University and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/United_States_men's_national_basketball_team and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/NCAA_Division_I_Wrestling_Championships and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/World_record_progression_200_metres_individual_medley and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/2004_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/2004_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Greece and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/World_record_progression_200_metres_individual_medley and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/2008_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/2008_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/China_women's_national_football_team and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/Swimming_at_the_2012_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/London and the value is : 0
+http://dbpedia.org/resource/George_Bovell and http://dbpedia.org/resource/England_men's_national_field_hockey_team and the value is : 0
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+George Bovell III (born August 8, 1982) is a Trinidadian swimmer.
+He is a three-time Olympic medalist, a two-time world champion, and a former world record holder in the 50-meter freestyle.
+He is the first swimmer from Trinidad and Tobago to win an Olympic medal.
+Bovell began swimming at the age of seven and was a member of the Trinidad and Tobago national team by the age of 13.
+He attended Auburn University in the United States, where he was a four-time NCAA champion.
+He won a bronze medal in the 200-meter individual medley at the 2004 Summer Olympics in Athens, Greece, and a silver medal in the same event at the 2008 Summer Olympics in Beijing, China.
+He also won a bronze medal in the 4 100-meter medley relay at the 2012 Summer Olympics in London, England.
+At the 2013 World Aquatics Championships in Barcelona, Spain, Bovell won gold medals in the 50-meter freestyle and the 4 100-meter medley relay.
+He also set a world record in the 50-.
+
+
+Coref Resolved: 
+
+George Bovell III (born August 8, 1982) is a Trinidadian swimmer.
+George Bovell III (born August 8, 1982) is a three-time Olympic medalist, a two-time world champion, and a former world record holder in the 50-meter freestyle.
+George Bovell III (born August 8, 1982) is the first swimmer from Trinidad and Tobago to win an Olympic medal.
+George Bovell III (born August 8, 1982) began swimming at the age of seven and was a member of the Trinidad and Tobago national team by the age of 13.
+George Bovell III (born August 8, 1982) attended Auburn University in the United States, where George Bovell III (born August 8, 1982) was a four-time NCAA champion.
+George Bovell III (born August 8, 1982) won a bronze medal in the 200-meter individual medley at the 2004 Summer Olympics in Athens, Greece, and a silver medal in the 200-meter individual medley at the 2008 Summer Olympics in Beijing, China.
+George Bovell III (born August 8, 1982) also won a bronze medal in the 4 100-meter medley relay at the 2012 Summer Olympics in London, England.
+At the 2013 World Aquatics Championships in Barcelona, Spain, George Bovell III (born August 8, 1982) won gold medals in the 50-meter freestyle and the 4 100-meter medley relay.
+George Bovell III (born August 8, 1982) also set a world record in the 50-.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+George Richard Lytcott Bovell (born 18 July 1983) is an Olympic bronze medalist swimmer and former world record holder from Trinidad and Tobago. Bovell is also a two-time world championship bronze medalist, a four-time Olympian, and is the Caribbean region's most successful swimmer. George Bovell is currently a professional swimmer and intends to compete in a record fifth Olympiad. Bovell is also respected for his voluntary giving back initiatives such as "The World Swim Against Malaria and Drowning" in Uganda, 2013, with his friend, Ugandan swimmer Max Kanyarezi. He is known for organizing and conducting the annual "George Bovell Dive In Free Swim Clinics", which are free for the youth of Trinidad and Tobago who enjoy the privilege of being coached and mentored by renowned Olympic medalist swimmers from around the world. Bovell is also the writer of a popular inspirational newspaper column in the Trinidad Guardian entitled "Reflections Off the Water". He is also one of the World Economic Forum's Global Shapers from the Port of Spain Hub. In addition to being a swimmer, Bovell is also a renowned freediving specialist, and enjoys underwater wildlife videography and spearfishing. 
+
+Coref Resolved: 
+
+George Richard Lytcott Bovell (born 18 July 1983) is an Olympic bronze medalist swimmer and former world record holder from Trinidad and Tobago.George Richard Lytcott Bovell is also a two-time world championship bronze medalist, a four-time Olympian, and is the Caribbean region's most successful swimmer.George Richard Lytcott Bovell is currently a professional swimmer and intends to compete in a record fifth Olympiad.George Richard Lytcott Bovell is also respected for George Richard Lytcott Bovell voluntary giving back initiatives such as "The World Swim Against Malaria and Drowning" in Uganda, 2013, with George Richard Lytcott Bovell friend, Ugandan swimmer Max Kanyarezi.George Richard Lytcott Bovell is known for organizing and conducting the annual "George Richard Lytcott Bovell Dive In Free Swim Clinics", which are free for the youth of Trinidad and Tobagowho enjoy the privilege of being coached and mentored by renowned Olympic medalist swimmers from around the world.George Richard Lytcott Bovell is also the writer of a popular inspirational newspaper column in the Trinidad Guardian entitled "Reflections Off the Water".George Richard Lytcott Bovell is also one of the World Economic Forum's Global Shapers from the Port of Spain Hub.In addition to being a swimmer, George Richard Lytcott Bovell is also a renowned freediving specialist, and enjoys underwater wildlife videography and spearfishing.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 -1 1.0 1.0 0.0 0.75 0.0 -1 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

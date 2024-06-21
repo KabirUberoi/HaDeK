@@ -1,0 +1,86 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Anatomy and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Embryology and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Riga and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Latvia and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Medicine and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/University_of_Tartu and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Humboldt_University_of_Berlin and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Anatomy and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/University_of_Tartu and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Germ_layer and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Embryo and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Germ_layer and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Mesoderm and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Germ_layer and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Notochord and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Neural_tube and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Amniotic_sac and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Gastrulation and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Baltic_Germans and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Biologist and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Embryology and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Riga and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Würzburg and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Carnikava_Municipality and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Gauja and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Riga and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Emirate_of_Bukhara and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Natural_history and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Embryo and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Germ_layer and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Embryo and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Biological_system and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Embryology and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Devonian and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Silurian and the value is : 1
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Baltic_Sea and the value is : 0
+http://dbpedia.org/resource/Pander_Society and http://dbpedia.org/resource/Stratigraphy and the value is : 0
+http://dbpedia.org/resource/Heinz_Christian_Pander and http://dbpedia.org/resource/Saint_Petersburg and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Heinz Christian Pander (1794 1865) was a German anatomist and embryologist who was born in Riga, Latvia.
+He studied medicine at the University of Dorpat and later at the University of Berlin.
+He was a professor of anatomy at the University of Dorpat from 1820 to 1845.
+Pander is best known for his work on the development of chick embryos, which he described in his 1817 book Beiträge zur Entwickelungsgeschichte des Hühnereies (Contributions to the Developmental History of the Chicken Egg).
+He was the first to describe the three germ layers of the embryo, the ectoderm, mesoderm, and endoderm, and he was the first to describe the notochord.
+He also described the development of the neural tube, the formation of the amniotic cavity, and the development of the heart and blood vessels.
+He was the first to describe the process of gastrulation in chick embryos.
+
+
+Coref Resolved: 
+
+Heinz Christian Pander (1794 1865) was a German anatomist and embryologist who was born in Riga, Latvia.
+Heinz Christian Pander (1794 1865) studied medicine at the University of Dorpat and later at the University of Berlin.
+Heinz Christian Pander (1794 1865) was a professor of anatomy at the University of Dorpat from 1820 to 1845.
+Heinz Christian Pander (1794 1865) is best known for Heinz Christian Pander (1794 1865) work on the development of chick embryos, which Heinz Christian Pander (1794 1865) described in Heinz Christian Pander (1794 1865) 1817 book Beiträge zur Entwickelungsgeschichte des Hühnereies (Contributions to the Developmental History of the Chicken Egg).
+Heinz Christian Pander (1794 1865) was the first to describe the three germ layers of the embryo, the ectoderm, mesoderm, and endoderm, and Heinz Christian Pander (1794 1865) was the first to describe the notochord.
+Heinz Christian Pander (1794 1865) also described the development of the neural tube, the formation of the amniotic cavity, and the development of the heart and blood vessels.
+Heinz Christian Pander (1794 1865) was the first to describe the process of gastrulation in chick embryos.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Heinz Christian Pander (24 July 1794 22 September 1865), also known as Christian Heinrich Pander, was a Baltic German biologist and embryologist born in Riga. In 1817, he received his doctorate from the University of Würzburg, and spent several years (1827 1842) performing scientific research from his estate in Carnikava (on the banks of the Gauja River near Riga). In 1820, he took part in a scientific expedition to Bokhara as a naturalist. In 1826, he became a member of the St. Petersburg Academy of Sciences. Pander studied the chick embryo and discovered the germ layers (i.e., three distinct regions of the embryo that give rise to the specific organ system). Because of these findings, he is considered by many to be the "founder of embryology". His work in embryology was continued by Karl Ernst von Baer (1792 1876), who expanded Pander's concept of germ layers to include all vertebrates. Pander performed important studies in the field of paleontology, being known for his extensive research on fossils found in the Devonian and Silurian geological strata of the Baltic regions. His study of trilobites from this age led to the adjective "Panderian", first used by the Canadian palaeontologist Elkanah Billings. Pander is credited as the first scientist to describe primitive creatures known as conodonts. Today, the Pander Society is an international association of palaeontologists and stratigraphers with a common interest in the study of conodonts. He died in Saint Petersburg. 
+
+Coref Resolved: 
+
+Heinz Christian Pander (24 July 1794 22 September 1865), also known as Christian Heinrich Pander, was a Baltic German biologist and embryologist born in Riga.In 1817, Heinz Christian Pander received Heinz Christian Pander doctorate from the University of Würzburg, and spent several years (1827 1842) performing scientific research from Heinz Christian Pander estate in Carnikava (on the banks of the Gauja River near Riga).In 1820, Heinz Christian Pander took part in a scientific expedition to Bokhara as a naturalist.In 1826, Heinz Christian Pander became a member of the St. Petersburg Academy of Sciences.Heinz Christian Pander studied the chick embryo and discovered the germ layers (i.e., three distinct regions of the embryo that give rise to the specific organ system).Because of these findings, Heinz Christian Pander is considered by many to be the "founder of embryology".Heinz Christian Pander work in embryology was continued by Karl Ernst von Baer (1792 1876), who expanded Heinz Christian Pander concept of germ layers to include all vertebrates.Heinz Christian Pander performed important studies in the field of paleontology, being known for Heinz Christian Pander extensive research on fossils found in the Devonian and Silurian geological strata of the Baltic regions.Heinz Christian Pander study of trilobites from the Devonian and Silurian geological strata of the Baltic regionsled to the adjective "Panderian", first used by the Canadian palaeontologist Elkanah Billings.Heinz Christian Pander is credited as the first scientist to describe primitive creatures known as conodonts.Today, the Pander Society is an international association of palaeontologists and stratigraphers with a common interest in the study of conodonts.Heinz Christian Pander died in Saint Petersburg.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.5 0.0 0.0 -1 0.6666666666666666 0.0 0.0 
+
+Value for ground truth is : 
+0.75 0.5 0.0 -1 0.75 1.0 -1 0.6666666666666666 -1 -1 0.0 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate major_inaccurate major_inaccurate accurate accurate major_inaccurate major_inaccurate 
+

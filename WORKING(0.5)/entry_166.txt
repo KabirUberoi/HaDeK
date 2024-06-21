@@ -1,0 +1,172 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Rugby_league and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Australian_rules_football and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/South_Sydney_Rabbitohs and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Sydney_Roosters and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/North_Sydney_Bears and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Balmain_Tigers and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/New_South_Wales_Rugby_League_premiership and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/South_Sydney_Rabbitohs and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/South_Sydney_Rabbitohs and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/New_South_Wales_rugby_league_team and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Sydney_Roosters and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/North_Sydney_Bears and the value is : 0
+http://dbpedia.org/resource/Geoff_Griffin and http://dbpedia.org/resource/Balmain_Tigers and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/South_Africa_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Test_cricket and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Hat-trick and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Test_cricket and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Test_cricket and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Hat-trick and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Test_cricket and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Test_cricket and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/San_Juan_de_Nicaragua and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/KwaZulu-Natal and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Durban_High_School and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Sport and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Zimbabwe_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/KwaZulu-Natal and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/KwaZulu-Natal and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/High_jump and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Long_jump and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Triple_jump and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Pole_vault and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Ernest_Jones and http://dbpedia.org/resource/Wisden_Cricketers'_Almanack and the value is : 0
+http://dbpedia.org/resource/Ernest_Jones and http://dbpedia.org/resource/Sydney_Pardon and the value is : 0
+http://dbpedia.org/resource/Ernest_Jones and http://dbpedia.org/resource/Fast_bowling and the value is : 0
+http://dbpedia.org/resource/Ernest_Jones and http://dbpedia.org/resource/England_cricket_team and the value is : 0
+http://dbpedia.org/resource/Ernest_Jones and http://dbpedia.org/resource/Fast_bowling and the value is : 0
+http://dbpedia.org/resource/Ernest_Jones and http://dbpedia.org/resource/Melbourne_Cricket_Ground and the value is : 0
+http://dbpedia.org/resource/Ernest_Jones and http://dbpedia.org/resource/Test_cricket and the value is : 0
+http://dbpedia.org/resource/Ian_Meckiff and http://dbpedia.org/resource/The_Ashes and the value is : 1
+http://dbpedia.org/resource/Ian_Meckiff and http://dbpedia.org/resource/Australia_national_cricket_team and the value is : 1
+http://dbpedia.org/resource/Ian_Meckiff and http://dbpedia.org/resource/Gordon_Rorke and the value is : 1
+http://dbpedia.org/resource/Marylebone_Cricket_Club and http://dbpedia.org/resource/The_Ashes and the value is : 1
+http://dbpedia.org/resource/Marylebone_Cricket_Club and http://dbpedia.org/resource/England_cricket_team and the value is : 1
+http://dbpedia.org/resource/Marylebone_Cricket_Club and http://dbpedia.org/resource/England and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/First-class_cricket and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/KwaZulu-Natal and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/History_of_cricket_in_South_Africa_from_1945–46_to_1970 and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Fast_bowling and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Bowling_average and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/England_cricket_team and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Marylebone_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Alf_Gover and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Over_(cricket) and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Test_cricket and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Edgbaston_Cricket_Ground and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/John_Waite and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Peter_Walker,_Baron_Walker_of_Worcester and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Fred_Trueman and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/England_cricket_team and http://dbpedia.org/resource/South_Africa_national_cricket_team and the value is : 1
+http://dbpedia.org/resource/England_cricket_team and http://dbpedia.org/resource/Brian_Statham and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Underarm_bowling and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Don_Bradman and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Marylebone_Cricket_Club and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/President_of_the_United_States and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Gubby_Allen and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Batting_(cricket) and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Test_cricket and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Scapegoat and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Zimbabwe_national_cricket_team and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/CSA_4-Day_Domestic_Series and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Northerns_(cricket_team) and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Harare and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Pub and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/South_African_Breweries and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Durban and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/London_Borough_of_Merton and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Myocardial_infarction and the value is : 0
+http://dbpedia.org/resource/Griffin and http://dbpedia.org/resource/Durban and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Geoff Griffin (born 28 August 1965) is an Australian former professional rugby league footballer who played in the 1980s and 1990s.
+He played for the South Sydney Rabbitohs, the Eastern Suburbs Roosters, the North Sydney Bears and the Balmain Tigers in the New South Wales Rugby League premiership.
+Griffin was a talented player who was known for his speed and agility.
+He was a regular member of the South Sydney Rabbitohs team from 1985 to 1988, playing in the centres and on the wing.
+He was a part of the Rabbitohs' 1985 premiership-winning team, scoring a try in the grand final.
+He also represented New South Wales in the State of Origin series in 1986 and 1987.
+In 1989, Griffin moved to the Eastern Suburbs Roosters, where he played for two seasons.
+He then moved to the North Sydney Bears in 1991, where he played for two seasons before joining the Balmain Tigers in 1993.
+He retired from the game at the end of the 1993 season.
+
+
+Coref Resolved: 
+
+Geoff Griffin (born 28 August 1965) is an Australian former professional rugby league footballer who played in the 1980s and 1990s.
+Geoff Griffin played for the South Sydney Rabbitohs, the Eastern Suburbs Roosters, the North Sydney Bears and the Balmain Tigers in the New South Wales Rugby League premiership.
+Geoff Griffin was a talented player who was known for Geoff Griffin speed and agility.
+Geoff Griffin was a regular member of the the South Sydney Rabbitohsteam from 1985 to 1988, playing in the centres and on the wing.
+Geoff Griffin was a part of the South Sydney Rabbitohs1985 premiership-winning team, scoring a try in the grand final.
+Geoff Griffin also represented New South Wales in the State of Origin series in 1986 and 1987.
+In 1989, Geoff Griffin moved to the Eastern Suburbs Roosters, where Geoff Griffin played for two seasons.
+Geoff Griffin then moved to the North Sydney Bears in 1991, where Geoff Griffin played for two seasons before joining the Balmain Tigers in 1993.
+Geoff Griffin retired from the game at the end of the 1993season.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Geoffrey Merton "Geoff" Griffin (12 June 1939 - 16 November 2006) was a cricketer who played two Tests for South Africa in 1960. In his second Test appearance in 1960 at Lord's, he became the first (and, as of November 2014, only) South African cricketer to take a hat-trick in a Test match, and also the first and only cricketer to take a Test hat-trick at Lord's. He is best known for being no-balled for throwing in his second Test and the exhibition match that followed, and he never played Test cricket again. Griffin was born in Greytown in the former Natal Province and was educated at Durban High School. He was tall and blond, and excelled in many sports, playing hockey for Rhodesia and under-19s rugby for Natal. He was also Natal champion in the high jump, long jump, triple jump and pole vault. Griffin suffered an accident in childhood which rendered him unable to straighten his right arm. There was continuing controversy about bowlers "throwing" or "chucking" the ball (that is, flexing their elbow in the action of bowling the ball, which is contrary to the laws of cricket). The issue had been controversial since the editor of Wisden, Sydney Pardon, claimed that Australian fast bowler Ernest Jones was throwing in the tour of England in 1896, and then Jones and C. B. Fry were both no-balled in the Melbourne Test in 1897. The issue achieved renewed prominence following the Ashes series in Australia in 1958-59, when Australians Ian Meckiff and Gordon Rorke were suspected of throwing. Other fast bowlers, such as West Indies' Charlie Griffith and New Zealand's Gary Bartlett were also suspected. The MCC was determined to stamp out the problem before the Ashes series in England in 1961, and English umpires were instructed to strictly enforce the rule against throwing in 1960. Griffin made his first-class cricket debut for Natal in the 1957-58 South African domestic season, as a fast bowler. Despite being no-balled in South African provincial matches in the 1959-60 season, Griffin finished at the top of the averages, with 35 wickets at a bowling average of 12.23, and was selected to tour England in 1960, aged 20. Griffin was no-balled 8 times during the tour match against the MCC at Lord's in May 1960, the first time that a touring player was called for throwing, and no-balled again several times by various umpires in matches against the counties. He tried to change his action at Alf Gover's indoor school, and was not called once in the 42 overs that he bowled in the 1st Test at Edgbaston, although his pace was much reduced. In the search for quicker deliveries, he fell back into his old faults, and was called in a tour match against Hampshire. English umpires Frank Lee and Syd Buller repeatedly called Geoff Griffin for throwing in the 2nd Test, at Lord's, starting from his third over. After being no-balled 5 times on the first day and 6 times on the second day, he returned for a final bowling spell on Saturday 25 June and dismissed M. J. K. Smith with the last ball of one over, caught behind by John Waite for 99, and then bowled Peter Walker and Fred Trueman with the first two balls of his next over. This was the first Test cricket hat-trick claimed by a South African cricketer. England immediately declared their first innings for 362 with 8 wickets down. England quickly dismissed South Africa twice to win by an innings and 73 runs, just after lunch on the fourth day, Monday 27 June, with Brian Statham taking 6-62 and 5-34. A 20-over exhibition match was arranged to fill the period until the scheduled presentation of the players to the Queen at tea. Griffin was again repeatedly no-balled in the exhibition match for throwing, and was also no-balled for failing to notify the umpires that he was changing to bowl underarm to complete an over. Griffin later recounted that Donald Bradman came to the dressing room to console him, and let him know that the umpires were acting on order from MCC President Gubby Allen. Griffin remained on the tour as a batsman, but never played Test cricket again. Many spectators could see no difference between his "legitimate" deliveries, and the ones that were no-balled many concluded that he threw every delivery. The public saw him as a martyr and scapegoat, and he was warmly applauded by the spectators at all of his subsequent tour matches. None of the controversial Australian bowlers from the 1958-59 Ashes series toured England in 1961. He moved to play for Rhodesia, but his cricket career ended less than 2 years later, at the age of 23, after he was no-balled playing in a Currie Cup match against North Eastern Transvaal at Salisbury. In retirement from cricket, he played club cricket, was a cricket coach, and worked as a hotel manager for South African Breweries in Durban, at the Argyll, and then at the Congela Hotel. He married twice. Griffin died of a heart attack in Durban. 
+
+Coref Resolved: 
+
+Geoffrey Merton "Geoff" Griffin (12 June 1939 - 16 November 2006) was a cricketer who played two Tests for South Africa in 1960.In Geoffrey Merton "Geoff" Griffin second Test appearance in 1960at Lord's, Geoffrey Merton "Geoff" Griffin became the first (and, as of November 2014, only) South African cricketer to take a hat-trick in a Test match, and also the first and only cricketer to take a Test hat-trick at Lord's.Geoffrey Merton "Geoff" Griffin is best known for being no-balled for throwing in Geoffrey Merton "Geoff" Griffin second Test and the exhibition match that followed, and Geoffrey Merton "Geoff" Griffin never played Test cricket again.Geoffrey Merton "Geoff" Griffin was born in Greytown in the former Natal Province and was educated at Durban High School.Geoffrey Merton "Geoff" Griffin was tall and blond, and excelled in many sports, playing hockey for Rhodesia and under-19s rugby for the former Natal Province .Geoffrey Merton "Geoff" Griffin was also the former Natal Province champion in the high jump, long jump, triple jump and pole vault.Geoffrey Merton "Geoff" Griffin suffered an accident in childhood which rendered Geoffrey Merton "Geoff" Griffin unable to straighten Geoffrey Merton "Geoff" Griffin right arm.There was continuing controversy about bowlers "throwing" or "chucking" the ball (that is, flexing bowlers elbow in the action of bowling the ball, which is contrary to the laws of cricket).The issue had been controversial since the editor of Wisden, Sydney Pardon, claimed that Australian fast bowler Ernest Jones was throwing in the tour of England in 1896, and then Australian fast bowler Ernest Jones and C. B. Fry were both no-balled in the Melbourne Test in 1897.The issue achieved renewed prominence following the Ashes series in Australia in 1958-59, when Australians Ian Meckiff and Gordon Rorke were suspected of throwing.Other fast bowlers, such as West Indies' Charlie Griffith and New Zealand's Gary Bartlett were also suspected.The MCC was determined to stamp out The issue before the Ashes series in England in 1961, and English umpires were instructed to strictly enforce the rule against throwing in 1960.Geoffrey Merton "Geoff" Griffin made Geoffrey Merton "Geoff" Griffin first-class cricket debut for the former Natal Province in the 1957-58 South African domestic season, as a fast bowler.Despite being no-balled in South African provincial matches in the 1959-60 season, Geoffrey Merton "Geoff" Griffin finished at the top of the averages, with 35 wickets at a bowling average of 12.23, and was selected to tour England in 1960, aged 20.Geoffrey Merton "Geoff" Griffin was no-balled 8 times during the tour match against The MCC at Lord'sinMay 1960, the first time that a touring player was called for throwing, and no-balled again several times by various umpires in matches against the counties.Geoffrey Merton "Geoff" Griffin tried to change Geoffrey Merton "Geoff" Griffin action at Alf Gover's indoor school, and was not called once in the 42 overs that Geoffrey Merton "Geoff" Griffin bowled in the 1st Test at Edgbaston, although Geoffrey Merton "Geoff" Griffin pace was much reduced.In the search for quicker deliveries, Geoffrey Merton "Geoff" Griffin fell back into Geoffrey Merton "Geoff" Griffin old faults, and was called in a tour match against Hampshire.English umpires Frank Lee and Syd Buller repeatedly called Geoffrey Merton "Geoff" Griffin for throwing in the 2nd Test, at Lord's, starting from Geoffrey Merton "Geoff" Griffin third over.After being no-balled 5 times on the first day and 6 times on the second day, Geoffrey Merton "Geoff" Griffin returned for a final bowling spell on Saturday 25 June and dismissed M. J. K. Smith with the last ball of one over, caught behind by John Waite for 99, and then bowled Peter Walker and Fred Trueman with the first two balls of Geoffrey Merton "Geoff" Griffin next over.This was the first Test cricket hat-trick claimed by a South African cricketer.England immediately declared England first innings for 362 with 8 wickets down.England quickly dismissed South Africa twice to win by an innings and 73 runs, just after lunch on the fourth day, Monday 27 June, with Brian Statham taking 6-62 and 5-34.A 20-over exhibition match was arranged to fill the period until the scheduled presentation of the players to the Queen at tea.Geoffrey Merton "Geoff" Griffin was again repeatedly no-balled in A 20-over exhibition match for throwing, and was also no-balled for failing to notify the umpires that Geoffrey Merton "Geoff" Griffin was changing to bowl underarm to complete an over.Geoffrey Merton "Geoff" Griffin later recounted that Donald Bradman came to the dressing room to console Geoffrey Merton "Geoff" Griffin , and let Geoffrey Merton "Geoff" Griffin know that the umpires were acting on order from The MCC President Gubby Allen.Geoffrey Merton "Geoff" Griffin remained on the tour as a batsman, but never played Test cricket again.Many spectators could see no difference between Geoffrey Merton "Geoff" Griffin "legitimate" deliveries, and the ones that were no-balled many concluded that Geoffrey Merton "Geoff" Griffin threw every delivery.The public saw Geoffrey Merton "Geoff" Griffin as a martyr and scapegoat, and Geoffrey Merton "Geoff" Griffin was warmly applauded by the spectators at all of Geoffrey Merton "Geoff" Griffin subsequent tour matches.None of the controversial Australian bowlers from the 1958-59 Ashes series toured England in 1961.Geoffrey Merton "Geoff" Griffin moved to play for Rhodesia, but Geoffrey Merton "Geoff" Griffin cricket career ended less than 2 years later, at the age of 23, after Geoffrey Merton "Geoff" Griffin was no-balled playing in a Currie Cup match against North Eastern Transvaal at Salisbury.In retirement from cricket, Geoffrey Merton "Geoff" Griffin played club cricket, was a cricket coach, and worked as a hotel manager for South African Breweries in Durban, at the Argyll, and then at the Congela Hotel.Geoffrey Merton "Geoff" Griffin married twice.Geoffrey Merton "Geoff" Griffin died of a heart attack in Durban.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 -1 0.0 0.0 0.0 0.0 0.0 -1 
+
+Value for ground truth is : 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 -1 0.0 1.0 -1 0.6666666666666666 0.0 0.0 0.0 -1 0.0 0.0 -1 0.0 -1 -1 0.5 -1 0.0 0.0 0.0 0.0 0.0 -1 0.0 0.0 0.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

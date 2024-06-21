@@ -1,0 +1,90 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/French_people and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Engraving and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Victor_Hugo and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Victor_Hugo and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Juliette_Drouet and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Victor_Hugo and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Tapestry and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Fauvism and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Cubism and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Surrealism and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Charles_Baudelaire and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paul_Verlaine and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Jean_Cocteau and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Jean_Cocteau and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Maurice_Maeterlinck and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paul_Claudel and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paris and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Fourques,_Gard and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Lunel,_Hérault and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/France and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Jean_Cocteau and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Raymond_Radiguet and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Pablo_Picasso and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Georges_Auric and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Erik_Satie and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Blaise_Cendrars and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Marie-Laure_de_Noailles and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Paul_Éluard and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Francis_Poulenc and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Charles_Dullin and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Louis_Jouvet and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Colette and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Marcel_Proust and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Jacques_Maritain and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Max_Jacob and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Carl_Theodor_Dreyer and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Marie_Bell and the value is : 1
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Louise_Lévêque_de_Vilmorin and the value is : 0
+http://dbpedia.org/resource/Jean_Hugo and http://dbpedia.org/resource/Cecil_Beaton and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Jean Hugo (1894 1984) was a French painter, illustrator, engraver, and sculptor.
+He was born in Paris, the son of the writer Victor Hugo and his wife, Juliette Drouet.
+He was the grandson of the poet, novelist, and dramatist Victor Hugo.
+Jean Hugo was a prolific artist, best known for his drawings and engravings.
+He also produced paintings, lithographs, sculptures, tapestries, and ceramics.
+He was associated with the art movements of Fauvism, Cubism, and Surrealism.
+He illustrated books by authors such as Charles Baudelaire, Paul Verlaine, and Jean Cocteau.
+He also designed sets and costumes for the theatre, including works by Jean Cocteau, Maurice Maeterlinck, and Paul Claudel.
+
+
+Coref Resolved: 
+
+Jean Hugo (1894 1984) was a French painter, illustrator, engraver, and sculptor.
+Jean Hugo was born in Paris, the son of the writer Victor Hugo and the writer Victor Hugo wife, Juliette Drouet.
+Jean Hugo was the grandson of the writer Victor Hugo .
+Jean Hugo was a prolific artist, best known for Jean Hugo drawings and engravings.
+Jean Hugo also produced paintings, lithographs, sculptures, tapestries, and ceramics.
+Jean Hugo was associated with the art movements of Fauvism, Cubism, and Surrealism.
+Jean Hugo illustrated books by authors such as Charles Baudelaire, Paul Verlaine, and Jean Cocteau.
+Jean Hugo also designed sets and costumes for the theatre, including works by Jean Cocteau, Maurice Maeterlinck, and Paul Claudel.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Jean Hugo (19 November 1894 - 21 June 1984) was a painter, illustrator, theatre designer, and author. He was born in Paris and died in his home at the Mas de Fourques, near Lunel, France. Brought up in a lively artistic environment, he began teaching himself drawing and painting and wrote essays and poetry from a very early age. His artistic career spanned the 20th century, from his early sketches of the First World War, through the creative ferment of the Parisian interwar years, and up to his death in 1984. He was part of a number of artistic circles that included Jean Cocteau, Raymond Radiguet, Pablo Picasso, Georges Auric, Erik Satie, Blaise Cendrars, Marie-Laure de Noailles, Paul Eluard, Francis Poulenc, Charles Dullin, Louis Jouvet, Colette, Marcel Proust, Jacques Maritain, Max Jacob, Carl Theodor Dreyer, Marie Bell, Louise de Vilmorin, Cecil Beaton, and many others. 
+
+Coref Resolved: 
+
+Jean Hugo (19 November 1894 - 21 June 1984) was a painter, illustrator, theatre designer, and author.Jean Hugo was born in Paris and his death in 1984in Jean Hugo home at the Mas de Fourques, near Lunel, France.Brought up in a lively artistic environment, Jean Hugo began teaching Jean Hugo drawing and painting and wrote essays and poetry from a very early age.Jean Hugo artistic career spanned the 20th century, from Jean Hugo early sketches of the First World War, through the creative ferment of the Parisian interwar years, and up to Jean Hugo death in 1984.Jean Hugo was part of a number of artistic circles that included Jean Cocteau, Raymond Radiguet, Pablo Picasso, Georges Auric, Erik Satie, Blaise Cendrars, Marie-Laure de Noailles, Paul Eluard, Francis Poulenc, Charles Dullin, Louis Jouvet, Colette, Marcel Proust, Jacques Maritain, Max Jacob, Carl Theodor Dreyer, Marie Bell, Louise de Vilmorin, Cecil Beaton, and many others.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.5 1.0 -1 0.0 0.0 0.3333333333333333 0.6666666666666666 
+
+Value for ground truth is : 
+-1 0.25 -1 -1 0.9473684210526315 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate accurate accurate accurate accurate minor_inaccurate minor_inaccurate 
+

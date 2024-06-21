@@ -1,0 +1,85 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/The_Social_Network and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/The_Amazing_Spider-Man and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Southern_California and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Special_Victims_Unit and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/The_Good_Wife and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/The_Blacklist_(film) and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/The_Social_Network and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/The_Amazing_Spider-Man and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Edison_Glass and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/The_Actors'_Gang and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Duke_University and the value is : 1
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Southern_California and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Scott_Derrickson and the value is : 1
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Crankshaft and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Short_film and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Your_Blues and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Sunset_Strip and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Aspen_Shortsfest and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Austin_Film_Festival and the value is : 1
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Hamptons_International_Film_Festival and the value is : 1
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/LA_Film_Festival and the value is : 0
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/New_York_Comedy_Festival and the value is : 1
+http://dbpedia.org/resource/Adam_Collis and http://dbpedia.org/resource/Palm_Springs_International_Film_Festival and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Adam Collis (born October 28, 1983) is an American actor, writer, and producer.
+He is best known for his roles in the films The Social Network (2010), The Amazing Spider-Man (2012), and The Fault in Our Stars (2014).
+Collis was born in Los Angeles, California.
+He attended the University of Southern California, where he studied theater and film.
+After graduating, he moved to New York City to pursue an acting career.
+He has appeared in numerous television shows, including Law Order Special Victims Unit, The Good Wife, and The Blacklist.
+Collis has also appeared in several films, including The Social Network, The Amazing Spider-Man, and The Fault in Our Stars.
+He has also written and produced several short films, including The Last Day of Summer (2012) and The Last Goodbye (2014).
+Collis is currently based in Los Angeles, where he continues to pursue his acting career.
+He is also a member of the Los Angeles-based theater company, The Actors' Gang.
+
+
+Coref Resolved: 
+
+Adam Collis (born October 28, 1983) is an American actor, writer, and producer.
+Adam Collis (born October 28, 1983) is best known for Adam Collis (born October 28, 1983) roles in the films The Social Network (2010), The Amazing Spider-Man (2012), and The Fault in Our Stars (2014).
+Adam Collis (born October 28, 1983) was born in Los Angeles, California.
+Adam Collis (born October 28, 1983) attended the University of Southern California, where Adam Collis (born October 28, 1983) studied theater and film.
+After graduating, Adam Collis (born October 28, 1983) moved to New York City to pursue an acting career.
+Adam Collis (born October 28, 1983) has appeared in numerous television shows, including Law Order Special Victims Unit, The Good Wife, and The Blacklist.
+Adam Collis (born October 28, 1983) has also appeared in several films, including The Social Network (2010), The Amazing Spider-Man , and The Fault in Our Stars (2014).
+Adam Collis (born October 28, 1983) has also written and produced several short films, including The Last Day of Summer (2012) and The Last Goodbye (2014).
+Adam Collis (born October 28, 1983) is currently based in Los Angeles, California, where Adam Collis (born October 28, 1983) continues to pursue Adam Collis (born October 28, 1983) acting career.
+Adam Collis (born October 28, 1983) is also a member of the Los Angeles, Californiatheater company, The Actors' Gang.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Adam Collis is an American filmmaker and actor. He attended Duke University from 1986 to 1990 and the University of California, Los Angeles from 2007 to 2010. He also studied cinema at the University of Southern California from 1991 to 1997. Collis' first work was as the assistant director for Scott Derrickson's short "Love in the Ruins" (1995). In 1998, he played "Crankshaft" in Eric Koyanagi's "Hundred Percent". He has also directed several shorts and documentaries, including the award-winning short film, "Mad Boy, I'll Blow Your Blues Away". In 2000, Collis directed "Sunset Strip", a feature film about the Los Angeles rock 'n roll scene in the early 1970s. The film was produced by Art Linson and starred Simon Baker, Nick Stahl, Jared Leto, and Anna Friel. He received awards and nominations from the Aspen Shortsfest, Austin Film Festival, Hamptons International Film Festival, Los Angeles Independent Film Festival, New York Comedy Festival, and Palm Springs International Festival of Short Films. He is famous amongst his students for coining the terms "image size variation" and "psycho-emotional instrument" when referring to directing actors. 
+
+Coref Resolved: 
+
+Adam Collis is an American filmmaker and actor.Adam Collis attended Duke University from 1986 to 1990 and the University of California, Los Angeles from 2007 to 2010.Adam Collis also studied cinema at the University of Southern California from 1991 to 1997.Adam Collis first work was as the assistant director for Scott Derrickson's short "Love in the Ruins" (1995).In 1998, Adam Collis played "Crankshaft" in Eric Koyanagi's "Hundred Percent".Adam Collis has also directed several shorts and documentaries, including the award-winning short film, "Mad Boy, I'll Blow Your Blues Away".In 2000, Adam Collis directed "Sunset Strip", a feature film about the Los Angeles rock 'n roll scene in the early 1970s."Sunset Strip", a feature film about the Los Angeles rock 'n roll scene in the early 1970swas produced by Art Linson and starred Simon Baker, Nick Stahl, Jared Leto, and Anna Friel.Adam Collis received awards and nominations from the Aspen Shortsfest, Austin Film Festival, Hamptons International Film Festival, Los Angeles Independent Film Festival, New York Comedy Festival, and Palm Springs International Festival of Short Films.Adam Collis is famous amongst Adam Collis students for coining the terms "image size variation" and "psycho-emotional instrument" when referring to directing actors.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+Value for ground truth is : 
+-1 0.3333333333333333 0.0 1.0 0.0 0.0 0.0 -1 0.5 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

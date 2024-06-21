@@ -1,0 +1,70 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Vaudeville and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Broadway_theatre and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Silent_film and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Zorro and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/The_Three_Musketeers_(1921_film) and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/The_Three_Musketeers_(1921_film) and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Mary_Pickford and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/California and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Emmett_Till and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Emmett_Till and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Broadway_theatre and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/The_Passing_Show and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/West_End_theatre and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Claire_Whitney and the value is : 1
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Claire_Whitney and the value is : 1
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Forest_Lawn_Memorial_Park_(Glendale) and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Los_Angeles and the value is : 0
+http://dbpedia.org/resource/Robert_Emmett_Keane and http://dbpedia.org/resource/Claire_Whitney and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Robert Emmett Keane (1886 1947) was an American actor, director, and producer.
+He was born in New York City and began his career in vaudeville.
+He later moved to Broadway, where he appeared in a number of plays and musicals.
+He made his film debut in 1915 and went on to appear in over 200 films.
+He was best known for his roles in silent films such as The Mark of Zorro (1920), The Three Musketeers (1921), and The Iron Mask (1929).
+He also directed several films, including The Iron Mask (1929) and The Three Musketeers (1921).
+He was married to actress Mary Pickford from 1920 until their divorce in 1933.
+He died in 1947 in Los Angeles, California.
+
+
+Coref Resolved: 
+
+Robert Emmett Keane (1886 1947) was an American actor, director, and producer.
+Robert Emmett Keane (1886 1947) was born in New York City and began Robert Emmett Keane (1886 1947) career in vaudeville.
+Robert Emmett Keane (1886 1947) later moved to Broadway, where Robert Emmett Keane (1886 1947) appeared in a number of plays and musicals.
+Robert Emmett Keane (1886 1947) made Robert Emmett Keane (1886 1947) film debut in 1915 and went on to appear in over 200 films.
+Robert Emmett Keane (1886 1947) was best known for Robert Emmett Keane (1886 1947) roles in silent films such as The Mark of Zorro (1920), The Three Musketeers (1921), and The Iron Mask (1929).
+Robert Emmett Keane (1886 1947) also directed several films, including The Iron Mask (1929)and The Three Musketeers (1921).
+Robert Emmett Keane (1886 1947) was married to actress Mary Pickford from 1920until their divorce in 1933.
+Robert Emmett Keane (1886 1947) died in 1947 in Los Angeles, California.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Robert Emmett Keane (March 4, 1883 - July 2, 1981) was a prolific American actor of both the stage and screen. He was also known professionally by the names Emmett Keane, Robert Keane, R. Emmett Keane, and Robert E. Keane. He began on stage in the 1910s, with his first Broadway appearance being in the 1914 production of "The Passing Show of 1914". He would continue on the stage through the mid-1930s, appearing in both London and New York theater productions. His film career began in 1930, and over the twenty-five years of that career he would appear in between 170-200 films. At the very tail end of his acting life he would make several appearances on the small screen. Married twice, the first time was a short-lived union with Muriel Inetta Window, an opera singer, vaudeville actress and 1913 Peacock Girl with the Ziegfeld Follies. They were married in approximately 1916 and divorced in 1920. After his divorce, he would marry the actress Claire Whitney in 1921, and they would remain married until her death in 1969. He retired in 1958, and would die on July 2, 1981 and be buried in Forest Lawn Memorial Park in Los Angeles, next to his wife, Claire (although her grave is unmarked). 
+
+Coref Resolved: 
+
+Robert Emmett Keane (March 4, 1883 - July 2, 1981) was a prolific American actor of both the stage and screen.Robert Emmett Keane was also known professionally by the names Emmett Keane, Robert Keane, R. Emmett Keane, and Robert E. Keane.Robert Emmett Keane began on stage in the 1910s, with Robert Emmett Keane first Broadway appearance being in the 1914 production of "The Passing Show of 1914".Robert Emmett Keane would continue on the stage through the mid-1930s, appearing in both London and New York theater productions.Robert Emmett Keane film career began in 1930, and over the twenty-five years of His film career Robert Emmett Keane would appear in between 170-200 films.At the very tail end of Robert Emmett Keane acting life Robert Emmett Keane would make several appearances on the small screen.Married twice, the first time was a short-lived union with Muriel Inetta Window, an opera singer, vaudeville actress and 1913 Peacock Girl with the Ziegfeld Follies.They were married in approximately 1916 and his divorcein 1920.After Robert Emmett Keane divorce, Robert Emmett Keane would marry the actress Claire Whitney in 1921, and they would remain married until the actress Claire Whitney death in 1969.Robert Emmett Keane retired in 1958, and would die on July 2, 1981and be buried in Forest Lawn Memorial Park in Los Angeles, next to Robert Emmett Keane wife, Claire (although the actress Claire Whitney grave is unmarked).
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 0.0 0.0 -1 0.0 0.0 0.0 1.0 
+
+Value for ground truth is : 
+-1 0.0 0.0 0.0 -1 -1 -1 -1 1.0 0.3333333333333333 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate 
+

@@ -1,0 +1,134 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Fidel_Castro and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Herbie_Hancock and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Ron_Carter and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Wynton_Marsalis and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Montreux_Jazz_Festival and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/North_Sea_Jazz_Festival and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Montreal_International_Jazz_Festival and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Rio_de_Janeiro and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Antonio_Rossellino and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Luiz_Bonfá and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Ron_Carter and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Larry_Coryell and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Elizete_Cardoso and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Guillermo_Rubalcaba and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/John_E._McLaughlin and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Sadao_Watanabe_(musician) and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Hermeto_Pascoal and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Valle_del_Cauca_Department and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Saint_Peter and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Jay_Berliner and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Edu_Lobo and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Martinho_da_Vila and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/George_Frederick,_Margrave_of_Brandenburg-Ansbach and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Claus_Ogerman and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Dave_Brubeck and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/João_Donato and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Dom_Um_Romão and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Thiago_de_Mello and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Raul_de_Souza and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/John_Horton_Conway and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Eumir_Deodato and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Laudir_de_Oliveira and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Rodgers_Grant and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Gil_Goldstein and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Art_Farmer and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Eddie_Gómez and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Azymuth and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Os_Cariocas and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Amazon_Music and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Rio_de_Janeiro and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Petrobras and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Hurricane_Irma and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Milestone_Records and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Mercury_Records and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/EMI and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/JVCKenwood_Victor_Entertainment and the value is : 0
+http://dbpedia.org/resource/Compact_disc and http://dbpedia.org/resource/Peter_Schärli and the value is : 0
+http://dbpedia.org/resource/Compact_disc and http://dbpedia.org/resource/Nielsen_ratings and the value is : 0
+http://dbpedia.org/resource/Compact_disc and http://dbpedia.org/resource/Peter_Schärli and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Japan and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/South_Korea and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/England_national_football_team and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/France and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Germany and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Switzerland and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Finland and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Bulgaria and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Serbia and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Portugal and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/London and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Seoul and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Belgrade and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Madeira and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Helsinki and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Classical_music and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Brazil and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Europe and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Asia and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Korean_Tour and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Arirang and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Pop_music and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Korean_language and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Pop_music and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Miji_languages and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Lee_Ritenour and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Arrangement and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Alan_Broadbent and the value is : 1
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Diana_Krall and the value is : 0
+http://dbpedia.org/resource/Ithamara_Koorax and http://dbpedia.org/resource/Conducting and the value is : 0
+http://dbpedia.org/resource/Compact_disc and http://dbpedia.org/resource/Ithamara_Koorax and the value is : 0
+http://dbpedia.org/resource/Compact_disc and http://dbpedia.org/resource/Be_Real_(Kid_Ink_song) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Ithamara Koorax (born Ithamara Koorax de Castro Lobo, April 28, 1958) is a Brazilian jazz singer.
+She has released more than 20 albums, and has performed with many of the world's leading jazz musicians, including Herbie Hancock, Ron Carter, and Wynton Marsalis.
+Koorax has been praised for her ability to combine Brazilian rhythms with jazz, and for her powerful and emotive vocal style.
+She has been described as "one of the most important Brazilian jazz singers of the last two decades".
+Koorax has performed at many of the world's leading jazz festivals, including the Montreux Jazz Festival, the North Sea Jazz Festival, and the Montreal International Jazz Festival.
+
+
+Coref Resolved: 
+
+Ithamara Koorax (born Ithamara Koorax de Castro Lobo, April 28, 1958) is a Brazilian jazz singer.
+Ithamara Koorax has released more than 20 albums, and has performed with many of the world's leading jazz musicians, including Herbie Hancock, Ron Carter, and Wynton Marsalis.
+Ithamara Koorax has been praised for Ithamara Koorax ability to combine Brazilian rhythms with jazz, and for Ithamara Koorax powerful and emotive vocal style.
+Ithamara Koorax has been described as "one of the most important Brazilian jazz singers of the last two decades".
+Ithamara Koorax has performed at many of the world's leading jazz festivals, including the Montreux Jazz Festival, the North Sea Jazz Festival, and the Montreal International Jazz Festival.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Ithamara Koorax (born 23 May 1965) is a popular Brazilian pop-jazz singer. She was born in Rio de Janeiro and has worked with such artists as Antonio Carlos Jobim, Luiz Bonfa, Ron Carter, Larry Coryell, Elizeth Cardoso, Gonzalo Rubalcaba, John McLaughlin, Sadao Watanabe, Hermeto Pascoal, Marcos Valle, Peter Scharli, Jay Berliner, Edu Lobo, Martinho da Vila, Jürgen Friedrich, Claus Ogerman, Dave Brubeck, João Donato, Dom Um Romão, Thiago de Mello, Mario Castro-Neves, Raul de Souza, Chris Conway, Eumir Deodato, Lou Volpe, Laudir de Oliveira, Rodgers Grant, Gil Goldstein, Art Farmer, Eddie Gomez, the groups Azymuth, Gazzara and Os Cariocas, the big bands Amazon and Rio Jazz Orchestra, and the symphony orchestras "Petrobras" and "Jazz Sinfonica". She has recorded solo albums for the Irma, Milestone, Mercury, EMI, JVC, King, Huk's and Motema labels, besides fourteen soundtracks for movies and TV series, and also took part in more than 200 special projects and compilations. In 2009, "Bim Bom - The Complete Joao Gilberto Songbook," a duo session with guitarist Juarez Moreira, received rave reviews in The New York Times, Cashbox, Billboard, Jazz Hot, Jazz 'n' More, All Music Guide, and many other magazines, websites and newspapers. Another recent CD, "O Grande Amor," recorded during a European tour with the Peter Schärli Trio in 2010, was also released with critical acclaim, receiving a 4 and 1 2 star review in the May 2011 issue of Downbeat magazine and 5-star ratings in several other magazines like Jazz 'n' More. Later on, "O Grande Amor" was elected one of the "Best CDs of 2011" in the January 2012 issue of Downbeat. Ithamara Koorax has performed in the USA, Japan, Korea and many European countries (England, France, Germany, Switzerland, Czech Republic, Finland, Bulgaria, Serbia, Portugal etc.), appearing at jazz festivals in London, Seoul, Belgrade, Funchal, Helsinki, Indijja and many other cities. Koorax has also performed classical and fusion concerts backed by symphony orchestras. Her recordings have been remixed by DJs from all over the world, including Tom Novy, Parov Stelar, Cargo, and Tetsu Shibuya Brisa. During 2010, Ithamara performed 47 concerts in Brazil and 51 abroad, having toured Europe and Asia. In her latest Korean tour, in August 2010, Ithamara recorded an all-star project, "Arirang," alongside many pop Korean artists (like the pop group Miji) and such jazz musicians as guitarist Lee Ritenour pianist arranger Alan Broadbent, Diana Krall's conductor. Koorax's latest CD, "Got to Be Real," was released in March 2012. 
+
+Coref Resolved: 
+
+Ithamara Koorax (born 23 May 1965) is a popular Brazilian pop-jazz singer.Ithamara Koorax was born in Rio de Janeiro and has worked with such artists as Antonio Carlos Jobim, Luiz Bonfa, Ron Carter, Larry Coryell, Elizeth Cardoso, Gonzalo Rubalcaba, John McLaughlin, Sadao Watanabe, Hermeto Pascoal, Marcos Valle, Peter Scharli, Jay Berliner, Edu Lobo, Martinho da Vila, Jürgen Friedrich, Claus Ogerman, Dave Brubeck, João Donato, Dom Um Romão, Thiago de Mello, Mario Castro-Neves, Raul de Souza, Chris Conway, Eumir Deodato, Lou Volpe, Laudir de Oliveira, Rodgers Grant, Gil Goldstein, Art Farmer, Eddie Gomez, the groups Azymuth, Gazzara and Os Cariocas, the big bands Amazon and Rio Jazz Orchestra, and the symphony orchestras "Petrobras" and "Jazz Sinfonica".Ithamara Koorax has recorded solo albums for the Irma, Milestone, Mercury, EMI, JVC, King, Huk's and Motema labels, besides fourteen soundtracks for movies and TV series, and also took part in more than 200 special projects and compilations.In 2009, "Bim Bom - The Complete Joao Gilberto Songbook," a duo session with guitarist Juarez Moreira, received rave reviews in The New York Times, Cashbox, Billboard, Jazz Hot, Jazz 'n' More, All Music Guide, and many other magazines, websites and newspapers.Another recent CD, "O Grande Amor," recorded during a European tour with the Peter Schärli Trio in 2010, was also released with critical acclaim, receiving a 4 and 1 2 star review in the May 2011 issue of Downbeat magazine and 5-star ratings in several other magazines like Jazz 'n' More.Later on, Another recent CD, "O Grande Amor," recorded during a European tour with the Peter Schärli Trio in 2010was elected one of the "Best CDs of 2011" in the January 2012 issue of Downbeat magazine .Ithamara Koorax has performed in the USA, Japan, Korea and many European countries (England, France, Germany, Switzerland, Czech Republic, Finland, Bulgaria, Serbia, Portugal etc.), appearing at jazz festivals in London, Seoul, Belgrade, Funchal, Helsinki, Indijja and many other cities.Ithamara Koorax has also performed classical and fusion concerts backed by symphony orchestras.Ithamara Koorax recordings have been remixed by DJs from all over the world, including Tom Novy, Parov Stelar, Cargo, and Tetsu Shibuya Brisa.During 2010, Ithamara Koorax performed 47 concerts in Brazil and 51 abroad, having toured Europe and Asia.In Ithamara Koorax latest Korean tour, in August 2010, Ithamara Koorax recorded an all-star project, "Arirang," alongside many pop Korean artists (like the pop group Miji) and such jazz musicians as guitarist Lee Ritenour pianist arranger Alan Broadbent, Diana Krall's conductor.Ithamara Koorax latest CD, "Got to Be Real," was released in March 2012.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.5 0.5 1.0 1.0 0.25 
+
+Value for ground truth is : 
+-1 0.17647058823529413 0.0 -1 0.0 0.0 0.05555555555555555 0.0 -1 0.0 0.25 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate minor_inaccurate 
+

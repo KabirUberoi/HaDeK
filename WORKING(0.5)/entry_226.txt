@@ -1,0 +1,78 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Pitcher and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Seattle_Mariners and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Tokyo_Yakult_Swallows and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Nippon_Professional_Baseball and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Nippon_Professional_Baseball and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Central_League and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Nippon_Professional_Baseball and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Nippon_Professional_Baseball and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Nippon_Professional_Baseball_All-Star_Series and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Eiji_Sawamura_Award and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Seattle_Mariners and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/American_League and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Nippon_Professional_Baseball_All-Star_Series and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/American_League and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Earned_run_average and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Nippon_Professional_Baseball_All-Star_Series and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Baseball_at_the_2004_Summer_Olympics and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Eiji_Sawamura_Award and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Nippon_Professional_Baseball_All-Star_Series and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/2009_World_Baseball_Classic and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Japan_national_baseball_team and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Seattle_Mariners and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Nippon_Professional_Baseball_All-Star_Series and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/American_League and the value is : 0
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Cy_Young_Award and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/No-hitter and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Hideo_Nomo and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/Baltimore_Orioles and the value is : 1
+http://dbpedia.org/resource/Hisashi_Iwakuma and http://dbpedia.org/resource/T-Mobile_Park and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Hisashi Iwakuma (岩隈 久志, Iwakuma Hisashi, born April 12, 1981) is a Japanese professional baseball pitcher for the Seattle Mariners of Major League Baseball (MLB).
+He previously played for the Tokyo Yakult Swallows of Nippon Professional Baseball's (NPB) Central League.
+He is a three-time NPB All-Star and won the Sawamura Award in 2008.
+Iwakuma signed with the Mariners in January 2012 and made his MLB debut in August 2012.
+He was an American League (AL) All-Star in 2013 and won the AL ERA title in 2015.
+
+
+Coref Resolved: 
+
+Hisashi Iwakuma (岩隈 久志, Iwakuma Hisashi, born April 12, 1981) is a Japanese professional baseball pitcher for the Seattle Mariners of Major League Baseball (MLB).
+Hisashi Iwakuma previously played for the Tokyo Yakult Swallows of Nippon Professional Baseball's (NPB) Central League.
+Hisashi Iwakuma is a three-time Nippon Professional Baseball's (NPB) All-Star and won the Sawamura Award in 2008.
+Hisashi Iwakuma signed with the Seattle Mariners of Major League Baseball (MLB)in January 2012 and made Hisashi Iwakuma Major League Baseball (MLB)debut in August 2012.
+Hisashi Iwakuma was an American League (AL) All-Star in 2013 and won the American League (AL) ERA title in 2015.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Iwakuma made his professional debut with the Buffaloes in 2000. He was named an NPB All-Star in 2003 and 2004, and played in the 2004 Athens Olympics. He joined the Eagles in 2005. As the Eagles' reigning staff ace, Iwakuma won the Eiji Sawamura Award in 2005, and was also an NPB All-Star that year. He appeared in the 2009 World Baseball Classic for the Japanese national team. Iwakuma was posted to Major League Baseball after the 2010 season, but he failed to come to an agreement with the winning bidder. After the 2011 season, Iwakuma signed with the Mariners. He was an MLB All-Star in 2013, as well as the third-place finisher for the 2013 American League Cy Young Award. On August 12, 2015, Iwakuma became the second Japanese player ever to pitch a no-hitter in Major League Baseball (joining Hideo Nomo, who threw two), throwing a three-walk, seven-strikeout 3-0 win over the Baltimore Orioles at Safeco Field. It was also his first career complete game, and the Mariners' fifth no-hitter in team history. 
+
+Coref Resolved: 
+
+Iwakuma made Iwakuma professional debut with the Buffaloes in 2000.Iwakuma was named an NPB All-Star in 2003 and 2004, and played in the 2004 Athens Olympics.Iwakuma joined the Eagles in that year.As the Eagles reigning staff ace, Iwakuma won the Eiji Sawamura Award in that year, and was also an NPB All-Star that year.Iwakuma appeared in the 2009 World Baseball Classic for the Japanese national team.Iwakuma was posted to Major League Baseball after the 2010 season, but Iwakuma failed to come to an agreement with the winning bidder.After the 2011 season, Iwakuma signed with the Mariners.Iwakuma was an Major League Baseball All-Star in 2013, as well as the third-place finisher for the 2013 American League Cy Young Award.On August 12, 2015, Iwakuma became the second Japanese player ever to pitch a no-hitter in Major League Baseball (joining Hideo Nomo, who threw two), throwing a three-walk, seven-strikeout 3-0 win over the Baltimore Orioles at Safeco Field.a three-walk, seven-strikeout 3-0 win over the Baltimore Orioles at Safeco Fieldwas also Iwakuma first career complete game, and the Marinersfifth no-hitter in team history.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.5 0.75 1.0 0.25 
+
+Value for ground truth is : 
+-1 0.5 -1 0.5 1.0 1.0 1.0 0.5 1.0 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate major_inaccurate accurate minor_inaccurate minor_inaccurate 
+

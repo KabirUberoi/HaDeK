@@ -1,0 +1,82 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Canadians and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Scotland and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Province_of_Canada and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/1921_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/1926_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/1930_Alberta_general_election and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/United_Farmers_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Caucus and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Legislative_Assembly_of_Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Alberta_Wheat_Pool and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Edmonton and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Murrayfield and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Alberta and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Province_of_Canada and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Edmonton and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Province_of_Canada and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Ontario and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Manitoba and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Edmonton and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Edmonton and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Edmonton and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Edmonton and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Coal_mining and the value is : 0
+http://dbpedia.org/resource/John_Cameron_of_Lochiel and http://dbpedia.org/resource/Ravine and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+John Cameron (1860 1937) was a Canadian politician who served in the Legislative Assembly of Alberta from 1921 to 1935.
+He was born in Scotland and immigrated to Canada in 1883.
+Cameron was first elected to the Alberta Legislature in the 1921 Alberta general election.
+He was re-elected in the 1926 Alberta general election and the 1930 Alberta general election.
+He served as a member of the United Farmers of Alberta caucus.
+Cameron was a strong advocate for rural Alberta and was a vocal opponent of the provincial government's policy of centralization.
+He was a proponent of the development of the province's natural resources and was a strong supporter of the Alberta Wheat Pool.
+He was also a strong advocate for the rights of farmers and was a vocal opponent of the Alberta government's policy of taxation.
+Cameron retired from politics in 1935 and died in 1937.
+He was buried in Edmonton's Beechmount Cemetery.
+
+
+Coref Resolved: 
+
+John Cameron (1860 1937) was a Canadian politician who served in the Legislative Assembly of Alberta from 1921 to 1935.
+John Cameron (1860 1937) was born in Scotland and immigrated to Canada in 1883.
+John Cameron (1860 1937) was first elected to the Legislative Assembly of Alberta in the 1921 Alberta general election.
+John Cameron (1860 1937) was re-elected in the 1926 Alberta general election and the 1930 Alberta general election.
+John Cameron (1860 1937) served as a member of the United Farmers of Alberta caucus.
+John Cameron (1860 1937) was a strong advocate for rural Alberta and was a vocal opponent of the provincial government's policy of centralization.
+John Cameron (1860 1937) was a proponent of the development of Alberta natural resources and was a strong supporter of the Alberta Wheat Pool.
+John Cameron (1860 1937) was also a strong advocate for the rights of farmers and was a vocal opponent of the provincial government's policy of taxation.
+John Cameron (1860 1937) retired from politics in 1935and died in 1937.
+John Cameron (1860 1937) was buried in Edmonton's Beechmount Cemetery.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+John Cameron (May 28, 1846 - October 6, 1919) was a merchant and politician in Alberta, Canada, and a municipal councillor in Edmonton. He is regarded as one of the city's pioneer citizens. Born in Canada West (later Ontario), Cameron worked as a merchant in his birth province and Manitoba before coming to Edmonton in 1881. In Edmonton, he continued as a merchant, owning and operating a store for 15 years. He quickly established himself as a prominent citizen, serving on the inaugural Edmonton Board of Trade as president, which he remained for five years. Cameron was also involved in the development of the Edmonton Public School Board, serving on the board in the 1890s. He was also involved in the town's politics, winning election to Edmonton's first town council in 1892 and serving an additional term when elected in 1895. After his retirement from politics, he worked in the coal and real estate business until his death in 1919, at the age of 73. Upon his death, he was lauded as one of the pioneer citizens of Edmonton a street, neighbourhood, and ravine were named for him. 
+
+Coref Resolved: 
+
+John Cameron (May 28, 1846 - October 6, 1919) was a merchant and politician in Alberta, Canada, and a municipal councillor in Edmonton.John Cameron is regarded as one of Edmontonpioneer citizens.Born in Canada West (later Ontario), John Cameron worked as a merchant in John Cameron birth province and Manitoba before coming to Edmontonin 1881.In Edmonton, John Cameron continued as a merchant, owning and operating a store for 15 years.John Cameron quickly established John Cameron as a prominent citizen, serving on the inaugural Edmonton Board of Trade as president, which John Cameron remained for five years.John Cameron was also involved in the development of the Edmonton Public School Board, serving on the Edmonton Public School Boardin the 1890s.John Cameron was also involved in Edmontonpolitics, winning election to Edmontonfirst town council in 1892 and serving an additional term when elected in 1895.After John Cameron retirement from politics, John Cameron worked in the coal and real estate business until John Cameron death in 1919, at the age of 73.Upon John Cameron death, John Cameron was lauded as one of the pioneer citizens of Edmontona street, neighbourhood, and ravine were named for John Cameron .
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 -1 -1 0.0 
+
+Value for ground truth is : 
+0.0 -1 0.0 0.0 0.0 0.0 -1 0.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate accurate 
+

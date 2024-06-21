@@ -1,0 +1,63 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Silent_film and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Sound_film and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Mitsubishi_Debonair and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/New_York_City and the value is : 1
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Silent_film and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Mary_Pickford and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Lillian_Gish and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Clara_Bow and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Western_fiction and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/The_Covered_Wagon and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/Iron_horse and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/The_Invisible_Man and the value is : 0
+http://dbpedia.org/resource/Alan_Dinehart and http://dbpedia.org/resource/The_Little_Minister_(1934_film) and the value is : 0
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Alan Dinehart (April 17, 1888 October 28, 1944) was an American actor of the silent and early sound film eras.
+He appeared in more than 200 films between 1915 and 1944, often playing suave, debonair leading men.
+Dinehart was born in New York City and began his career on the stage.
+He made his film debut in 1915 and quickly became a popular leading man in silent films.
+He was often cast as a romantic lead opposite stars such as Mary Pickford, Lillian Gish, and Clara Bow.
+He also appeared in a number of westerns, including The Covered Wagon (1923) and The Iron Horse (1924).
+In the early 1930s, Dinehart transitioned to sound films, appearing in a number of popular films such as The Big Broadcast (1932), The Invisible Man (1933), and The Little Minister (1934).
+He continued to appear in films until his death in 1944.
+
+
+Coref Resolved: 
+
+Alan Dinehart (April 17, 1888 October 28, 1944) was an American actor of the silent and early sound film eras.
+Alan Dinehart appeared in more than 200 films between 1915 and 1944, often playing suave, debonair leading men.
+Alan Dinehart was born in New York City and began Alan Dinehart career on the stage.
+Alan Dinehart made Alan Dinehart film debut in 1915 and quickly became a popular leading man in silent films.
+Alan Dinehart was often cast as a romantic lead opposite stars such as Mary Pickford, Lillian Gish, and Clara Bow.
+Alan Dinehart also appeared in a number of westerns, including The Covered Wagon (1923) and The Iron Horse (1924).
+In the early 1930s, Alan Dinehart transitioned to sound films, appearing in a number of popular films such as The Big Broadcast (1932), The Invisible Man (1933), and The Little Minister (1934).
+Alan Dinehart continued to appear in films until Alan Dinehart death in 1944.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Alan Mason Dinehart Sr. (born October 3, 1889 in St. Paul, Minnesota - died July 17, 1944, in Hollywood, California) was an American actor, director, writer, and stage manager. He became a character actor and supporting player in at least eighty-eight films between 1931 and 1944. Earlier, he appeared in more than twenty Broadway plays. He left school to appear on stage with a repertory company and had no screen experience when he signed a contract with Fox in May 1931. Dinehart's likeness was drawn in caricature by Alex Gard for Sardi's, the New York City theater district restaurant. The picture is now part of the collection of the New York Public Library. Dinehart's first wife was the stage actress Louise Dyer (1895-1934), a native of Nassau County, New York. They were divorced in 1932. In 1933, Dinehart married the film actress Mozelle Britton (May 12, 1912 - May 18, 1953), a native of Oklahoma City, Oklahoma. They are entombed together at Forest Lawn Memorial Park in Glendale, California. Dinehart had two sons from the first marriage, Alan Dinehart Jr. (1918-1992), and from the second marriage, Mason Alan Dinehart, aka Alan Dinehart III, born in Los Angeles in 1936. Mason Alan Dinehart was cast in several 1950s television series, including the role of a young Bat Masterson in the ABC Desilu Studios western, "The Life and Legend of Wyatt Earp", starring Hugh O'Brian in the title role. 
+
+Coref Resolved: 
+
+Alan Mason Dinehart Sr. (born October 3, 1889 in St. Paul, Minnesota - died July 17, 1944, in Hollywood, California) was an American actor, director, writer, and stage manager.Alan Mason Dinehart Sr. became a character actor and supporting player in at least eighty-eight films between 1931 and 1944.Earlier, Alan Mason Dinehart Sr. appeared in more than twenty Broadway plays.Alan Mason Dinehart Sr. left school to appear on stage with a repertory company and had no screen experience when Alan Mason Dinehart Sr. signed a contract with Fox in May 1931.Alan Mason Dinehart Sr. likeness was drawn in caricature by Alex Gard for Sardi's, the New York City theater district restaurant.The picture is now part of the collection of the New York Public Library.Alan Mason Dinehart Sr. first wife was the stage actress Louise Dyer (1895-1934), a native of Nassau County, New York.They were divorced in 1932.In 1933, Alan Mason Dinehart Sr. married the film actress Mozelle Britton (May 12, 1912 - May 18, 1953), a native of Oklahoma City, Oklahoma.They are entombed together at Forest Lawn Memorial Park in Glendale, California.Alan Mason Dinehart Sr. had two sons from Dinehart's first wife , Alan Dinehart Jr. (1918-1992), and from the second marriage, Mason Alan Dinehart, aka Alan Dinehart III, born in Los Angeles in 1936.Mason Alan Dinehart, aka Alan Dinehart III, born in Los Angeles in 1936was cast in several 1950s television series, including the role of a young Bat Masterson in the ABC Desilu Studios western, "The Life and Legend of Wyatt Earp", starring Hugh O'Brian in the title role.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 1.0 0.0 0.0 0.0 0.0 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate accurate 
+

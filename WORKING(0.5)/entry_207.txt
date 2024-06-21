@@ -1,0 +1,95 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Bologna_F.C._1909 and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Italy_national_rugby_union_team and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Auto_racing and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/FIA_GT_Championship and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/European_Le_Mans_Series and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/International_GT_Open and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Italian_GT_Championship and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/24_Hours_of_Le_Mans and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Kart_racing and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Italian_Formula_Three_Championship and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/International_Formula_3000 and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/International_Formula_3000 and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Sports_car_racing and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/FIA_GT_Championship and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Chrysler_Viper_GTS-R and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Larbre_Compétition and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Chrysler_Viper_GTS-R and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Larbre_Compétition and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/FIA_GT_Championship and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/European_Le_Mans_Series and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Auto_racing and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Italy_national_football_team and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Bologna_F.C._1909 and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Formula_Alfa and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Italian_Formula_Three_Championship and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/FIA_World_Endurance_Championship and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/International_Formula_3000 and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Marco_Campos and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Marco_Campos and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Italians and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Italians and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Auto_GP and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/FIA_GT_Championship and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/BMS_Scuderia_Italia and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/European_Le_Mans_Series and the value is : 0
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/FIA_GT_Championship and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Vitaphone_Racing and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Vitaphone_Racing and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/FIA_GT_Championship and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/Ferrari_F430 and the value is : 1
+http://dbpedia.org/resource/Thomas_Biagi and http://dbpedia.org/resource/AF_Corse and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Thomas Biagi (born 28 April 1972 in Bologna, Italy) is an Italian professional racing driver.
+He has competed in such series as the FIA GT Championship, the European Le Mans Series, the International GT Open, the Italian GT Championship, and the 24 Hours of Le Mans.
+Biagi began his career in karting in 1988, and moved up to single-seaters in 1991.
+He competed in the Italian Formula Three Championship from 1992 to 1994, and then moved to the International Formula 3000 Championship in 1995.
+He raced in the series until 1998, when he switched to sports car racing.
+Biagi made his debut in the FIA GT Championship in 1999, driving a Chrysler Viper GTS-R for the Larbre Compétition team.
+He finished third in the championship that year, and went on to win the championship in 2000.
+He also won the 24 Hours of Le Mans in 2001, driving a Chrysler Viper GTS-R for the same team.
+Biagi continued to race in the FIA GT Championship until 2003, when he switched to the European Le Mans Series.
+He won the championship in 2004, and.
+
+
+Coref Resolved: 
+
+Thomas Biagi (born 28 April 1972 in Bologna, Italy) is an Italian professional racing driver.
+Thomas Biagi has competed in such series as the FIA GT Championship, the European Le Mans Series, the International GT Open, the Italian GT Championship, and the 24 Hours of Le Mans.
+Thomas Biagi began Thomas Biagi career in karting in 1988, and moved up to single-seaters in 1991.
+Thomas Biagi competed in the Italian Formula Three Championship from 1992 to 1994, and then moved to the International Formula 3000 Championship in 1995.
+Thomas Biagi raced in the International Formula 3000 Championship until 1998, when Thomas Biagi switched to sports car racing.
+Thomas Biagi made Thomas Biagi debut in the FIA GT Championshipin that year, driving a Chrysler Viper GTS-R for the Larbre Compétition team.
+Thomas Biagi finished third in the championship that year, and went on to win the championship in 2000.
+Thomas Biagi also won the 24 Hours of Le Mansin 2001, driving a Chrysler Viper GTS-R for the Larbre Compétition team.
+Thomas Biagi continued to race in the FIA GT Championshipuntil 2003, when Thomas Biagi switched to the European Le Mans Series.
+Thomas Biagi won the championship in 2004, and.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Thomas Biagi is a professional racecar driver from Italy. He was born in Bologna on 7 May 1976. Biagi started his career in single seaters, driving in the Formula Alfa Boxer and Italian Formula Three Championship, where he was the fifth best in 1995, with two wins. From there, he moved up to the FIA Formula 3000 Championship from 1995 to 1998, without major results. His debut race in 1995 saw him collide with Marco Campos on the last lap, resulting in a crash which inflicted fatal injuries on the Brazilian driver. Biagi switched to the "second division", the Italian F3000 Championship, in 1999, taking fourth place, which he repeated in 2000 (after the series had become Euro F3000), this time with a win, before taking second overall in 2001, in his second season with GP Racing. In 2003, Thomas Biagi made a successful move to the FIA GT Championship, which he won in a BMS Scuderia Italia Ferrari 550 Maranello (co-driven with Matteo Bobbi). After a year in the Le Mans Endurance Series, he returned to the FIA GT with Vitaphone Racing, helping the squad take two team titles before winning the drivers' title himself in 2007. In spite of having won the drivers' title in the GT1 class, Biagi downgraded to GT2 in 2008, to drive a Ferrari 430 for AF Corse. 
+
+Coref Resolved: 
+
+Thomas Biagi is a professional racecar driver from Italy.Thomas Biagi was born in Bologna on 7 May 1976.Thomas Biagi started Thomas Biagi career in single seaters, driving in the Formula Alfa Boxer and Italian Formula Three Championship, where Thomas Biagi was the fifth best in 1995, with two wins.From there, Thomas Biagi moved up to the FIA Formula 3000 Championship from 1995to 1998, without major results.Thomas Biagi debut race in 1995saw Thomas Biagi collide with Marco Campos on the last lap, resulting in a crash which inflicted fatal injuries on Marco Campos .Thomas Biagi switched to the "second division", the Italian F3000 Championship, in 1999, taking fourth place, which Thomas Biagi repeated in 2000 (after the "second division", the Italian F3000 Championshiphad become Euro F3000), this time with a win, before taking second overall in 2001, in Thomas Biagi second season with GP Racing.In 2003, Thomas Biagi made a successful move to the FIA GT Championship, which Thomas Biagi won in a BMS Scuderia Italia Ferrari 550Maranello (co-driven with Matteo Bobbi).After a year in the Le Mans Endurance Series, Thomas Biagi returned to the FIA GT with Vitaphone Racing, helping Vitaphone Racingtake two team titles before winning the drivers' title Thomas Biagi in 2007.In spite of having won the drivers' title in the GT1 class, Thomas Biagi downgraded to GT2 in 2008, to drive a Ferrari 430 for AF Corse.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.6 0.0 1.0 0.5 0.3333333333333333 -1 0.0 0.5 -1 
+
+Value for ground truth is : 
+0.0 0.0 0.5 0.5 1.0 0.3333333333333333 1.0 -1 0.75 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate accurate major_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

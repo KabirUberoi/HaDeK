@@ -1,0 +1,83 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/The_Fountainhead and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Objectivism and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Russia and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Broadway_theatre and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/The_Fountainhead and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Philosophy and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Alisa_Bosconovitch and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Playwright and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Screenwriter and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/The_Fountainhead and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Objectivism and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Russia and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/American_poetry and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Broadway_theatre and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/American_poetry and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/The_Fountainhead and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Atlas_Shrugged and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Philosophy and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Ethical_egoism and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Altruism and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Social_organization and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Statism and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Anarchism and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Laissez-faire and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Laissez-faire and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Romantic_realism and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Aristotelianism and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Classicism and the value is : 0
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Libertarianism and the value is : 1
+http://dbpedia.org/resource/Ayn_Rand and http://dbpedia.org/resource/Conservatism_in_the_United_States and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Ayn Rand (born Alisa Zinov'yevna Rosenbaum February 2 O.S. January 20 1905 March 6, 1982) was a Russian-American writer and philosopher.
+She is known for her two best-selling novels, The Fountainhead and Atlas Shrugged, and for developing a philosophical system she called Objectivism.
+Educated in Russia, she moved to the United States in 1926.
+She had a play produced on Broadway in 1935 and 1936.
+After two early novels that were initially unsuccessful, she achieved fame with her 1943 novel, The Fountainhead.
+In 1957, Rand published her best-known work, the novel Atlas Shrugged.
+Afterward, she turned to non-fiction to promote her philosophy, publishing her own magazines and releasing several collections of essays until her death in 1982.
+
+
+Coref Resolved: 
+
+Ayn Rand (born Alisa Zinov'yevnaRosenbaum February 2 O.S. January 20 1905 March 6, 1982) was a Russian-American writer and philosopher.
+Ayn Rand is known for Ayn Rand two best-selling novels, The Fountainhead and Atlas Shrugged, and for developing a philosophical system Ayn Rand called Objectivism.
+Educated in Russia, Ayn Rand moved to the United States in 1926.
+Ayn Rand had a play produced on Broadway in 1935 and 1936.
+After two early novels that were initially unsuccessful, Ayn Rand achieved fame with Ayn Rand 1943 novel, The Fountainhead.
+In 1957, Ayn Rand published Ayn Rand best-known work, the novel Atlas Shrugged.
+Afterward, Ayn Rand turned to non-fiction to promote Ayn Rand philosophy, publishing Ayn Rand own magazines and releasing several collections of essays until Ayn Rand death in 1982.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Ayn Rand (born Alisa Zinov'yevna Rosenbaum March 6, 1982) was a Russian-born American novelist, philosopher, playwright, and screenwriter. She is known for her two best-selling novels, The Fountainhead and Atlas Shrugged, and for developing a philosophical system she called Objectivism. Born and educated in Russia, Rand moved to the United States in 1926. She had a play produced on Broadway in 1935 1936. After two early novels that were initially unsuccessful in America, she achieved fame with her 1943 novel, The Fountainhead. In 1957, she published her best-known work, the novel Atlas Shrugged. Afterward, she turned to non-fiction to promote her philosophy, publishing her own magazines and releasing several collections of essays until her death in 1982. Rand advocated reason as the only means of acquiring knowledge and rejected faith and religion. She supported rational and ethical egoism, and rejected altruism. In politics, she condemned the initiation of force as immoral and opposed collectivism and statism as well as anarchism, instead supporting "laissez-faire" capitalism, which she defined as the system based on recognizing individual rights. In art, Rand promoted romantic realism. She was sharply critical of most philosophers and philosophical traditions known to her, except for some Aristotelians and classical liberals. Literary critics received Rand's fiction with mixed reviews, and academia generally ignored or rejected her philosophy, though academic interest has increased in recent decades. The Objectivist movement attempts to spread her ideas, both to the public and in academic settings. She has been a significant influence among libertarians and American conservatives. 
+
+Coref Resolved: 
+
+Ayn Rand (born Alisa Zinov'yevna Rosenbaum March 6, 1982) was a Russian-born American novelist, philosopher, playwright, and screenwriter.Ayn Rand is known for Ayn Rand two best-selling novels, The Fountainhead and Atlas Shrugged, and for developing a philosophical system Ayn Rand called Objectivism.Born and educated in Russia, Ayn Rand moved to the United States in 1926.Ayn Rand had a play produced on Broadway in 1935 1936.After two early novels that were initially unsuccessful in the United States , Ayn Rand achieved fame with Ayn Rand 1943 novel, The Fountainhead.In 1957, Ayn Rand published Ayn Rand best-known work, the novel Atlas Shrugged.Afterward, Ayn Rand turned to non-fiction to promote Ayn Rand philosophy, publishing Ayn Rand own magazines and releasing several collections of essays until Ayn Rand death in 1982.Ayn Rand advocated reason as the only means of acquiring knowledge and rejected faith and religion.Ayn Rand supported rational and ethical egoism, and rejected altruism.In politics, Ayn Rand condemned the initiation of force as immoral and opposed collectivism and statism as well as anarchism, instead supporting "laissez-faire" capitalism, which Ayn Rand defined as the system based on recognizing individual rights.In art, Ayn Rand promoted romantic realism.Ayn Rand was sharply critical of most philosophers and philosophical traditions known to Ayn Rand , except for some Aristotelians and classical liberals.Literary critics received Ayn Rand fiction with mixed reviews, and academia generally ignored or rejected Ayn Rand philosophy, though academic interest has increased in recent decades.The Objectivist movement attempts to spread Ayn Rand ideas, both to the public and in academic settings.Ayn Rand has been a significant influence among libertarians and American conservatives.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 1.0 0.0 1.0 1.0 1.0 0.0 
+
+Value for ground truth is : 
+0.0 1.0 0.0 1.0 0.5 1.0 0.0 -1 0.5 0.8 1.0 0.0 -1 -1 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate accurate accurate 
+

@@ -1,0 +1,42 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Dara Grace Torres (born April 15, 1967) is an American former competitive swimmer who is a twelve-time Olympic medalist and former world record-holder in three events.
+Torres is the first swimmer in history to represent the United States in five Olympic Games (1984, 1988, 1992, 2000 and 2008), and, at age 41, the oldest swimmer to earn a place on the U.S. Olympic team.
+At the 2008 Olympics, she competed in the 50-meter freestyle, 4 100-meter medley relay, and 4 100-meter freestyle relay, and won silver medals in all three events.
+She won twelve Olympic medals, including four gold medals, and, at age 41, became the oldest swimmer to win an Olympic medal.
+
+
+Coref Resolved: 
+
+Dara Grace Torres (born April 15, 1967) is an American former competitive swimmer who is a twelve-time Olympic medalist and former world record-holder in three events.
+Dara Grace Torres is the first swimmer in history to represent the United States in five Olympic Games (1984, 1988, 1992, 2000 and 2008), and, at age 41, the oldest swimmer to earn a place on the U.S. Olympic team.
+At the 2008 Olympics, Dara Grace Torres competed in the 50-meter freestyle, 4 100-meter medley relay, and 4 100-meter freestyle relay, and won silver medals in the 50-meter freestyle, 4 100-meter medley relay, and 4 100-meter freestyle relay.
+Dara Grace Torres won twelve Olympic medals, including four gold medals, and, at age 41, became the oldest swimmer to win an Olympic medal.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Dara Grace Torres (born April 15, 1967) is an American former competition swimmer who is a twelve-time Olympic medalist and former world record-holder in three events. Torres is the first and only swimmer to represent the United States in five Olympic Games (1984, 1988, 1992, 2000, and 2008), and, at age 41, was the oldest swimmer ever to earn a place on the U.S. Olympic team. At the 2008 Summer Olympics, she competed in the 50-meter freestyle, 4 100-meter medley relay, and 4 100-meter freestyle relay, and won silver medals in all three events. Torres has won twelve Olympic medals (four gold, four silver, four bronze), making her one of three women with the most Olympic women's swimming medals. She won five medals at the 2000 Summer Olympics when, at age 33, she was the oldest member of the 2000 U.S. Olympic swim team. She has also won at least one medal in each of the five Olympics in which she has competed, making her one of only a handful of Olympians to earn medals in five different Games. 
+
+Coref Resolved: 
+
+Dara Grace Torres (born April 15, 1967) is an American former competition swimmer who is a twelve-time Olympic medalist and former world record-holder in three events.Dara Grace Torres is the first and only swimmer to represent the United States in five Olympic Games (1984, 1988, 1992, 2000, and 2008), and, at age 41, was the oldest swimmer ever to earn a place on the U.S. Olympic team.At the 2008 Summer Olympics, Dara Grace Torres competed in the 50-meter freestyle, 4 100-meter medley relay, and 4 100-meter freestyle relay, and won silver medals in the 50-meter freestyle, 4 100-meter medley relay, and 4 100-meter freestyle relay.Dara Grace Torres has won twelve Olympic medals (four gold, four silver, four bronze), making Dara Grace Torres one of three women with the most Olympic women's swimming medals.Dara Grace Torres won five medals at the 2000 Summer Olympics when, at age 33, Dara Grace Torres was the oldest member of the 2000 U.S. Olympic swim team.Dara Grace Torres has also won at least one medal in each of the five Olympics in which Dara Grace Torres has competed, making Dara Grace Torres one of only a handful of Olympians to earn medals in five different Games.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 -1 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate 
+

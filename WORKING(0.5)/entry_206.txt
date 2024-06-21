@@ -1,0 +1,69 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Ancient_Greece and the value is : 1
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Alexander_the_Great and the value is : 1
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Ancient_Greece and the value is : 1
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Alexander_the_Great and the value is : 1
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Alexander_the_Great and the value is : 1
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Ancient_Greece and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Amyntor_(son_of_Ormenus) and the value is : 0
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Ancient_Macedonians and the value is : 1
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Nobility and the value is : 0
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Alexander_the_Great and the value is : 1
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Hephaestion and the value is : 1
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Hephaestion and the value is : 1
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Hephaestion and the value is : 1
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Drypetis and the value is : 1
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Darius_III and the value is : 1
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Achaemenid_Empire and the value is : 1
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Ecbatana and the value is : 1
+http://dbpedia.org/resource/Hephaestion and http://dbpedia.org/resource/Alexander_the_Great and the value is : 1
+http://dbpedia.org/resource/Alexander_the_Great and http://dbpedia.org/resource/Hephaestion and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Hephaestion (Ancient Greek Ἡφαιστίων, Hēphaistíōn c. 356 BC 324 BC), son of Amyntor, was a Macedonian nobleman and a general in the army of Alexander the Great.
+He was "by far the dearest of all the king's friends he had been brought up with Alexander and shared all his secrets.".
+This friendship was compared, by others as well as themselves, to that of Achilles and Patroclus.
+His military career was distinguished.
+He was the first to scale the walls of Tyre in 332 BC, which was the primary cause of the fall of the city.
+He was also the first to conquer the Malli in India in 326 BC.
+He was also in command of the Companion cavalry on the left wing in the Battle of Gaugamela in 331 BC.
+He died of illness in 324 BC.
+
+
+Coref Resolved: 
+
+Hephaestion (Ancient Greek Ἡφαιστίων, Hēphaistíōn c. 356BC 324 BC), son of Amyntor, was a Macedonian nobleman and a general in the army of Alexander the Great.
+Hephaestion (Ancient Greek Ἡφαιστίων, Hēphaistíōn was "by far the dearest of all Alexander the Greatfriends Hephaestion (Ancient Greek Ἡφαιστίων, Hēphaistíōn had been brought up with Alexander the Greatand shared all Alexander the Greatsecrets.".
+This friendship was compared, by others as well as themselves, to that of Achilles and Patroclus.
+Hephaestion (Ancient Greek Ἡφαιστίων, Hēphaistíōn military career was distinguished.
+Hephaestion (Ancient Greek Ἡφαιστίων, Hēphaistíōn was the first to scale the walls of Tyre in 332 BC, which was the primary cause of the fall of Tyre .
+Hephaestion (Ancient Greek Ἡφαιστίων, Hēphaistíōn was also the first to conquer the Malli in India in 326 BC.
+Hephaestion (Ancient Greek Ἡφαιστίων, Hēphaistíōn was also in command of the Companion cavalry on the left wing in the Battle of Gaugamela in 331 BC.
+Hephaestion (Ancient Greek Ἡφαιστίων, Hēphaistíōn died of illness in 324 BC.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Hephaestion (c. 356 BC 324 BC), son of Amyntor, was a Macedonian nobleman and a general in the army of Alexander the Great. He was "...by far the dearest of all the king's friends he had been brought up with Alexander and shared all his secrets." This friendship lasted throughout their lives, and was compared, by others as well as themselves, to that of Achilles and Patroclus. His military career was distinguished. A member of Alexander the Great's personal bodyguard, he went on to command the Companion Cavalry and was entrusted with many other tasks throughout Alexander's ten-year campaign in Asia, including diplomatic missions, the bridging of major rivers, sieges, and the foundation of new settlements. Besides being a soldier, engineer, and diplomat, he corresponded with the philosophers Aristotle and Xenocrates and actively supported Alexander in his attempts to integrate the Greeks and Persians. Alexander formally made him his second-in-command when he appointed him Chiliarch of the Empire. Alexander also made him part of the royal family when he gave him as his bride Drypetis, sister to his own second wife Stateira, both daughters of Darius III of Persia. When he died suddenly at Ecbatana around age thirty-two, Alexander was overwhelmed with grief. He petitioned the oracle at Siwa to grant Hephaestion divine status, and thus Hephaestion was honored as a "divine hero". Hephaestion was cremated in Babylon in the presence of the entire army. At the time of his own death a mere eight months later, Alexander was still planning lasting monuments to Hephaestion's memory. 
+
+Coref Resolved: 
+
+Hephaestion (c. 356 BC 324 BC), son of Amyntor, was a Macedonian nobleman and a general in the army of Alexander the Great.Hephaestion (c. 356BC 324 BC), son of Amyntorwas "...by far the dearest of all Alexander the Greatfriends Hephaestion (c. 356 BC 324 BC), son of Amyntorhad been brought up with Alexander the Greatand shared all Alexander the Greatsecrets."This friendship lasted throughout their lives, and was compared, by others as well as their , to that of Achilles and Patroclus.Hephaestion (c. 356BC 324 BC), son of Amyntormilitary career was distinguished.A member of Alexander the Greatpersonal bodyguard, Hephaestion (c. 356BC324 BC), son of Amyntorwent on to command the Companion Cavalry and was entrusted with many other tasks throughout Alexander the Greatten-year campaign in Asia, including diplomatic missions, the bridging of major rivers, sieges, and the foundation of new settlements.Besides being a soldier, engineer, and diplomat, Hephaestion (c. 356BC 324 BC), son of Amyntorcorresponded with the philosophers Aristotle and Xenocrates and actively supported Alexander the Greatin Alexander the Greatattempts to integrate the Greeks and Persians.Alexander the Greatformally made Hephaestion (c. 356 BC 324 BC), son of AmyntorAlexander the Greatsecond-in-commandwhen Alexander the Greatappointed Hephaestion (c. 356 BC 324 BC), son of AmyntorChiliarch of the Empire.Alexander the Greatalso made Hephaestion (c. 356 BC 324 BC), son of Amyntorpart of the royal family when Alexander the Greatgave Hephaestion (c. 356 BC 324 BC), son of Amyntoras Alexander the Greatbride Drypetis, sister to Alexander the Greatown second wife Stateira, both daughters of Darius III of Persia.When Hephaestion (c. 356 BC 324 BC), son of Amyntordied suddenly at Ecbatana around age thirty-two, Alexander the Greatwas overwhelmed with grief.Alexander the Greatpetitioned the oracle at Siwa to grant Hephaestion (c. 356 BC 324 BC), son of Amyntordivine status, and thus Hephaestion (c. 356 BC 324 BC), son of Amyntorwas honored as a "divine hero".Hephaestion (c. 356BC 324 BC), son of Amyntorwas cremated in Babylon in the presence of the entire army.At the time of Alexander the Greatown death a mere eight months later, Alexander the Greatwas still planning lasting monuments to Hephaestion (c. 356 BC 324 BC), son of Amyntormemory.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 1.0 -1 1.0 -1 -1 
+
+Value for ground truth is : 
+0.5 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 1.0 -1 1.0 1.0 -1 -1 -1 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate accurate accurate accurate accurate 
+

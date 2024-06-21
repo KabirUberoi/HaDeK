@@ -1,0 +1,118 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Go_(game) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Tokyo and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Japan and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Go_(game) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Go_ranks_and_ratings and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Honorary_Go_titles and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Kisei_(Go) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Go_(game) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Japan and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Nihon_Ki-in and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Nihon_Ki-in and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Kansai_Ki-in and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Kansai_region and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Nihon_Ki-in and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Nihon_Ki-in and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/International_Go_Federation and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Global_Guardians and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Imperial_Japanese_Navy_Air_Service and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Imperial_Japanese_Navy_Air_Service and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Fighter_aircraft and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Imperial_Japanese_Navy and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/China and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Aircraft_carrier and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Japanese_aircraft_carrier_Zuikaku and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Battle_of_the_Coral_Sea and the value is : 1
+http://dbpedia.org/resource/Carrier_air_wing and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+http://dbpedia.org/resource/Carrier_air_wing and http://dbpedia.org/resource/Tetsuzō_Iwamoto and the value is : 0
+http://dbpedia.org/resource/Carrier_air_wing and http://dbpedia.org/resource/Rabaul and the value is : 0
+http://dbpedia.org/resource/Carrier_air_wing and http://dbpedia.org/resource/New_Britain and the value is : 0
+http://dbpedia.org/resource/Carrier_air_wing and http://dbpedia.org/resource/Imperial_Japanese_Navy_Air_Service and the value is : 0
+http://dbpedia.org/resource/Carrier_air_wing and http://dbpedia.org/resource/Imperial_Japanese_Navy_Air_Service and the value is : 0
+http://dbpedia.org/resource/Carrier_air_wing and http://dbpedia.org/resource/Allies_of_World_War_II and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Chuuk_Lagoon and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Caroline_Islands and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Commonwealth_of_the_Philippines and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Ensign and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Commonwealth_of_the_Philippines and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Kamikaze and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Tropical_cyclone and the value is : 0
+http://dbpedia.org/resource/Royal_Navy and http://dbpedia.org/resource/Imperial_Japanese_Navy_Air_Service and the value is : 1
+http://dbpedia.org/resource/Royal_Navy and http://dbpedia.org/resource/Imperial_Japanese_Navy_Air_Service and the value is : 1
+http://dbpedia.org/resource/Royal_Navy and http://dbpedia.org/resource/Royal_Air_Force and the value is : 1
+http://dbpedia.org/resource/Royal_Navy and http://dbpedia.org/resource/World_War_I and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Imperial_Japanese_Navy_Air_Service and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Imperial_Japanese_Navy_Air_Service and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Hiroyoshi_Nishizawa and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Empire_of_Japan and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Imperial_Japanese_Navy_Air_Service and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Imperial_Japanese_Navy_Air_Service and the value is : 1
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Pacific_War and the value is : 0
+http://dbpedia.org/resource/Tetsuzō_Iwamoto and http://dbpedia.org/resource/Lieutenant_(junior_grade) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Tetsuzō Iwamoto (岩本 哲三, Iwamoto Tetsuzō, October 28, 1921 April 28, 2018) was a Japanese professional Go player.
+He was born in Tokyo, Japan.
+He was the first professional Go player to reach the rank of 9 dan, and was the first to be awarded the title of Honorary Meijin.
+He was also the first to be awarded the title of Honorary Kisei.
+He was a prolific author, having written over 100 books on Go.
+He was also a teacher, having taught many of the top players in Japan.
+He was a member of the Nihon Ki-in, the Japanese Go Association, and was the president of the Kansai Ki-in, the Kansai branch of the Nihon Ki-in.
+He was also a member of the International Go Federation.
+He was awarded the Order of the Rising Sun in 2006.
+He died in April 2018 at the age of 96.
+
+
+Coref Resolved: 
+
+Tetsuzō Iwamoto (岩本 哲三, Iwamoto Tetsuzō, October 28, 1921 April 28, 2018) was a Japanese professional Go player.
+Tetsuzō Iwamoto was born in Tokyo, Japan.
+Tetsuzō Iwamoto was the first professional Go player to reach the rank of 9 dan, and was the first to be awarded the title of Honorary Meijin.
+Tetsuzō Iwamoto was also the first to be awarded the title of Honorary Kisei.
+Tetsuzō Iwamoto was a prolific author, having written over 100 books on Go.
+Tetsuzō Iwamoto was also a teacher, having taught many of the top players in Japan.
+Tetsuzō Iwamoto was a member of the Nihon Ki-in, the Japanese Go Association, and was the president of the Kansai Ki-in, the Kansai branch of the Nihon Ki-in, the Japanese Go Association.
+Tetsuzō Iwamoto was also a member of the International Go Federation.
+Tetsuzō Iwamoto was awarded the Order of the Rising Sun in 2006.
+Tetsuzō Iwamoto died in April 2018 at the age of 96.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Lieutenant Junior Grade Tetsuzō Iwamoto was one of the top-scoring aces among the Imperial Japanese Navy Air Force (IJNAF) fighter pilots. He entered the Imperial Navy in 1934 and completed pilot training in December 1936. His first combat occurred over China in early 1938, and he emerged as the top naval ace of the campaign, credited with 14 aerial victories. Subsequently, he flew Zeros from the aircraft carrier Zuikaku from December 1941 to May 1942, including at the Battle of the Coral Sea. In late 1943, Iwamoto's air group was sent to Rabaul, New Britain, resulting in three months of the hardest air combat ever undertaken by the IJNAF against air raids mounted by U.S. and Allied air units. Subsequent assignments were Truk Atoll in the Carolines and the Philippines, and he was commissioned an Ensign in October 1944. Following the evacuation of the Philippines, Iwamoto served in home defense and trained Kamikaze pilots. Like many Japanese veterans, Iwamoto was reported to have fallen into depression after the war. His diary was found after his death, with claims of 202 Allied aircraft destroyed. As a result of the Japanese use of the British naval practices, the IJNAF scoring system was based on the system the Royal Navy and the Royal Air Force (RAF) adopted from World War I until World War II. This system differed from the scoring system used by the U.S. Navy Air Force and U.S. Marine Air Force during World War II. Dr. Izawa and Professor Hata estimated the figure at about 80 or more than 87 in their research work in January 1971. In December 1993, Izawa wrote that Iwamoto was "virtually" the top ace of the IJNAF. As of mid-1944, there remained only two IJNAF fighter pilots who were credited with over 100 victories. Depending on various totals cited, Tetsuzō Iwamoto or Hiroyoshi Nishizawa was Japan's best ace. Iwamoto was known as the Chūtai leader (flying company, squadron of 8 to 16 fighters). Iwamoto was one of few survivors of the IJNAF from the early part of the Second World War. He fought over the Indian and the Pacific Ocean from north to south, and trained his young pilots even in the last months of the war. 
+
+Coref Resolved: 
+
+Lieutenant Junior Grade Tetsuzō Iwamoto was one of the top-scoring aces among the Imperial Japanese Navy Air Force (IJNAF) fighter pilots.Lieutenant Junior Grade Tetsuzō Iwamoto entered the Imperial Navy in 1934 and completed pilot training in December 1936.Lieutenant Junior Grade Tetsuzō Iwamoto first combat occurred over China in early 1938, and Lieutenant Junior Grade Tetsuzō Iwamoto emerged as the top naval ace of the campaign, credited with 14 aerial victories.Subsequently, Lieutenant Junior Grade Tetsuzō Iwamoto flew Zeros from the aircraft carrier Zuikaku from December 1941 to May 1942, including at the Battle of the Coral Sea.In late 1943, Lieutenant Junior Grade Tetsuzō Iwamoto air group was sent to Rabaul, New Britain, resulting in three months of the hardest air combat ever undertaken by Imperial Japanese Navy Air Force (IJNAF) against air raids mounted by U.S. and Allied air units.Subsequent assignments were Truk Atoll in the Carolines and the Philippines, and Lieutenant Junior Grade Tetsuzō Iwamoto was commissioned an Ensign in October 1944.Following the evacuation of the Philippines, Lieutenant Junior Grade Tetsuzō Iwamoto served in home defense and trained Kamikaze pilots.Like many Japanese veterans, Lieutenant Junior Grade Tetsuzō Iwamoto was reported to have fallen into depression after the war.Lieutenant Junior Grade Tetsuzō Iwamoto diary was found after Lieutenant Junior Grade Tetsuzō Iwamoto death, with claims of 202 Allied aircraft destroyed.As a result of the Japanese use of the British naval practices, the Imperial Japanese Navy Air Force (IJNAF) scoring system was based on the system the Royal Navy and the Royal Air Force (RAF) adopted from World War I until the war.the IJNAF scoring system differed from the scoring system used by the U.S. Navy Air Force and U.S. Marine Air Force during the war.Dr. Izawa and Professor Hata estimated the figure at about 80 or more than 87 in Dr. Izawa and Professor Hata research work in January 1971.In December 1993, Dr. Izawa wrote that Lieutenant Junior Grade Tetsuzō Iwamoto was "virtually" the top ace of Imperial Japanese Navy Air Force (IJNAF) .As of mid-1944, there remained only two Imperial Japanese Navy Air Force (IJNAF) fighter pilots who were credited with over 100 victories.Depending on various totals cited, Lieutenant Junior Grade Tetsuzō Iwamoto or Hiroyoshi Nishizawa was Japan's best ace.Lieutenant Junior Grade Tetsuzō Iwamoto was known as the Chūtai leader (flying company, squadron of 8 to 16 fighters).Lieutenant Junior Grade Tetsuzō Iwamoto was one of few survivors of Imperial Japanese Navy Air Force (IJNAF) from the early part of the war.Lieutenant Junior Grade Tetsuzō Iwamoto fought over the Indian and the Pacific Ocean from north to south, and trained Lieutenant Junior Grade Tetsuzō Iwamoto young pilots even in the last months of the war.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.5 0.0 0.0 0.0 1.0 0.0 0.0 0.0 -1 
+
+Value for ground truth is : 
+0.75 0.5 0.3333333333333333 0.5 0.0 0.2 0.3333333333333333 0.0 -1 1.0 -1 -1 0.6666666666666666 -1 0.3333333333333333 0.0 0.6666666666666666 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

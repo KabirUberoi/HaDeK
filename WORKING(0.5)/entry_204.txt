@@ -1,0 +1,122 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Estelle_Getty and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Anglo-Indian_people and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Anne_Boleyn and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Henry_VIII and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/The_Scarlet_Pimpernel and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Samuel_Goldwyn and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Academy_Award_for_Best_Actress and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/The_Dark_Angel_(1935_film) and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Wuthering_Heights and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Academy_Award_for_Best_Actress and the value is : 0
+http://dbpedia.org/resource/The_Ghost_Goes_West and http://dbpedia.org/resource/The_Citadel and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Personal_Problems and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Anglo-Indian_people and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Anne_Boleyn and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Jennifer_Blakeman and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Henry_VIII and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/The_Scarlet_Pimpernel and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Samuel_Goldwyn and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Academy_Awards and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Academy_Award_for_Best_Actress and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/The_Dark_Angel_(1935_film) and the value is : 0
+http://dbpedia.org/resource/Traffic_collision and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Traffic_collision and http://dbpedia.org/resource/Oberon and the value is : 0
+http://dbpedia.org/resource/Traffic_collision and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Traffic_collision and http://dbpedia.org/resource/Oberon and the value is : 0
+http://dbpedia.org/resource/Traffic_collision and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Traffic_collision and http://dbpedia.org/resource/Oberon and the value is : 0
+http://dbpedia.org/resource/Traffic_collision and http://dbpedia.org/resource/Wuthering_Heights and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Tasmania and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Australia and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Tasmania and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Australia and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+http://dbpedia.org/resource/Oberon and http://dbpedia.org/resource/Merle_Haggard and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Merle Oberon (born Estelle Merle O'Brien Thompson 19 February 1911 23 November 1979) was an Anglo-Indian actress.
+She began her film career in British films as Anne Boleyn in The Private Life of Henry VIII (1933).
+After her success in The Scarlet Pimpernel (1934), she travelled to the United States to make films for Samuel Goldwyn.
+She was nominated for an Academy Award for Best Actress for her performance in The Dark Angel (1935).
+Throughout her career, she appeared in a variety of films, including Wuthering Heights (1939), which earned her an Academy Award nomination for Best Actress.
+Other notable films include The Ghost Goes West (1935), The Citadel (1938), and The Lodger (1944).
+She received critical acclaim for her performances in The Bishop's Wife (1947) and I Want to Live .
+(1958).
+Her later years were marred by personal problems and illness.
+She died in 1979, aged 68.
+
+
+Coref Resolved: 
+
+Merle Oberon (born Estelle Merle O'Brien Thompson 19 February 1911 23 November 1979) was an Anglo-Indian actress.
+Merle Oberon began Merle Oberon film career in British films as Anne Boleyn in The Private Life of Henry VIII (1933).
+After Merle Oberon success in The Scarlet Pimpernel (1934), Merle Oberon travelled to the United States to make films for Samuel Goldwyn.
+Merle Oberon was nominated for an Academy Award for Best Actress for Merle Oberon performance in The Dark Angel (1935).
+Throughout Merle Oberon career, Merle Oberon appeared in a variety of films, including Wuthering Heights (1939), which earned Merle Oberon an Academy Award nomination for Best Actress.
+Other notable films include The Ghost Goes West (1935), The Citadel (1938), and The Lodger (1944).
+Merle Oberon received critical acclaim for Merle Oberon performances in The Bishop's Wife (1947) and I Want to Live .
+(1958).
+Merle Oberon later years were marred by personal problems and illness.
+Merle Oberon died in 1979, aged 68.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Merle Oberon (19 February 1911 - 23 November 1979) was an Anglo-Indian actress. She began her film career in British films as Anne Boleyn in "The Private Life of Henry VIII" (1933). After her success in "The Scarlet Pimpernel" (1934), she travelled to the United States to make films for Samuel Goldwyn. She was nominated for an Academy Award for Best Actress for her performance in "The Dark Angel" (1935). A traffic collision in 1937 caused facial injuries that could have ended her career, but she soon followed this with her most renowned performance in "Wuthering Heights" (1939). Throughout her adult life, in order to conceal her Indian heritage, she maintained the fiction that she was born in Tasmania, Australia she concocted a story that all her school records had been destroyed in a fire, which meant it could be neither proven nor disproven. She maintained these fictions throughout her professional life. The year before she died, she finally admitted this story was not true, and records located since her death have confirmed her true origin. 
+
+Coref Resolved: 
+
+Merle Oberon (19 February 1911 - 23 November 1979) was an Anglo-Indian actress.Merle Oberon began Merle Oberon film career in British films as Anne Boleyn in "The Private Life of Henry VIII" (1933).After Merle Oberon success in "The Scarlet Pimpernel" (1934), Merle Oberon travelled to the United States to make films for Samuel Goldwyn.Merle Oberon was nominated for an Academy Award for Best Actress for Merle Oberon performance in "The Dark Angel" (1935).A traffic collision in 1937 caused facial injuries that could have ended Merle Oberon career, but Merle Oberon soon followed A traffic collision in 1937 with Merle Oberon most renowned performance in "Wuthering Heights" (1939).Throughout Merle Oberon adult life, in order to conceal Merle Oberon Indian heritage, Merle Oberon maintained the fiction that Merle Oberon was born in Tasmania, Australia Merle Oberon concocted a story that all Merle Oberon school records had been destroyed in a fire, which meant a story that all her school records had been destroyed in a fire, which meant it could be neither proven nor disprovencould be neither proven nor disproven.Merle Oberon maintained these fictions throughout Merle Oberon professional life.The year before Merle Oberon died, Merle Oberon finally admitted the fiction that she was born in Tasmania, Australia was not true, and records located since Merle Oberon death have confirmed Merle Oberon true origin.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 -1 0.0 0.0 
+
+Value for ground truth is : 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate accurate accurate 
+

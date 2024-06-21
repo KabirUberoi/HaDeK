@@ -1,0 +1,87 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Canadians and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Smooth_jazz and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Music_of_Latin_America and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Loreena_McKennitt and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Jazz and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Compact_disc and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Fast_Train_(song) and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Alberta and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Canada and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/MacEwan_University and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/MacEwan_University and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Edmonton and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Banff_Centre_for_Arts_and_Creativity and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Ed_Bickert and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Gene_Bertoncini and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Pat_Martino and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Joe_Duplantier and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Robben_Ford and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Toronto and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Justin_Time_Records and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Sky_UK and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Justin_Time_Records and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Warner_Music_Group and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Music_Canada and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Higher_Octave_Music and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/EMI and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/T-Mobile_UK and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/A440 and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Los_Angeles and the value is : 1
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Society_of_Composers,_Authors_and_Music_Publishers_of_Canada and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Canadians and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/Juno_Award and the value is : 0
+http://dbpedia.org/resource/Hughes_Aircraft_Company and http://dbpedia.org/resource/The_Visit_(play) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Brian Hughes (born October 28, 1956) is a Canadian jazz guitarist, composer, and arranger.
+He has released several albums as a leader, and has performed and recorded with a variety of jazz, pop, and world music artists, including Kenny Rankin, Gino Vannelli, Joni Mitchell, Chaka Khan, and the Canadian Brass.
+Hughes was born in Toronto, Ontario, Canada.
+He began playing guitar at the age of nine, and was influenced by jazz guitarists such as Wes Montgomery, Joe Pass, and George Benson.
+He studied music at York University in Toronto, and later at the Berklee College of Music in Boston.
+Hughes has released several albums as a leader, including his debut album, "First Flight" (1985), and "One 2 One" (1995).
+He has also released several albums with his group, the Brian Hughes Quartet, including "Live at the Senator" (1997) and "Live at the Montreal Bistro" (1999).
+He has also released several albums with his world music group, the Brian Hughes Michael O.
+
+
+Coref Resolved: 
+
+Brian Hughes (born October 28, 1956) is a Canadian jazz guitarist, composer, and arranger.
+Brian Hughes has released several albums as a leader, and has performed and recorded with a variety of jazz, pop, and world music artists, including Kenny Rankin, Gino Vannelli, Joni Mitchell, Chaka Khan, and the Canadian Brass.
+Brian Hughes was born in Toronto, Ontario, Canada.
+Brian Hughes began playing guitar at the age of nine, and was influenced by jazz guitarists such as Wes Montgomery, Joe Pass, and George Benson.
+Brian Hughes studied music at York University in Toronto, Ontario, Canada, and later at the Berklee College of Music in Boston.
+Brian Hughes has released several albums as a leader, including Brian Hughes debut album, "First Flight" (1985), and "One 2 One" (1995).
+Brian Hughes has also released several albums with Brian Hughes group, the Brian Hughes Quartet, including "Live at the Senator" (1997) and "Live at the Montreal Bistro" (1999).
+Brian Hughes has also released several albums with Brian Hughes world music group, the Brian Hughes Michael O.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Brian Hughes (born 1955) is a Canadian guitarist whose work draws from both the smooth jazz and world music genres, of the latter, his influences have thus far been primarily Latin. Not restricted entirely to conventional guitars, Hughes has also been known to employ the oud, bouzouki, and balalaika. He has for over twenty-four years worked in the studio with singer songwriter Loreena McKennitt, co-produced many of her recordings, and leads her touring band. Hughes has many albums starting from the early 1990s. His music is "contemporary" jazz using the jazz guitar for his instrumental music. His latest release is the CD "Fast Train to a Quiet Place" released in July 2011. Many of his works can be heard on The Weather Channel's "Local on the 8's" and on Sirius XM's "Watercolors" channel. Hughes grew up in Alberta, Canada and studied at Grant MacEwan College (now MacEwan University) in Edmonton and the Banff School of Fine Arts with guitarists Ed Bickert and Gene Bertoncini. In 1981, he moved temporarily to Los Angeles where he studied at the Guitar Institute with Pat Martino, Joe Diorio, and Robben Ford. In 1987, Hughes relocated to Toronto where he began working with harpist Loreena McKennitt and in 1991 recorded his first album as a leader for Justin Time Records. Hughes subsequently recorded "Under One Sky" for Justin Time in 1992 and then started his own label, Sylvan House Music, in 1995 which was distributed by Warner Music Canada and licensed to Higher Octave EMI in the USA and abroad. Brian recorded three more albums ("Straight to You", "One 2 One", and "Shakin' Not Stirred") under this arrangement before releasing "Along the Way" with A440 Music Group in 2003. Hughes returned to his Sylvan House Music imprint for the release of "Live" (2007), "No Reservations" concert DVD (2009), and "Fast Train to a Quiet Place" in July 2011. Brian relocated to Los Angeles in 2000 where he continues to reside. Awards Brian received the SOCAN (Society of Canadian Authors and Composers) Jazz and Instrumental Composer of the Year Award in 1997, 1998, 1999, 2000, 2001, 2006, and 2008. He was also nominated for a Juno Award as "Producer of the Year" in 1991 for the Loreena McKennitt album "The Visit". 
+
+Coref Resolved: 
+
+Brian Hughes (born 1955) is a Canadian guitarist whose work draws from both the smooth jazz and world music genres, of the latter, Brian Hughes (born 1955) influences have thus far been primarily Latin.Not restricted entirely to conventional guitars, Brian Hughes (born 1955) has also been known to employ the oud, bouzouki, and balalaika.Brian Hughes (born 1955) has for over twenty-four years worked in the studio with singer songwriter Loreena McKennitt, co-produced many of singer songwriter Loreena McKennittrecordings, and leads singer songwriter Loreena McKennitttouring band.Brian Hughes (born 1955) has many albums starting from the early 1990s.Brian Hughes (born 1955) music is "contemporary" jazz using the jazz guitar for Brian Hughes (born 1955) instrumental music.Brian Hughes (born 1955) latest release is the CD "Fast Train to a Quiet Place" released in July 2011.Many of Brian Hughes (born 1955) works can be heard on The Weather Channel's "Local on the 8's" and on Sirius XM's "Watercolors" channel.Brian Hughes (born 1955) grew up in Alberta, Canada and studied at Grant MacEwan College (now MacEwan University) in Edmonton and the Banff School of Fine Arts with guitarists Ed Bickert and Gene Bertoncini.In 1981, Brian Hughes (born 1955) moved temporarily to Los Angeles where Brian Hughes (born 1955) studied at the Guitar Institute with Pat Martino, Joe Diorio, and Robben Ford.In 1987, Brian Hughes (born 1955) relocated to Toronto where Brian Hughes (born 1955) began working with singer songwriter Loreena McKennittand in 1991 recorded Brian Hughes (born 1955) first album as a leader for Justin Time Records.Brian Hughes (born 1955) subsequently recorded "Under One Sky" for Justin Time Recordsin 1992 and then started Brian Hughes (born 1955) own label, Sylvan House Music, in 1995 which was distributed by Warner Music Canada and licensed to Higher Octave EMI in the USA and abroad.Brian Hughes (born 1955) recorded three more albums ("Straight to You", "One 2 One", and "Shakin' Not Stirred") under this arrangement before releasing "Along the Way" with A440 Music Group in 2003.Brian Hughes (born 1955) returned to Brian Hughes (born 1955)Sylvan House Music imprint for the release of "Live" (2007), "No Reservations" concert DVD (2009), and "Fast Train to a Quiet Place" in July 2011.Brian Hughes (born 1955) relocated to Los Angeles in 2000 where Brian Hughes (born 1955) continues to reside.Awards Brian Hughes (born 1955) received the SOCAN (Society of Canadian Authors and Composers) Jazz and Instrumental Composer of the Year Award in 1997, 1998, 1999, 2000, 2001, 2006, and 2008.Brian Hughes (born 1955) was also nominated for a Juno Award as "Producer of the Year" in 1991 for the singer songwriter Loreena McKennittalbum "The Visit".
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 -1 -1 -1 -1 -1 -1 
+
+Value for ground truth is : 
+0.0 -1 0.0 -1 0.0 0.0 -1 0.0 0.25 0.0 0.0 0.0 -1 -1 1.0 0.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate 
+

@@ -1,0 +1,57 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Florida_Gators_swimming_and_diving and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/United_States_men's_national_basketball_team and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Swimming_at_the_1984_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/California_Golden_Bears and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/World_record_progression_200_metres_butterfly and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Texas_Longhorns and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Texas_Longhorns and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Swimming_at_the_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Diving_at_the_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/National_Collegiate_Athletic_Association and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/NCAA_Division_I_men's_swimming_and_diving_championships and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/Butterfly_stroke and the value is : 0
+http://dbpedia.org/resource/Susan_Pedersen_(historian) and http://dbpedia.org/resource/All-America and the value is : 0
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Susan Pedersen (born October 28, 1965) is an American former competition swimmer who represented the United States at the 1984 Summer Olympics in Los Angeles, California.
+She competed in the women's 200-meter butterfly, and finished fourth in the event final with a time of 2 13.45.
+Pedersen attended the University of Texas, where she swam for the Texas Longhorns swimming and diving team in National Collegiate Athletic Association (NCAA) competition.
+She was a two-time NCAA champion, winning the 200-yard butterfly in 1985 and 1986.
+She was also a four-time All-American.
+
+
+Coref Resolved: 
+
+Susan Pedersen (born October 28, 1965) is an American former competition swimmer who represented the United States at the 1984 Summer Olympics in Los Angeles, California.
+Susan Pedersen competed in the women's 200-meter butterfly, and finished fourth in the event final with a time of 2 13.45.
+Susan Pedersen attended the University of Texas, where Susan Pedersen swam for the Texas Longhorns swimming and diving team in National Collegiate Athletic Association (NCAA) competition.
+Susan Pedersen was a two-time NCAA champion, winning the 200-yard butterfly in 1985 and 1986.
+Susan Pedersen was also a four-time All-American.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Susan Jane Pedersen (born October 16, 1953), also known by her married name Susan Pankey, is an American former competition swimmer, four-time Olympic medalist, and former world record-holder in two events. Pedersen competed at the 1968 Summer Olympics in Mexico City, where she received a total of four medals. She won a gold medal as a member of the winning U.S. team in the women's 4x100-meter medley relay, and another swimming for the first-place U.S. team in the 4x100-meter freestyle relay. Individually, she received silver medals for her second-place finishes in the women's 100-meter freestyle and 200-meter individual medley. She held the world record in the 200-meter freestyle (long course) (2 09.5) from July 6, 1968 to August 2, 1968. She was also a member of world-record U.S. teams in the 4x100-meter medley relay and the 4x200-meter freestyle relay. Pedersen was inducted into the International Swimming Hall of Fame as an "Honor Swimmer" in 1995. 
+
+Coref Resolved: 
+
+Susan Jane Pedersen (born October 16, 1953), also known by Susan Jane Pedersen married name Susan Pankey, is an American former competition swimmer, four-time Olympic medalist, and former world record-holder in two events.Susan Jane Pedersen competed at the 1968 Summer Olympics in Mexico City, where Susan Jane Pedersen received a total of four medals.Susan Jane Pedersen won a gold medal as a member of the winning U.S. team in the women's 4x100-meter medley relay, and another swimming for the first-place U.S. team in the 4x100-meter freestyle relay.Individually, Susan Jane Pedersen received silver medals for Susan Jane Pedersen second-place finishes in the women's 100-meter freestyle and 200-meter individual medley.Susan Jane Pedersen held the world record in the 200-meter freestyle (long course) (2 09.5) from July 6, 1968 to August 2, 1968.Susan Jane Pedersen was also a member of world-record U.S. teams in the 4x100-meter medley relay and the 4x200-meter freestyle relay.Susan Jane Pedersen was inducted into the International Swimming Hall of Fame as an "Honor Swimmer" in 1995.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.0 0.0 0.0 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

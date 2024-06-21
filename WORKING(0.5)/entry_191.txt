@@ -1,0 +1,59 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Forgotten_Realms and http://dbpedia.org/resource/Hardcore_punk and the value is : 0
+http://dbpedia.org/resource/Forgotten_Realms and http://dbpedia.org/resource/Aaron_Dessner and the value is : 0
+http://dbpedia.org/resource/Forgotten_Realms and http://dbpedia.org/resource/Converge_FiberXers and the value is : 0
+http://dbpedia.org/resource/Forgotten_Realms and http://dbpedia.org/resource/Matt_Damon and the value is : 0
+http://dbpedia.org/resource/Firestone_Tire_and_Rubber_Company and http://dbpedia.org/resource/Aaron_Dessner and the value is : 0
+http://dbpedia.org/resource/Firestone_Tire_and_Rubber_Company and http://dbpedia.org/resource/Converge_FiberXers and the value is : 0
+http://dbpedia.org/resource/Forgotten_Realms and http://dbpedia.org/resource/Extended_play and the value is : 0
+http://dbpedia.org/resource/Forgotten_Realms and http://dbpedia.org/resource/Holding_This_Moment and the value is : 0
+http://dbpedia.org/resource/Forgotten_Realms and http://dbpedia.org/resource/Compact_disc and the value is : 0
+http://dbpedia.org/resource/Forgotten_Realms and http://dbpedia.org/resource/Hardcore_punk and the value is : 0
+http://dbpedia.org/resource/Forgotten_Realms and http://dbpedia.org/resource/Don't_Wait_Up_(TV_series) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Bane is a hardcore punk band from Washington, D.C., formed in 1995.
+The band consists of Aaron Bedard (vocals), Zach Jordan (guitar), Aaron Dalbec (guitar), Joe Trohman (bass) and Damian Genuardi (drums).
+Bane is known for their intense live shows and their positive lyrics.
+They have released five full-length albums, as well as several EPs and splits.
+Their most recent album, Don't Wait Up, was released in 2014.
+The band has toured extensively throughout the United States, Europe, and Japan.
+They have also performed at festivals such as Hellfest, Groezrock, and Sound and Fury.
+
+
+Coref Resolved: 
+
+Bane is a hardcore punk band from Washington, D.C., formed in 1995.
+Bane consists of Aaron Bedard (vocals), Zach Jordan (guitar), Aaron Dalbec (guitar), Joe Trohman (bass) and Damian Genuardi (drums).
+Bane is known for Bane intense live shows and Bane positive lyrics.
+Bane have released five full-length albums, as well as several EPs and splits.
+Bane most recent album, Don't Wait Up, was released in 2014.
+Bane has toured extensively throughout the United States, Europe, and Japan.
+Bane have also performed at festivals such as Hellfest, Groezrock, and Sound and Fury.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Bane is a hardcore punk band that began as a side project between Aaron Dalbec (then of Converge) and Damon Bellardo. Dalbec approached Matt Firestone to sing and they played under the moniker of Gateway for a few shows, before Firestone parted ways to focus on other projects. Dalbec then approached Aaron Bedard (who had previously sung for the Worcester, Massachusetts hardcore band Backbone) about singing for Bane. They went into the studio in December 1995 with a few friends and released a five-song demo. The next year saw the release of their first EP, and many shows throughout Central Massachusetts. In early 1997, Bane released the "Free to Think, Free to Be" EP, and in 1998 the band released the "Holding This Moment" 7" and CD collection, and embarked upon their first US tour. Like many other hardcore bands, Bane are known for their promotion of tolerance and unity within the scene. In 2014, Bane released their final album, "Don't Wait Up", though the band has said they still plan to tour. 
+
+Coref Resolved: 
+
+Bane is a hardcore punk band that began as a side project between Aaron Dalbec (then of Converge) and Damon Bellardo.Aaron Dalbec (then of Converge) approached Matt Firestone to sing and they played under the moniker of Gateway for a few shows, before Matt Firestone parted ways to focus on other projects.Aaron Dalbec (then of Converge) then approached Aaron Bedard (who had previously sung for the Worcester, Massachusetts hardcore band Backbone) about singing for Bane .They went into the studio in December 1995 with a few friends and released a five-song demo.The next year saw the release of They first EP, and many shows throughout Central Massachusetts.In early 1997, Bane released the "Free to Think, Free to Be" EP, and in 1998 Bane released the "Holding This Moment" 7" and CD collection, and embarked upon They first US tour.Like many other hardcore bands, Bane are known for They promotion of tolerance and unity within the scene.In 2014, Bane released They final album, "Don't Wait Up", though Bane has said Bane still plan to tour.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 -1 -1 -1 -1 -1 
+
+Value for ground truth is : 
+0.0 0.0 -1 -1 -1 0.0 0.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate minor_inaccurate accurate accurate accurate accurate 
+

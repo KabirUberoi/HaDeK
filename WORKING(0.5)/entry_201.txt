@@ -1,0 +1,96 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/France and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Defender_(association_football) and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Ligue_1 and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/FC_Girondins_de_Bordeaux and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/France_national_football_team and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/En_Avant_Guingamp and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/En_Avant_Guingamp and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/FC_Lorient and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/FC_Lorient and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Arsenal_F.C. and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Arsenal_F.C. and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/The_Football_Association and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/The_Football_Association and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Professional_Footballers'_Association and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/FIFPro and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/FIFPro and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/France_national_football_team and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/2014_FIFA_World_Cup and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/UEFA_Euro_2016 and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/France_national_football_team and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/UEFA_Euro_2016 and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/French_people and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Arsenal_F.C. and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/France_national_football_team and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Midfielder and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/City and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Association_football and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/CA_Brive and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Corrèze and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Limoges and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/En_Avant_Guingamp and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/French_people and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Ligue_2 and the value is : 1
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/Ligue_1 and the value is : 1
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/Laurent_Koscielny and the value is : 1
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/Laurent_Koscielny and the value is : 1
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/Arsenal_F.C. and the value is : 0
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/England_national_football_team_manager and the value is : 0
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/Arsène_Wenger and the value is : 0
+http://dbpedia.org/resource/FC_Lorient and http://dbpedia.org/resource/Laurent_Koscielny and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/French_people and the value is : 0
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/UEFA_Euro_2012 and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/2014_FIFA_World_Cup and the value is : 1
+http://dbpedia.org/resource/Laurent_Koscielny and http://dbpedia.org/resource/Poland_national_football_team and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Laurent Koscielny (born 10 September 1985) is a French professional footballer who plays as a centre-back for Ligue 1 club Bordeaux and the France national team.
+He began his career at Guingamp in 2004, spending three seasons at the club before joining Tours in 2007.
+After two seasons at Tours, he joined Lorient in 2009.
+He spent three seasons at the club, making over 100 appearances, before joining Arsenal in 2010.
+Koscielny has made over 300 appearances for Arsenal, winning three FA Cups and two FA Community Shields.
+He was named in the PFA Team of the Year in 2012 13 and was included in the UEFA Team of the Year in 2015.
+He was also named in the FIFPro World XI in 2016.
+He has also represented France at the 2014 FIFA World Cup and UEFA Euro 2016, helping them to the final of the latter tournament.
+
+
+Coref Resolved: 
+
+Laurent Koscielny (born 10 September 1985) is a French professional footballer who plays as a centre-back for Ligue 1 club Bordeaux and the France national team.
+Laurent Koscielny began Laurent Koscielny career at Guingamp in 2004, spending three seasons at Guingamp before joining Tours in 2007.
+After two seasons at Tours , Laurent Koscielny joined Lorient in 2009.
+Laurent Koscielny spent three seasons at Lorient , making over 100 appearances, before joining Arsenal in 2010.
+Laurent Koscielny has made over 300 appearances for Arsenal , winning three FA Cups and two FA Community Shields.
+Laurent Koscielny was named in the PFA Team of the Year in 2012 13 and was included in the UEFA Team of the Year in 2015.
+Laurent Koscielny was also named in the FIFPro World XI in 2016.
+Laurent Koscielny has also represented France at the 2014 FIFA World Cup and UEFA Euro 2016, helping France to the final of UEFA Euro 2016.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Laurent Koscielny (born 10 September 1985) is a French footballer who plays as a defender for Arsenal and the French national team. He primarily plays as a centre back, but he can also play as a right back, a position where he started his career. He has been described as an aggressive, strong, quick and ball-playing defender. Koscielny was born in the city of Tulle and began his football career playing for a host of amateur and youth clubs such as Brive, Tulle Corrèze and Limoges. In 2003, he moved to Guingamp, where he made his professional debut the following year. Koscielny joined Tours for an undisclosed fee to play in the third tier of the French league in 2007 and enjoyed promotion with his new side before being named in the Ligue 2 Team of the Season the following campaign. In 2009, newly promoted Ligue 1 side Lorient signed Koscielny for around 1.7 million, and his performances caught the eye of Arsenal manager Arsène Wenger, who signed him in 2010. Arsenal fans voted Laurent Koscielny as Wenger's most effective signing of 2010 11 following an impressive debut campaign. Koscielny was called up to the French national team on 4 February 2011 and represented the country at UEFA Euro 2012 and the 2014 FIFA World Cup. Prior to his call-up for France, he was also eligible to play for Poland, as a result of his family roots. 
+
+Coref Resolved: 
+
+Laurent Koscielny (born 10 September 1985) is a French footballer who plays as a defender for Arsenal and the French national team.Laurent Koscielny primarily plays as a centre back, but Laurent Koscielny can also play as a right back, a position where Laurent Koscielny started Laurent Koscielny career.Laurent Koscielny has been described as an aggressive, strong, quick and ball-playing defender.Laurent Koscielny was born in the city of Tulle and began Laurent Koscielny football career playing for a host of amateur and youth clubs such as Brive, Tulle Corrèze and Limoges.In 2003, Laurent Koscielny moved to Guingamp, where Laurent Koscielny made Laurent Koscielny professional debut the following year.Laurent Koscielny joined Tours for an undisclosed fee to play in the third tier of the French league in 2007 and enjoyed promotion with Laurent Koscielny new side before being named in the Ligue 2 Team of the Season the following campaign.In 2009, newly promoted Ligue 1 side Lorient signed Laurent Koscielny for around 1.7 million, and Laurent Koscielny performances caught the eye of Arsenal manager Arsène Wenger, who signed Laurent Koscielny in 2010.Arsenal fans voted Laurent Koscielny as Arsenal manager Arsène Wenger, who signed him in 2010most effective signing of 2010 11 following an impressive debut campaign.Laurent Koscielny was called up to the French national teamon 4 February 2011 and represented the country at UEFA Euro 2012 and the 2014 FIFA World Cup.Prior to Laurent Koscielny call-up for the country , Laurent Koscielny was also eligible to play for Poland, as a result of Laurent Koscielny family roots.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.8 1.0 1.0 1.0 0.3333333333333333 0.0 0.0 1.0 
+
+Value for ground truth is : 
+0.6 -1 0.0 0.4 1.0 0.5 0.5714285714285714 -1 0.6666666666666666 1.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate accurate major_inaccurate major_inaccurate accurate 
+

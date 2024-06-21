@@ -1,0 +1,80 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Canadians and the value is : 1
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Diplomat and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Parti_Québécois and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Quebec and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Quebec and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Referendum and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Quebec_sovereignty_movement and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Parliament_of_Canada and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Canada and the value is : 1
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Quebec and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Nationalism and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Quiet_Revolution and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Patriation and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Constitution and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Canadians and the value is : 1
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/New_Brunswick and the value is : 1
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Joseph_Bonaparte and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Dieppe-Memramcook and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/New_Brunswick and the value is : 1
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Fredericton and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/1974_New_Brunswick_general_election and the value is : 1
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Progressive_Conservative_Party_of_New_Brunswick and the value is : 1
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Jean-Pierre_Ouellet and the value is : 1
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Madawaska_Les_Lacs-Edmundston and the value is : 1
+http://dbpedia.org/resource/Parti_acadien and http://dbpedia.org/resource/Madawaska_Les_Lacs-Edmundston and the value is : 0
+http://dbpedia.org/resource/Parti_acadien and http://dbpedia.org/resource/Laurier_Lévesque and the value is : 1
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Edmundston and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Jean-Maurice_Simard and the value is : 1
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Legislative_Assembly_of_the_Province_of_Canada and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Louis_Robichaud and the value is : 1
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Public_defender and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Geographical_distribution_of_French_speakers and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Legislative_Assembly_of_the_Province_of_Canada and the value is : 0
+http://dbpedia.org/resource/Laurier_Lévesque and http://dbpedia.org/resource/Geographical_distribution_of_French_speakers and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Laurier Lévesque (born August 8, 1922) is a Canadian politician, lawyer, and diplomat.
+He was the leader of the Parti Québécois from 1968 to 1985 and served as the 25th Premier of Quebec from 1976 to 1985.
+He was the first Quebec premier to hold a referendum on sovereignty-association in 1980, which was defeated by a 60-40 margin.
+He also served as a Member of Parliament in the House of Commons of Canada from 1970 to 1976.
+Lévesque was a key figure in the development of modern Quebec nationalism and the Quiet Revolution.
+He was also a major figure in the negotiations leading to the patriation of the Canadian Constitution in 1982.
+
+
+Coref Resolved: 
+
+Laurier Lévesque (born August 8, 1922) is a Canadian politician, lawyer, and diplomat.
+Laurier Lévesque was the leader of the Parti Québécois from 1968 to 1985 and served as the 25th Premier of Quebec from 1976 to 1985 .
+Laurier Lévesque was the first Quebec premier to hold a referendum on sovereignty-association in 1980, which was defeated by a 60-40 margin.
+Laurier Lévesque also served as a Member of Parliament in the House of Commons of Canada from 1970 to 1976 .
+Laurier Lévesque was a key figure in the development of modern Quebec nationalism and the Quiet Revolution.
+Laurier Lévesque was also a major figure in the negotiations leading to the patriation of the Canadian Constitution in 1982.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Laurier Lévesque (October 13, 1929 - September 2005) was a Canadian educator and politician in the province of New Brunswick. A graduate of St. Joseph's College in Memramcook and the New Brunswick Teachers' College in Fredericton, Lévesque taught school before entering political life. A resident of Edmundston, New Brunswick, he was first elected to the Legislative Assembly in the 1960 New Brunswick general election as a Liberal Party candidate for one of the three seats for Madawaska County. He was reelected in 1963, 1967, and 1970. In the 1974 election, he lost by 95 votes to the Progressive Conservative candidate Jean-Pierre Ouellet in the newly created riding of Madawaska-les-Lacs. Without the Parti Acadien contesting the riding, Lévesque may have won the Parti Acadien received 99 votes, ones that are generally accepted as being traditional Liberal supporters. Lévesque attempted a political comeback in the City of Edmundston riding in 1982 but lost to Jean-Maurice Simard. As a member of the Legislative Assembly in the government of Premier Louis Robichaud, Lévesque was an ardent defender of Francophone rights and was one of the first members to give his speeches in the Assembly in the French language. Out of politics, in 1990 the Government of Canada appointed him to diplomatic missions abroad which organized and supervised democratic elections in 10 African countries, in two countries from the former Soviet Union, as well as in Bosnia and Herzegovina. 
+
+Coref Resolved: 
+
+Laurier Lévesque (October 13, 1929 - September 2005) was a Canadian educator and politician in the province of New Brunswick.A graduate of St. Joseph's College in Memramcook and the New Brunswick Teachers' College in Fredericton, Laurier Lévesque taught school before entering political life.A resident of Edmundston, the province of New Brunswick, he was first elected to the Legislative Assembly in the 1960 the province of New Brunswickgeneral election as a Liberal Party candidate for one of the three seats for Madawaska County.Laurier Lévesque was reelected in 1963, 1967, and 1970.In the 1974 election, Laurier Lévesque lost by 95 votes to the Progressive Conservative candidate Jean-Pierre Ouellet in the newly created riding of Madawaska-les-Lacs.Without the Parti Acadien contesting the newly created riding of Madawaska-les-Lacs, Laurier Lévesque may have won the Parti Acadien received 99 votes, ones that are generally accepted as being traditional Liberal supporters.Laurier Lévesque attempted a political comeback in the City of Edmundston riding in 1982 but lost to Jean-Maurice Simard.As a member of the Legislative Assembly in the government of Premier Louis Robichaud, Laurier Lévesque was an ardent defender of Francophone rights and was one of the first members to give Laurier Lévesque speeches in the Legislative Assembly in the French language.Out of politics, in 1990 the Government of Canada appointed Laurier Lévesque to diplomatic missions abroad which organized and supervised democratic elections in 10 African countries, in two countries from the former Soviet Union, as well as in Bosnia and Herzegovina.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.5 0.0 0.0 0.5 0.0 0.0 
+
+Value for ground truth is : 
+1.0 0.25 -1 -1 1.0 0.5 0.5 0.16666666666666666 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

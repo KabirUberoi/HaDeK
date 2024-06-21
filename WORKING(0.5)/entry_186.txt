@@ -1,0 +1,54 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Horse and http://dbpedia.org/resource/Horse_Head_Island and the value is : 0
+http://dbpedia.org/resource/Second_Crusade and http://dbpedia.org/resource/Antioch and the value is : 0
+http://dbpedia.org/resource/Second_Crusade and http://dbpedia.org/resource/Eleanor_of_Aquitaine and the value is : 1
+http://dbpedia.org/resource/Second_Crusade and http://dbpedia.org/resource/Duchy_of_Aquitaine and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Philip of France (1116 1131) was King of France from 1180 to 1223.
+He was the son of Louis VII and his third wife, Adèle of Champagne.
+Philip was known as "the Fair" or "the Handsome" due to his handsome features.
+He was also known for his piety and for his patronage of the arts.
+He was a strong and effective ruler who expanded the royal demesne and increased the influence of the French monarchy.
+He also strengthened the French economy by encouraging the development of towns and trade.
+He was a patron of the University of Paris and founded the Abbey of St. Denis.
+He was also a great builder, constructing many castles and churches throughout France.
+
+
+Coref Resolved: 
+
+Philip of France (1116 1131) was King of France from 1180 to 1223.
+Philip of France (1116 1131) was the son of Louis VII and Louis VII third wife, Adèle of Champagne.
+Philip of France (1116 1131) was known as "the Fair" or "the Handsome" due to Philip of France (1116 1131) handsome features.
+Philip of France (1116 1131) was also known for Philip of France (1116 1131) piety and for Philip of France (1116 1131) patronage of the arts.
+Philip of France (1116 1131) was a strong and effective ruler who expanded the royal demesne and increased the influence of the French monarchy.
+Philip of France (1116 1131) also strengthened the French economy by encouraging the development of towns and trade.
+Philip of France (1116 1131) was a patron of the University of Paris and founded the Abbey of St. Denis.
+Philip of France (1116 1131) was also a great builder, constructing many castles and churches throughout France .
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Philip (29 August 1116 13 October 1131) was the King of France from 1129, co-ruling with his father, Louis VI. His mother was Louis VI's second wife, Adelaide of Maurienne. The favourite son of his father as a child, Philip was enthroned alongside Louis VI as joint king in 1129. However, the young king gave his father little joy after that, refusing to pay attention to the old king or to follow the high standards that Louis himself followed. He became disobedient, refusing to heed scoldings or warnings Walter Map said that he "strayed from the paths of conduct travelled by his father and, by his overweening pride and tyrannical arrogance, made himself a burden to all." Philip's brief period as king was ended two years after his coronation. Riding with a group of companions along the Seine, in the Parisian market section named the Greve, his running horse was tripped by a black pig which darted out of a dung heap on the quay. The horse fell forwards, and the young king was catapulted over its head. The fall "so dreadfully fractured his limbs that he died on the day following" without regaining consciousness. He was buried at St Denis, and succeeded as heir, and co-king, by his pious brother, Louis the Younger (now known as Louis VII). If Philip had been little other than trouble and a problem to his family and kingdom whilst he had lived, his legacy would prove greater trouble still. Whilst he had lived, he had nurtured a dream of visiting Jerusalem and the tomb of Christ when he died, his brother, Louis VII, vowed to go in Philip's place. This vow would provide a reason for Louis joining the disastrous Second Crusade and an excuse to abandon Antioch in favour of Jerusalem. The Crusade brought many deaths on both sides, and the abandonment of Antioch proved a strategic failure and a partial cause for the collapse of the marriage between Louis and his wife, Eleanor of Aquitaine. Because he was co-king rather than a king in his own right, he is not generally given a number in the succession of Kings of France. 
+
+Coref Resolved: 
+
+Philip (29 August 1116 13 October 1131) was the King of France from 1129, co-ruling with Philip father, Louis VI.Philip mother was his father, Louis VIsecond wife, Adelaide of Maurienne.The favourite son of Philip father as a child, Philip was enthroned alongside his father, Louis VIas joint king in 1129.However, Philip gave Philip father little joy after that, refusing to pay attention to his father, Louis VIor to follow the high standards that Louis his father, Louis VIfollowed.Philip became disobedient, refusing to heed scoldings or warnings Walter Map said that Philip "strayed from the paths of conduct travelled by Philip father and, by Philip overweening pride and tyrannical arrogance, made Philip a burden to all."Philip brief period as king was ended two years after Philip coronation.Riding with a group of companions along the Seine, in the Parisian market section named the Greve, Philip running horse was tripped by a black pig which darted out of a dung heap on the quay.his running horse fell forwards, and Philip was catapulted over his running horse head.The fall "so dreadfully fractured Philip limbs that Philip died on the day following" without regaining consciousness.Philip was buried at St Denis, and succeeded as heir, and co-king, by Philip pious brother, Louis the Younger (now known as Louis VII).If Philip had been little other than trouble and a problem to Philip family and kingdom whilst Philip had lived, Philip legacy would prove greater trouble still.Whilst Philip had lived, Philip had nurtured a dream of visiting Jerusalem and the tomb of Christ when Philip died, Philip brother, Louis VII, This vow to go in Philip place.This vow would provide a reason for his brother, Louis VIIjoining the disastrous Second Crusade and an excuse to the abandonment of Antioch Antioch in favour of Jerusalem .the disastrous Second Crusade brought many deaths on both sides, and the abandonment of Antioch proved a strategic failure and a partial cause for the collapse of the marriage between his brother, Louis VIIand his brother, Louis VIIwife, Eleanor of Aquitaine.Because his brother, Louis VIIwas co-king rather than a king in his brother, Louis VIIown right, his brother, Louis VIIis not generally given a number in the succession of Kings of France .
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 -1 -1 -1 -1 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 0.0 -1 -1 -1 -1 -1 0.6666666666666666 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

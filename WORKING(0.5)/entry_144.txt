@@ -1,0 +1,123 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Division_of_Sydney and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/House_of_Commons_of_England and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/New_Zealand_Labour_Party and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Member_of_parliament and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/1984_Portsmouth_South_by-election and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Portsmouth and the value is : 1
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Portsmouth_Grammar_School and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/University_of_Southampton and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Portsmouth_City_Council and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Portsmouth_City_Council and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/1997_United_Kingdom_general_election and the value is : 1
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/1984_Portsmouth_South_by-election and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/2010_United_Kingdom_general_election and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Defence_Select_Committee and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Parliamentary_Labour_Party and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Parliamentary_Labour_Party and the value is : 0
+http://dbpedia.org/resource/Syd_Rapson and http://dbpedia.org/resource/Home_Affairs_Select_Committee and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Paulsgrove and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Portsmouth and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Paulsgrove and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Portsmouth and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/New_Zealand_Labour_Party and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Member_of_parliament and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Portsmouth_North_(UK_Parliament_constituency) and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/2005_United_Kingdom_general_election and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sarah_McCarthy-Fry and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Member_of_parliament and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Trade_union and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Acts_of_Union_1800 and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Defence_Select_Committee and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/2001_United_Kingdom_general_election and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Parliament_of_the_United_Kingdom and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Controversial_TV and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Brass_Eye and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Sydney and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Normans and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Republic_of_Ireland and the value is : 0
+http://dbpedia.org/resource/John_Rapson and http://dbpedia.org/resource/Keyboard_instrument and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Syd Rapson (born Sydney Rapson, 28 April 1932 28 April 2017) was an English Labour Party politician who served as Member of Parliament (MP) for Portsmouth South from 1997 to 2010.
+Rapson was born in Portsmouth and educated at Portsmouth Grammar School and the University of Southampton.
+He worked as a teacher and a lecturer before entering politics.
+He was a councillor on Portsmouth City Council from 1973 to 1997, and was leader of the council from 1983 to 1997.
+Rapson was elected to the House of Commons at the 1997 general election, and held the seat until he stood down at the 2010 general election.
+He was a member of the Defence Select Committee from 1997 to 2010, and was a member of the Parliamentary Labour Party Defence Committee from 1997 to 2005.
+He was also a member of the Parliamentary Labour Party Home Affairs Committee from 2005 to 2010.
+
+
+Coref Resolved: 
+
+Syd Rapson (born Sydney Rapson, 28 April 1932 28 April 2017) was an English Labour Party politician who served as Member of Parliament (MP) for Portsmouth South from 1997 to 2010.
+Syd Rapson was born in Portsmouth and educated at Portsmouth Grammar School and the University of Southampton.
+Syd Rapson worked as a teacher and a lecturer before entering politics.
+Syd Rapson was a councillor on Portsmouth City Council from 1973 to 1997 , and was leader of Portsmouth City Council from 1983 to 1997 .
+Syd Rapson was elected to the House of Commons at the 1997 general election, and held Portsmouth South until Syd Rapson stood down at the 2010 general election.
+Syd Rapson was a member of the Defence Select Committee from 1997 to 2010, and was a member of the Parliamentary Labour Party Defence Committee from 1997 to 2005.
+Syd Rapson was also a member of the Parliamentary Labour Party Home Affairs Committee from 2005to 2010.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Sydney Norman John Rapson (born 17 April 1942, Isle of Wight) is a former politician in the United Kingdom. He moved with his family to the Paulsgrove area of Portsmouth as a young child, where he attended Paulsgrove Modern (now King Richard School). After leaving school, he worked in the aeronautical industry for nearly forty years until becoming Labour Member of Parliament (MP) for Portsmouth North from 1997 until he stood down at the 2005 general election. A former long-serving councillor, he was succeeded by Sarah McCarthy-Fry MP. He has two children and four grandchildren. He had stronger trade union credentials than many of the 1997 intake, having spent many years as an Amalgamated Engineering and Electrical Union activist and convener, which also gave him a strong interest in defence, the hallmark of his parliamentary career. He joined the Commons Defence Select Committee after the 2001 election. He generally maintained a low profile around Parliament he rarely contributed to debates and sat for four years on the low-key Accommodation and Works Committee. Rapson appeared in the controversial TV programme "Brass Eye", in which he was duped into presenting a segment on "Trust-Me Trousers", supposedly worn by paedophiles and inflated to hide an erection. Rapson was also recorded stating "Using an area of the internet the size of Ireland, paedophiles can make your keyboard release toxic vapours that can make you more suggestible." 
+
+Coref Resolved: 
+
+Sydney Norman John Rapson (born 17 April 1942, Isle of Wight) is a former politician in the United Kingdom.Sydney Norman John Rapson moved with Sydney Norman John Rapson family to the Paulsgrove area of Portsmouth as a young child, where Sydney Norman John Rapson attended Paulsgrove Modern (now King Richard School).After leaving school, Sydney Norman John Rapson worked in the aeronautical industry for nearly forty years until becoming Labour Member of Parliament (MP) for Portsmouth North from 1997 until Sydney Norman John Rapson stood down at the 2005 general election.Sydney Norman John Rapson , Sydney Norman John Rapson was succeeded by Sarah McCarthy-Fry MP.Sydney Norman John Rapson has two children and four grandchildren.Sydney Norman John Rapson had stronger trade union credentials than many of the 1997 intake, having spent many years as an Amalgamated Engineering and Electrical Union activist and convener, which also gave Sydney Norman John Rapson a strong interest in defence, the hallmark of Sydney Norman John Rapson parliamentary career.Sydney Norman John Rapson joined the Commons Defence Select Committee after the 2001 election.Sydney Norman John Rapson generally maintained a low profile around Parliament Sydney Norman John Rapson rarely contributed to debates and sat for four years on the low-key Accommodation and Works Committee.Sydney Norman John Rapson appeared in the controversial TV programme "Brass Eye", in which Sydney Norman John Rapson was duped into presenting a segment on "Trust-Me Trousers", supposedly worn by paedophiles and inflated to hide an erection.Sydney Norman John Rapson was also recorded stating "Using an area of the internet the size of Ireland, paedophiles can make your keyboard release toxic vapours that can make you more suggestible."
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.3333333333333333 -1 0.0 0.3333333333333333 0.0 0.0 
+
+Value for ground truth is : 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate accurate minor_inaccurate minor_inaccurate major_inaccurate 
+

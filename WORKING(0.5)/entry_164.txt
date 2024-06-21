@@ -1,0 +1,102 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Pat_Martino and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Joe_Jonas and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Gerald_Henderson_Jr. and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Bobby_Hutcherson and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Philadelphia and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitarist and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Wes_Montgomery and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Kenny_Burrell and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/George_Benson and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/University_of_Miami and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/James_A._Hall and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Joe_Jonas and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Gerald_Henderson_Jr. and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Bobby_Hutcherson and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Kenny_Barron and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/George_Gershwin and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Smooth_jazz and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Post-bop and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Indiana_University_Bloomington and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Asia and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Europe and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/West_Indies and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Rock_and_roll and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitar and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Chuck_Berry and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jimi_Hendrix and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Eric_Clapton and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Marvin_Gaye and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Henry_Mancini and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Indianapolis and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Audio_engineer and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Wes_Montgomery and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Dexter_Gordon and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Chet_Baker and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/G5_howitzer and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Joe_DiMaggio and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Charlie_Byrd and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Gene_Bertoncini and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Mundell_Lowe and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/John_Pisano and the value is : 1
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Jazz_guitarist and the value is : 0
+http://dbpedia.org/resource/Royce_Campbell and http://dbpedia.org/resource/Indianapolis and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Royce Campbell (born October 28, 1954) is an American jazz guitarist.
+He has released several albums as a leader, and has performed and recorded with many jazz musicians, including Pat Martino, Joe Henderson, and Bobby Hutcherson.
+Campbell was born in Philadelphia, Pennsylvania.
+He began playing guitar at age 11, and was influenced by jazz guitarists Wes Montgomery, Kenny Burrell, and George Benson.
+He attended the University of Miami, where he studied with Pat Martino and Jim Hall.
+After graduating, he moved to New York City and began performing with jazz musicians such as Joe Henderson, Bobby Hutcherson, and Kenny Barron.
+Campbell has released several albums as a leader, including Royce Campbell Plays the Music of Pat Martino (1995), Royce Campbell Plays the Music of George Gershwin (1997), and Royce Campbell Plays the Music of Antonio Carlos Jobim (1999).
+He has also released several albums with his group, the Royce Campbell Quartet.
+
+
+Coref Resolved: 
+
+Royce Campbell (born October 28, 1954) is an American jazz guitarist.
+Royce Campbell (born October 28, 1954) has released several albums as a leader, and has performed and recorded with many jazz musicians, including Pat Martino, Joe Henderson, and Bobby Hutcherson.
+Royce Campbell (born October 28, 1954) was born in Philadelphia, Pennsylvania.
+Royce Campbell (born October 28, 1954) began playing guitar at age 11, and was influenced by jazz guitarists Wes Montgomery, Kenny Burrell, and George Benson.
+Royce Campbell (born October 28, 1954) attended the University of Miami, where Royce Campbell (born October 28, 1954) studied with Pat Martinoand Jim Hall.
+After graduating, Royce Campbell (born October 28, 1954) moved to New York City and began performing with jazz musicians such as Joe Henderson, Bobby Hutcherson, and Kenny Barron.
+Royce Campbell (born October 28, 1954) has released several albums as a leader, including Royce Campbell Plays the Music of Pat Martino(1995), Royce Campbell Plays the Music of George Gershwin (1997), and Royce Campbell Plays the Music of Antonio Carlos Jobim (1999).
+Royce Campbell (born October 28, 1954) has also released several albums with Royce Campbell (born October 28, 1954) group, the Royce Campbell Quartet.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Royce Campbell is a jazz guitarist primarily associated with mainstream jazz, but he has also released smooth jazz and post-bop jazz recordings. He was born in Seymour, Indiana, in 1952. The son of a career Navy man, Campbell grew up in various cities around the U.S. and abroad, including Asia, Europe, and the West Indies. Exposure to various musical genres while a child contributed to Campbell's musical style and approach in jazz composition and playing. A love for rock and roll marked Campbell's first connection with the guitar, at the age of nine, when he discovered Chuck Berry. Like many guitarists of his generation, Campbell was also influenced by Jimi Hendrix and Eric Clapton. By the time Royce finished high school in the early 1970s, he was certain he wanted to pursue a professional career in music. His uncle, Carroll Decamp, an arranger pianist who arranged for Stan Kenton and Les Elgart, invited Royce to live with him and study in Indiana, providing most of Royce's musical education in theory and composition. By age 21, Campbell had begun touring with R B artist Marvin Gaye and developing his talents for stage performance. In 1975, Royce was hired by a local music contractor to do three concerts with award-winning film composer Henry Mancini in Indianapolis. Soon after, Royce became the touring guitarist with Henry Mancini's orchestra, holding that position until Mancini's death in 1994. While appearing on recordings as a sideman, and a couple as leader, during the early years of his career, Campbell started recording and touring more on his own during the 1990s, focusing at first on mainstream or straight-ahead jazz. Although he cites Wes Montgomery as his main influence, the influence of horn players such as Dexter Gordon and Chet Baker are evident in Royce's melodic style. In 1993, he produced Project G-5 A Tribute to Wes Montgomery, which also featured guitarists Tal Farlow, Jimmy Raney, Herb Ellis, and Cal Collins. His 1994 album 6x6 featured guitarists Pat Martino, John Abercrombie, Larry Coryell, Dave Stryker, and Bucky Pizzarelli. With Project G-5 A Tribute to Joe Pass, in 1999, he combined the talents of Charlie Byrd, Gene Bertoncini, Mundell Lowe, and John Pisano. During his career, Royce Campbell has released more than 30 CDs as leader or co-leader, among various sideman projects. Fifteen of these CDs have made it onto the US National Jazz Radio Charts. Campbell's soloing is documented among other jazz guitarists of the era, in Mel Bay's Anthology of Jazz Guitar Solos Featuring Solos by the World's Finest Jazz Guitarists In November 2010, Royce Campbell was inducted into the Indianapolis Jazz Foundation Hall of Fame. 
+
+Coref Resolved: 
+
+Royce Campbell is a jazz guitarist primarily associated with mainstream jazz, but Royce Campbell has also released smooth jazz and post-bop jazz recordings.Royce Campbell was born in Seymour, Indiana, in 1952.Royce Campbell grew up in various cities around the U.S. and abroad, including Asia, Europe, and the West Indies.Exposure to various musical genres while a child contributed to Royce Campbell musical style and approach in jazz composition and playing.A love for rock and roll marked Royce Campbell first connection with the guitar, at the age of nine, when Royce Campbell discovered Chuck Berry.Like many guitarists of Royce Campbell generation, Royce Campbell was also influenced by Jimi Hendrix and Eric Clapton.By the time Royce Campbell finished high school in the early 1970s, Royce Campbell was certain Royce Campbell wanted to pursue a professional career in music.Royce Campbell uncle, Carroll Decamp, an arranger pianist who arranged for Stan Kenton and Les Elgart, invited Royce Campbell to live with His uncle, Carroll Decamp, an arranger pianist who arranged for Stan Kenton and Les Elgartand study in Indiana, providing most of Royce Campbell musical education in theory and composition.By age 21, Royce Campbell had begun touring with R B artist Marvin Gaye and developing Royce Campbell talents for stage performance.In 1975, Royce Campbell was hired by a local music contractor to do three concerts with award-winning film composer Henry Mancini in Indianapolis.Soon after, Royce Campbell that position the touring guitarist with award-winning film composer Henry Mancini orchestra, holding that position until award-winning film composer Henry Mancini death in 1994.While appearing on recordings as a sideman, and a couple as leader, during the early years of Royce Campbell career, Royce Campbell started recording and touring more on Royce Campbell own during the 1990s, focusing at first on mainstream or straight-ahead jazz.Although Royce Campbell cites Wes Montgomery as Royce Campbell main influence, the influence of horn players such as Dexter Gordon and Chet Baker are evident in Royce Campbell melodic style.In 1993, Royce Campbell produced Project G-5A Tribute to Wes Montgomery , which also featured guitarists Tal Farlow, Jimmy Raney, Herb Ellis, and Cal Collins.Royce Campbell 1994 album 6x6 featured guitarists Pat Martino, John Abercrombie, Larry Coryell, Dave Stryker, and Bucky Pizzarelli.With Project G-5A Tribute to Joe Pass, in 1999, Royce Campbell combined the talents of Charlie Byrd, Gene Bertoncini, Mundell Lowe, and John Pisano.During Royce Campbell career, Royce Campbell has released more than 30 CDs as leader or co-leader, among various sideman projects.Fifteen of more than 30 CDs as leader or co-leaderhave made it onto the US National Jazz Radio Charts.Royce Campbell soloing is documented among other jazz guitarists of the era, in Mel Bay's Anthology of Jazz Guitar SolosFeaturing Solos by the World's Finest Jazz Guitarists In November 2010, Royce Campbell was inducted into the Indianapolis Jazz Foundation Hall of Fame.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.4 0.0 0.0 0.0 0.16666666666666666 0.0 -1 
+
+Value for ground truth is : 
+0.6 0.0 0.0 -1 0.6666666666666666 1.0 -1 -1 1.0 1.0 -1 0.5 0.0 0.0 -1 -1 -1 0.8 -1 -1 -1 0.5 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

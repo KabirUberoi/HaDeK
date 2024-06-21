@@ -1,0 +1,58 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/John_R._Holman and http://dbpedia.org/resource/Chemist and the value is : 0
+http://dbpedia.org/resource/John_R._Holman and http://dbpedia.org/resource/Physical_organic_chemistry and the value is : 0
+http://dbpedia.org/resource/John_R._Holman and http://dbpedia.org/resource/University_of_Manchester and the value is : 0
+http://dbpedia.org/resource/John_R._Holman and http://dbpedia.org/resource/Holman_Rule and the value is : 0
+http://dbpedia.org/resource/John_R._Holman and http://dbpedia.org/resource/Royal_Society and the value is : 0
+http://dbpedia.org/resource/John_R._Holman and http://dbpedia.org/resource/Davy_Medal and the value is : 0
+http://dbpedia.org/resource/John_R._Holman and http://dbpedia.org/resource/Royal_Medal and the value is : 0
+http://dbpedia.org/resource/John_R._Holman and http://dbpedia.org/resource/Royal_Society and the value is : 0
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+John Holman (1919 2006) was a British chemist who made significant contributions to the field of physical organic chemistry.
+He was a professor at the University of Manchester from 1956 to 1984.
+Holman's research focused on the mechanisms of organic reactions, particularly those involving radicals.
+He developed the concept of the "Holman Pathway" to describe the reaction of radicals with other molecules.
+He also developed the "Holman Rule" to explain the relative reactivity of different radicals.
+Holman was a Fellow of the Royal Society and a recipient of the Davy Medal.
+He was also awarded the Royal Medal of the Royal Society in 1975.
+He was a member of the editorial board of the Journal of the Chemical Society and the Journal of Organic Chemistry.
+
+
+Coref Resolved: 
+
+John Holman (1919 2006) was a British chemist who made significant contributions to the field of physical organic chemistry.
+John Holman was a professor at the University of Manchester from 1956 to 1984.
+John Holman research focused on the mechanisms of organic reactions, particularly those involving radicals.
+John Holman developed the concept of the "Holman Pathway" to describe the reaction of radicals with other molecules.
+John Holman also developed the "Holman Rule" to explain the relative reactivity of different radicals.
+John Holman was a Fellow of the Royal Society and a recipient of the Davy Medal.
+John Holman was also awarded the Royal Medal of the Royal Society in 1975.
+John Holman was a member of the editorial board of the Journal of the Chemical Society and the Journal of Organic Chemistry.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Professor Sir John Stranger Holman is Emeritus Professor of Chemistry at the University of York, a Senior Advisor in Education at the Wellcome Trust and the Gatsby Foundation, founding director of the National Science Learning Centre, and President-elect of the Royal Society of Chemistry. He was the British Government's National STEM Director from 2006 to 2010 (STEM referring to the academic disciplines of Science, Technology, Engineering, and Mathematics). He is on the Council and a Trustee of the Royal Society of Chemistry, and is a Trustee of the Natural History Museum. He was made a Knight Bachelor in the 2010 New Year's Honours. In 2014, the Royal Society of Chemistry awarded him the Lord Lewis Prize "in recognition of his extensive influence over chemistry education policy". He is Chair of the Salters' Institute Board, was the founding director of Salters' Advanced Chemistry Programme, and is the author of numerous chemistry textbooks. He was named in 2014 by the Science Council as one of the UK's 100 leading practising scientists, and was the 2014 recipient of the Royal Society's biennial Kavli Education Medal, "in recognition of his significant impact on science education within the UK". 
+
+Coref Resolved: 
+
+Professor Sir John Stranger Holman is Emeritus Professor of Chemistry at the University of York, a Senior Advisor in Education at the Wellcome Trust and the Gatsby Foundation, founding director of the National Science Learning Centre, and President-elect of the Royal Society of Chemistry.Professor Sir John Stranger Holman was the British Government's National STEM Director from 2006 to 2010 (STEM referring to the academic disciplines of Science, Technology, Engineering, and Mathematics).Professor Sir John Stranger Holman is on the Council and a Trustee of the Royal Society of Chemistry, and is a Trustee of the Natural History Museum.Professor Sir John Stranger Holman was made a Knight Bachelor in the 2010 New Year's Honours.In 2014, the Royal Society of Chemistryawarded Professor Sir John Stranger Holman the Lord Lewis Prize "in recognition of Professor Sir John Stranger Holman extensive influence over chemistry education policy".Professor Sir John Stranger Holman is Chair of the Salters' Institute Board, was the founding director of Salters' Advanced Chemistry Programme, and is the author of numerous chemistry textbooks.Professor Sir John Stranger Holman was named in 2014by the Science Council as one of the UK's 100 leading practising scientists, and was the 2014recipient of the Royal Society of Chemistrybiennial Kavli Education Medal, "in recognition of Professor Sir John Stranger Holman significant impact on science education within the UK's ".
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 -1 -1 0.0 0.0 0.0 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

@@ -1,0 +1,65 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Outlaw and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/San_Bernardino_Mountains and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/California and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Outlaw_motorcycle_club and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Unincorporated_area and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/San_Bernardino_Mountains and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Loki and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Norse_mythology and the value is : 1
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Motorcycle and the value is : 0
+http://dbpedia.org/resource/Vagos_Motorcycle_Club and http://dbpedia.org/resource/Inland_Empire and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Vagos Motorcycle Club (Vagos) is an outlaw motorcycle club that was formed in San Bernardino, California in 1965.
+The club is known for its involvement in criminal activities such as drug trafficking, extortion, and murder.
+The Vagos have a presence in the United States, Mexico, and Canada, and are estimated to have over 2,000 members.
+The club is also known for its rivalry with the Hells Angels Motorcycle Club.
+The Vagos Motorcycle Club was founded in 1965 by a group of Mexican-American war veterans in San Bernardino, California.
+The club was originally formed as a social club for Mexican-American bikers, but soon began to engage in criminal activities such as drug trafficking, extortion, and murder.
+The Vagos have a presence in the United States, Mexico, and Canada, and are estimated to have over 2,000 members.
+The club is also known for its rivalry with the Hells Angels Motorcycle Club.
+The Vagos have been involved in numerous violent incidents with the Hells Angels, including a shootout in Laughlin, Nevada in 2002.
+
+
+Coref Resolved: 
+
+Vagos Motorcycle Club (Vagos) is an outlaw motorcycle club that was formed in San Bernardino, California in 1965.
+The club is known for The club involvement in criminal activities such as drug trafficking, extortion, and murder.
+The club have a presence in the United States, Mexico, and Canada, and are estimated to have over 2,000 members.
+The club is also known for The club rivalry with the Hells Angels Motorcycle Club.
+The club was founded in 1965 by a group of Mexican-American war veterans in San Bernardino, California .
+The club was originally formed as a social club for Mexican-American bikers, but soon began to engage in criminal activities such as drug trafficking, extortion, and murder.
+The club have a presence in the United States, Mexico, and Canada, and are estimated to have over 2,000 members.
+The club is also known for The club rivalry with the Hells Angels Motorcycle Club.
+The club have been involved in numerous violent incidents with the Hells Angels Motorcycle Club, including a shootout in Laughlin, Nevada in 2002.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+The Vagos Motorcycle Club, also known as the Green Nation, is a one-percenter motorcycle club formed in 1965 in the unincorporated community of San Bernardino, California. The club was originally called "The Psychos". Their insignia is Loki, the Norse god of mischief, riding a motorcycle, and members typically wear green. The Vagos have approximately 4,000 members among 47 chapters located in the states of Arizona, California, Hawaii, Nevada, Oregon, Utah, Missouri, and several Canadian chapters in Peterborough, Ontario, as well as chapters throughout Europe and ten chapters located in Mexico (Baja California, Jalisco, and Mexico City). Two hundred members are in the Inland Empire (California), where the club was started in the late 1960s. In 2013, the Vagos expanded to Sweden and Australia. In 2002, members of the Vagos turned in the estranged wife of a Pomona, California police detective after she attempted to hire a hitman from the Vagos to kill her husband. 
+
+Coref Resolved: 
+
+The Vagos Motorcycle Club, also known as the Green Nation, is a one-percenter motorcycle club formed in 1965 in the unincorporated community of San Bernardino, California.The Vagos Motorcycle Club, also known as the Green Nationwas originally called "The Psychos".The Vagos Motorcycle Club, also known as the Green Nationinsignia is Loki, the Norse god of mischief, riding a motorcycle, and members typically wear green.The Vagos Motorcycle Club, also known as the Green Nationhave approximately 4,000 members among 47 chapters located in the states of Arizona, California, Hawaii, Nevada, Oregon, Utah, Missouri, and several Canadian chapters in Peterborough, Ontario, as well as chapters throughout Europe and ten chapters located in Mexico (Baja California, Jalisco, and Mexico City).Two hundred members are in the Inland Empire (California), where The Vagos Motorcycle Club, also known as the Green Nationwas started in the late 1960s.In 2013, The Vagos Motorcycle Club, also known as the Green Nationexpanded to Sweden and Australia.In 2002, members of The Vagos Motorcycle Club, also known as the Green Nationturned in the estranged wife of a Pomona, Californiapolice detective after the estranged wife of a Pomona, California police detective attempted to hire a hitman from The Vagos Motorcycle Club, also known as the Green Nationto kill the estranged wife of a Pomona, California police detective husband.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 -1 -1 -1 -1 -1 -1 -1 -1 
+
+Value for ground truth is : 
+0.2 -1 0.6666666666666666 -1 1.0 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate accurate minor_inaccurate major_inaccurate accurate accurate minor_inaccurate 
+

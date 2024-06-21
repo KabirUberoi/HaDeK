@@ -1,0 +1,51 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Session_musician and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Paul_Rodgers and the value is : 1
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/The_Winery_Dogs and the value is : 0
+http://dbpedia.org/resource/Pino_Palladino and http://dbpedia.org/resource/Bass_guitar and the value is : 0
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Pino Palladino (born 24 October 1957) is a Welsh bass guitarist.
+He is a prolific session musician who has recorded and performed with many well-known artists and groups since the mid-1970s.
+He is best known for his long-time collaboration with The Who, and his work with D'Angelo, Eric Clapton, John Mayer, and The RH Factor.
+He has also been a member of the John Mayer Trio, Paul Rodgers' band, and The Winery Dogs.
+Palladino's signature bass sound is characterized by a deep, warm tone and a "slap" technique that is heavily influenced by funk music.
+He is widely regarded as one of the most influential bass players of the modern era.
+
+
+Coref Resolved: 
+
+Pino Palladino (born 24 October 1957) is a Welsh bass guitarist.
+Pino Palladino (born 24 October 1957) is a prolific session musician who has recorded and performed with many well-known artists and groups since the mid-1970s.
+Pino Palladino (born 24 October 1957) is best known for Pino Palladino (born 24 October 1957)long-time collaboration with The Who, and Pino Palladino (born 24 October 1957) work with D'Angelo, Eric Clapton, John Mayer, and The RH Factor.
+Pino Palladino (born 24 October 1957) has also been a member of the John MayerTrio, Paul Rodgers' band, and The Winery Dogs.
+Pino Palladino (born 24 October 1957)signature bass sound is characterized by a deep, warm tone and a "slap" technique that is heavily influenced by funk music.
+Pino Palladino (born 24 October 1957) is widely regarded as one of the most influential bass players of the modern era.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Giuseppe Henry "Pino" Palladino (born 17 October 1957) is a Welsh bassist. He gained fame for playing primarily rock and roll, blues rock, and rhythm and blues music, although he has been lauded for his ability to play most genres of popular music, including jazz, neo soul, and funk. His career has spanned several ensembles, including the John Mayer Trio and The RH Factor, which he formed with jazz trumpeter Roy Hargrove. He was also Pete Townshend's and Roger Daltrey's first choice to fill the position left by John Entwistle as the bassist for The Who. More recently, he has recorded and toured with D'Angelo and The Vanguard. He has played on a large number of recordings. He is known for playing a late 1970s fretless Music Man Stingray bass guitar and, later in his career, fretted Fender Precision and Jaguar basses. His playing has earned him custom instruments bearing his name. 
+
+Coref Resolved: 
+
+Giuseppe Henry "Pino" Palladino (born 17 October 1957) is a Welsh bassist.Giuseppe Henry "Pino" Palladino gained fame for playing primarily rock and roll, blues rock, and rhythm and blues music, although Giuseppe Henry "Pino" Palladino has been lauded for Giuseppe Henry "Pino" Palladino ability to play most genres of popular music, including jazz, neo soul, and funk.Giuseppe Henry "Pino" Palladino career has spanned several ensembles, including the John Mayer Trio and The RH Factor, which Giuseppe Henry "Pino" Palladino formed with jazz trumpeter Roy Hargrove.Giuseppe Henry "Pino" Palladino was also Pete Townshend's and Roger Daltrey's first choice to fill the position left by John Entwistle as the bassist for The Who.More recently, Giuseppe Henry "Pino" Palladino has recorded and toured with D'Angelo and The Vanguard.Giuseppe Henry "Pino" Palladino has played on a large number of recordings.Giuseppe Henry "Pino" Palladino is known for playing a late 1970s fretless Music Man Stingray bass guitar and, later in Giuseppe Henry "Pino" Palladino career, fretted Fender Precision and Jaguar basses.Giuseppe Henry "Pino" Palladino playing has earned Giuseppe Henry "Pino" Palladino custom instruments bearing Giuseppe Henry "Pino" Palladino name.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 1.0 -1 -1 0.5 -1 -1 0.0 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate accurate accurate accurate accurate 
+

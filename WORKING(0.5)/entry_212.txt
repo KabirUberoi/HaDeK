@@ -1,0 +1,57 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Arizona and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/California and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Virginia and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Bankruptcy and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Real_estate_investing and the value is : 0
+http://dbpedia.org/resource/Casey_Serin and http://dbpedia.org/resource/Foreclosure and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/USA_Today and http://dbpedia.org/resource/Poster_child and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Casey Serin (born February 11, 1984) is an American blogger and former real estate investor.
+He gained notoriety in 2006 when he began blogging about his experiences as a real estate investor.
+Serin purchased eight properties in Arizona, California, and Virginia between 2004 and 2006, using a combination of subprime and stated income loans.
+He quickly became overwhelmed by the debt and was unable to make payments on the mortgages.
+He declared bankruptcy in 2008.
+Serin's blog, which he began in 2006, documented his experiences with real estate investing and his attempts to avoid foreclosure.
+He also wrote about his personal life, including his marriage and the birth of his daughter.
+His blog was widely read and attracted the attention of the media, who reported on his financial struggles.
+
+
+Coref Resolved: 
+
+Casey Serin (born February 11, 1984) is an American blogger and former real estate investor.
+Casey Serin (born February 11, 1984) gained notoriety in 2006 when Casey Serin (born February 11, 1984) began blogging about Casey Serin (born February 11, 1984) experiences as a real estate investor.
+Casey Serin (born February 11, 1984) purchased eight properties in Arizona, California, and Virginia between 2004 and 2006 , using a combination of subprime and stated income loans.
+Casey Serin (born February 11, 1984) quickly became overwhelmed by the debt and was unable to make payments on the mortgages.
+Casey Serin (born February 11, 1984) declared bankruptcy in 2008.
+Casey Serin (born February 11, 1984) blog, which Casey Serin (born February 11, 1984) began in 2006 , documented Casey Serin (born February 11, 1984) experiences with real estate investing and Casey Serin (born February 11, 1984) attempts to avoid foreclosure.
+Casey Serin (born February 11, 1984) also wrote about Casey Serin (born February 11, 1984) personal life, including Casey Serin (born February 11, 1984) marriage and the birth of Casey Serin (born February 11, 1984) daughter.
+Casey Serin (born February 11, 1984) blog was widely read and attracted the attention of the media, who reported on Casey Serin (born February 11, 1984) financial struggles.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Casey Konstantin Serin (born September 10, 1982) is an Uzbek-born American blogger and former real estate investor. In a newspaper article, USA Today called him the "poster child for everything that went wrong in the real estate boom". Born in Tashkent, Uzbekistan, Serin immigrated to the United States in 1994. After graduating from high school, Serin bounced from job to job, generally working in website design. However, in his early twenties, Serin decided to quit working full-time in order to pursue a career in house flipping as a means of earning an income and building wealth. In an eight-month period beginning in October 2005, Serin purchased eight houses in four southwest U.S. states, and then began blogging about the foreclosure process on the properties he was unable to resell. In time, five of the eight properties foreclosed. The dubious nature of Serin's real estate transactions, coupled with his subsequent blogging about the affair, have led to Serin's name becoming strongly associated with the subprime mortgage crisis. 
+
+Coref Resolved: 
+
+Casey Konstantin Serin (born September 10, 1982) is an Uzbek-born American blogger and former real estate investor.In a newspaper article, USA Today called Casey Konstantin Serin (born September 10, 1982) the "poster child for everything that went wrong in the real estate boom".Born in Tashkent, Uzbekistan, Casey Konstantin Serin (born September 10, 1982) immigrated to the United States in 1994.After graduating from high school, Casey Konstantin Serin (born September 10, 1982) bounced from job to job, generally working in website design.However, in Casey Konstantin Serin (born September 10, 1982) early twenties, Casey Konstantin Serin (born September 10, 1982) decided to quit working full-time in order to pursue a career in house flipping as a means of earning an income and building wealth.In an eight-month period beginning in October 2005, Casey Konstantin Serin (born September 10, 1982) purchased eight houses in four southwest U.S. states, and then began blogging about the foreclosure process on the properties Casey Konstantin Serin (born September 10, 1982) was unable to resell.In time, five of eight houses in four southwest U.S. statesforeclosed.The dubious nature of Casey Konstantin Serin (born September 10, 1982) real estate transactions, coupled with Casey Konstantin Serin (born September 10, 1982) subsequent blogging about the affair, have led to Casey Konstantin Serin (born September 10, 1982) name becoming strongly associated with the subprime mortgage crisis.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 0.0 -1 0.0 0.5 -1 -1 
+
+Value for ground truth is : 
+-1 0.0 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate accurate 
+

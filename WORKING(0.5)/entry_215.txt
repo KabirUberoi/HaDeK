@@ -1,0 +1,105 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Order_of_the_Bath and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Royal_Air_Force and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Order_of_the_Bath and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Royal_Air_Force and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Normandy_landings and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Order_of_the_Bath and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Royal_Air_Force and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Scotland and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Royal_Military_Academy_Sandhurst and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Order_of_the_Bath and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Royal_Air_Force and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Royal_Artillery and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/British_Raj and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/World_War_I and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Order_of_the_Bath and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Royal_Air_Force and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Battle_of_France and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Order_of_the_Bath and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Royal_Air_Force and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Military_Cross and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Order_of_the_Bath and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Royal_Air_Force and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Air_Staff_(Sweden) and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Order_of_the_Bath and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Royal_Air_Force and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Supreme_Headquarters_Allied_Expeditionary_Force and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/European_theatre_of_World_War_II and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/General_officer and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Dwight_D._Eisenhower and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Order_of_the_Bath and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Royal_Air_Force and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Normandy_landings and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Royal_Flying_Corps and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/World_War_I and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Royal_Air_Force and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Carpet_bombing and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/World_War_II and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Mediterranean_Air_Command and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Mediterranean_Air_Command and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Allies_of_World_War_II and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Allied_invasion_of_Sicily and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Allies_of_World_War_II and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Kingdom_of_Italy and the value is : 0
+http://dbpedia.org/resource/Operation_Overlord and http://dbpedia.org/resource/Battle_of_France and the value is : 1
+http://dbpedia.org/resource/Operation_Overlord and http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and the value is : 1
+http://dbpedia.org/resource/Operation_Overlord and http://dbpedia.org/resource/Supreme_Headquarters_Allied_Expeditionary_Force and the value is : 1
+http://dbpedia.org/resource/Operation_Overlord and http://dbpedia.org/resource/Dwight_D._Eisenhower and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/World_War_II and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Air_Staff_(Sweden) and the value is : 0
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/RAF_Fighter_Command and the value is : 1
+http://dbpedia.org/resource/Arthur_Tedder,_1st_Baron_Tedder and http://dbpedia.org/resource/Berlin_Blockade and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Arthur William Tedder, 1st Baron Tedder, GCB (11 July 1890 3 June 1967) was a senior Royal Air Force commander.
+During the Second World War he was Deputy Supreme Allied Commander in Europe, serving under General Dwight D. Eisenhower.
+He was also a key figure in the planning of the Normandy landings in 1944.
+Tedder was born in Glenguin, Scotland, and educated at Rugby and the Royal Military College, Sandhurst.
+He joined the Royal Artillery in 1911 and was posted to India in 1912.
+During the First World War he served in France, where he was awarded the Military Cross in 1915.
+After the war he transferred to the Royal Air Force and was appointed as Air Officer Commanding No. 3 Group in 1936.
+In 1940, Tedder was appointed Deputy Chief of the Air Staff and was heavily involved in the planning of the Battle of Britain.
+In 1942, he was appointed Deputy Supreme Allied Commander in Europe, serving under General Dwight D. Eisenhower.
+He was responsible for the planning of the Normandy landings in 1944 and was present on the beaches on D.
+
+
+Coref Resolved: 
+
+Arthur William Tedder, 1st Baron Tedder, GCB (11 July 1890 3 June 1967) was a senior Royal Air Force commander.
+During the Second World War Arthur William Tedder, 1st Baron Tedder, GCB (11 July 1890 3 June 1967) was a senior Royal Air Force commanderwas Deputy Supreme Allied Commander in Europe, serving under General Dwight D. Eisenhower.
+Arthur William Tedder, 1st Baron Tedder, GCB (11 July 1890 3 June 1967) was a senior Royal Air Force commanderwas also a key figure in the planning of the Normandy landings in 1944.
+Arthur William Tedder, 1st Baron Tedder, GCB (11 July 1890 3 June 1967) was a senior Royal Air Force commanderwas born in Glenguin, Scotland, and educated at Rugby and the Royal Military College, Sandhurst.
+Arthur William Tedder, 1st Baron Tedder, GCB (11 July 1890 3 June 1967) was a senior Royal Air Force commanderjoined the Royal Artillery in 1911 and was posted to India in 1912.
+During the First World War Arthur William Tedder, 1st Baron Tedder, GCB (11 July 1890 3 June 1967) was a senior Royal Air Force commanderserved in France, where Arthur William Tedder, 1st Baron Tedder, GCB (11 July 1890 3 June 1967) was a senior Royal Air Force commanderwas awarded the Military Cross in 1915.
+After the First World War Arthur William Tedder, 1st Baron Tedder, GCB (11 July 1890 3 June 1967) was a senior Royal Air Force commandertransferred to Royal Air Force and was appointed as Air Officer Commanding No. 3 Group in 1936.
+In 1940, Arthur William Tedder, 1st Baron Tedder, GCB (11 July 1890 3 June 1967) was a senior Royal Air Force commanderwas appointed Deputy Chief of the Air Staff and was heavily involved in the planning of the Battle of Britain.
+In 1942, Arthur William Tedder, 1st Baron Tedder, GCB (11 July 1890 3 June 1967) was a senior Royal Air Force commanderwas appointed Deputy Supreme Allied Commander in Europe, serving under General Dwight D. Eisenhower.
+Arthur William Tedder, 1st Baron Tedder, GCB (11 July 1890 3 June 1967) was a senior Royal Air Force commanderwas responsible for the planning of the Normandy landings in 1944and was present on the beaches on D.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Marshal of the Royal Air Force Arthur William Tedder, 1st Baron Tedder (11 July 1890 - 3 June 1967), was a senior British Air Force commander. He was a pilot and squadron commander in the Royal Flying Corps in the First World War and he went on to serve as a senior officer in the Royal Air Force during the inter-war years. During the Second World War, as Air Officer Commanding RAF Middle East Command, Tedder commanded air operations in the Mediterranean and North Africa, including the evacuation of Crete and "Operation Crusader" in North Africa. His bombing tactics became known as the "Tedder Carpet". Later in the war, Tedder took command of Mediterranean Air Command and in that role was closely involved in the planning of the Allied invasion of Sicily and then the Allied invasion of Italy. When Operation Overlord - the invasion of France - came to be planned, Tedder was appointed Deputy Supreme Commander at Supreme Headquarters Allied Expeditionary Force under General Eisenhower. After the war, he served as Chief of the Air Staff, in which role he advocated increased recruiting in the face of many airmen leaving the service, doubled the size of RAF Fighter Command and implemented arrangements for the Berlin Airlift in 1948. 
+
+Coref Resolved: 
+
+Marshal of the Royal Air Force Arthur William Tedder, 1st Baron Tedder (11 July 1890 - 3 June 1967), was a senior British Air Force commander.Arthur William Tedder, 1st Baron Tedder (11 July 1890 - 3 June 1967)was a pilot and squadron commander in the Royal Flying Corps in the First World War and Arthur William Tedder, 1st Baron Tedder (11 July 1890 - 3 June 1967)went on to serve as a senior officer in the Royal Air Force during the inter-war years.During the Second World War, as Air Officer Commanding RAF Middle East Command, Arthur William Tedder, 1st Baron Tedder (11 July 1890 - 3 June 1967)commanded air operations in the Mediterranean and North Africa, including the evacuation of Crete and "Operation Crusader" in North Africa.Arthur William Tedder, 1st Baron Tedder (11 July 1890 - 3 June 1967)bombing tactics became known as the "Tedder Carpet".Later in the Second World War, Arthur William Tedder, 1st Baron Tedder (11 July 1890 - 3 June 1967)took command of Mediterranean Air Command and in command of Mediterranean Air Command was closely involved in the planning of the Allied invasion of Sicily and then the Allied invasion of Italy.When Operation Overlord - the invasion of France - came to be planned, Arthur William Tedder, 1st Baron Tedder (11 July 1890 - 3 June 1967)was appointed Deputy Supreme Commander at Supreme Headquarters Allied Expeditionary Force under General Eisenhower.After the Second World War, Arthur William Tedder, 1st Baron Tedder (11 July 1890 - 3 June 1967)served as Chief of the Air Staff, in which role Arthur William Tedder, 1st Baron Tedder (11 July 1890 - 3 June 1967)advocated increased recruiting in the face of many airmen leaving the service, doubled the size of RAF Fighter Command and implemented arrangements for the Berlin Airlift in 1948.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 -1 0.6666666666666666 0.5 0.5 0.5714285714285714 -1 0.6666666666666666 0.6666666666666666 0.6666666666666666 
+
+Value for ground truth is : 
+-1 0.6666666666666666 -1 1.0 0.42857142857142855 1.0 0.5 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate 
+

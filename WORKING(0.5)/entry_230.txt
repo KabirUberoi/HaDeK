@@ -1,0 +1,111 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Geologist and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Paleontology and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/University_of_Kiel and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Weimar_Republic and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/University_of_Kiel and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Humboldt_University_of_Berlin and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/University_of_Kiel and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Stratigraphy and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Sedimentology and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Geologic_time_scale and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/China and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Chinese_language and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Continental_drift and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Plate_tectonics and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/German_Americans and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Old_Lutherans and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Theology and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Kingdom_of_Prussia and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Magdeburg and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Germany and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Johann_Strauss_II and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Jericho and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Grammar_school and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Kingdom_of_Prussia and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Magdeburg and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Magdeburg and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Magdeburg and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Nordhausen_station and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Holy_orders and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Erfurt and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/1936_Summer_Olympics and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Erfurt and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Magdeburg and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/KeyBank_Center and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Kingdom_of_Prussia and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Australia and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Buffalo_Synod and the value is : 1
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Glenn_L._Martin_Company and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Luther_College_(Iowa) and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/KeyBank_Center and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Lutheranism and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Glenn_L._Martin_Company and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Luther_College_(Iowa) and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Glenn_L._Martin_Company and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Luther_College_(Iowa) and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Vicar and the value is : 0
+http://dbpedia.org/resource/Synod and http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and the value is : 0
+http://dbpedia.org/resource/Synod and http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Christine_Blair and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Sophia_of_Hanover and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Johann_Strauss_II and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Burgrave and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/Elizabeth_of_Russia and the value is : 0
+http://dbpedia.org/resource/Johannes_Andreas_August_Grabau and http://dbpedia.org/resource/KeyBank_Center and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Johannes Andreas August Grabau (1851 1922) was a German geologist and paleontologist.
+He was born in Kiel, Germany, and studied at the University of Kiel and the University of Berlin.
+He was a professor at the University of Kiel from 1881 to 1891, and then at the University of Berlin from 1891 to 1922.
+Grabau was a pioneer in the field of stratigraphy, the study of the layers of sedimentary rocks.
+He developed the concept of the "Grabau Zone", which is a sequence of strata that can be used to identify a particular geological period.
+He also developed the concept of the "Grabau Index", which is a measure of the relative age of a rock formation.
+Grabau was also a prolific writer, publishing more than 200 scientific papers and books.
+He wrote extensively on the geology of China, and his work was instrumental in the development of Chinese geology.
+He was also a proponent of the theory of continental drift, and his work helped to lay the foundations for modern plate tectonics.
+
+
+Coref Resolved: 
+
+Johannes Andreas August Grabau (1851 1922) was a German geologist and paleontologist.
+Johannes Andreas August Grabau (1851 1922) was born in Kiel, Germany, and studied at the University of Kiel and the University of Berlin.
+Johannes Andreas August Grabau (1851 1922) was a professor at the University of Kiel from 1881 to 1891, and then at the University of Berlinfrom 1891to 1922.
+Johannes Andreas August Grabau (1851 1922) was a pioneer in the field of stratigraphy, the study of the layers of sedimentary rocks.
+Johannes Andreas August Grabau (1851 1922) developed the concept of the "Grabau Zone", which is a sequence of strata that can be used to identify a particular geological period.
+Johannes Andreas August Grabau (1851 1922) also developed the concept of the "Grabau Index", which is a measure of the relative age of a rock formation.
+Johannes Andreas August Grabau (1851 1922) was also a prolific writer, publishing more than 200 scientific papers and books.
+Johannes Andreas August Grabau (1851 1922) wrote extensively on the geology of China, and Johannes Andreas August Grabau (1851 1922) work was instrumental in the development of Chinese geology.
+Johannes Andreas August Grabau (1851 1922) was also a proponent of the theory of continental drift, and Johannes Andreas August Grabau (1851 1922) work helped to lay the foundations for modern plate tectonics.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Johannes Andreas August Grabau (March 18, 1804 - June 2, 1879) was an influential German-American Old Lutheran pastor and theologian. He is usually mentioned as J.A.A. Grabau. Grabau was born in Olvenstedt, Prussia (now a part of Greater Magdeburg, Germany). He was the son of Johann Andreas Grabau and Anna Dorothea Jericho. Grabau was educated at the grammar school in Olvenstedt (1809 - 1818), the Magdeburg Gymnasium (1818 - 1825), and at the University of Halle (1825 - 1829). After three years as a teacher in Magdeburg and Sachsa bei Nordhausen, Grabau was ordained and installed as pastor of St. Andrew's Church in Erfurt in June 1834. Grabau was jailed twice for refusing to use the Prussian Union agenda and was permitted to immigrate to America in summer 1839 with members of Lutheran congregations in Erfurt and Magdeburg. They settled in Buffalo, New York, where he served as pastor of a Lutheran congregation for 40 years. On July 15, 1845, along with four pastors, Grabau founded "The Synod of the Lutheran Church Emigrated from Prussia" (German "Synode der aus Preussen ausgewanderten lutherischen Kirche"), which became known as "The Buffalo Synod". Grabau also founded the Martin Luther College in Buffalo. Grabau retained control of the Martin Luther College and remained as its rector. The official organ of Grabau's synod after 1866 was "Die Wachende Kirche", under his editorship. Grabau was married on July 15, 1834, to Christine Sophia Burgraf, the daughter of Johann Andreas Burggraf and Friedericke Louise Elizabeth Beulke. They had at least three children Johann, Wilhelm, and Beata. Grabau died on June 2, 1879 in Buffalo, New York, shortly before the 40th anniversary of his arrival in the United States. 
+
+Coref Resolved: 
+
+Johannes Andreas August Grabau (March 18, 1804 - June 2, 1879) was an influential German-American Old Lutheran pastor and theologian.Johannes Andreas August Grabau is usually mentioned as J.A.A. Grabau.Johannes Andreas August Grabau was born in Olvenstedt, Prussia (now a part of Greater Magdeburg, Germany).Johannes Andreas August Grabau was the son of Johann Andreas Grabau and Anna Dorothea Jericho.Johannes Andreas August Grabau was educated at the grammar school in Olvenstedt, Prussia (now a part of Greater Magdeburg, Germany)(1809 - 1818), the Magdeburg Gymnasium (1818- 1825), and at the University of Halle (1825- 1829).After three years as a teacher in Magdeburg and Sachsa bei Nordhausen, Johannes Andreas August Grabau was ordained and installed as pastor of St. Andrew's Church in Erfurt in June 1834.Johannes Andreas August Grabau was jailed twice for refusing to use the Prussian Union agenda and was permitted to immigrate to America in summer 1839 with members of Lutheran congregations in Erfurt and Magdeburg .They settled in Buffalo, New York, where Johannes Andreas August Grabau served as pastor of a Lutheran congregation for 40 years.On July 15, 1845, along with four pastors, Johannes Andreas August Grabau founded "The Synod of the Lutheran Church Emigrated from Prussia " (German "Synode der aus Preussen ausgewanderten lutherischen Kirche"), which became known as "The Buffalo Synod".Johannes Andreas August Grabau also founded the Martin Luther College in Buffalo, New York, where he served as pastor of a Lutheran congregation for 40 years.Johannes Andreas August Grabau retained control of the Martin Luther College and remained as the Martin Luther College rector.The official organ of Johannes Andreas August Grabau synod after 1866 was "Die Wachende Kirche", under Johannes Andreas August Grabau editorship.Johannes Andreas August Grabau was married on July 15, 1834, to Christine Sophia Burgraf, the daughter of Johann Andreas Burggraf and Friedericke Louise Elizabeth Beulke.They had at least three children Johann, Wilhelm, and Beata.Johannes Andreas August Grabau died on June 2, 1879 in Buffalo, New York, shortly before the 40th anniversary of Johannes Andreas August Grabau arrival in America .
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.0 0.0 0.0 0.0 -1 0.0 0.0 
+
+Value for ground truth is : 
+0.3333333333333333 -1 0.6666666666666666 0.0 0.75 0.5 0.4 0.0 0.5 0.0 0.0 0.0 0.0 -1 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

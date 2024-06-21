@@ -1,0 +1,113 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Whitey_Wistert and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Whitey_Wistert and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Whitey_Wistert and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball_All-Star_Game and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/National_League and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball_Most_Valuable_Player_Award and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Whitey_Wistert and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Whitey_Wistert and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Whitey_Wistert and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Whitey_Wistert and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Chicago_Bulls and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Illinois_Fighting_Illini and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Whitey_Wistert and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Decatur_Commodores and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Whitey_Wistert and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Whitey_Wistert and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Whitey_Wistert and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball_All-Star_Game and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Whitey_Wistert and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/National_League and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/National_League and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball_Most_Valuable_Player_Award and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Whitey_Wistert and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/National_League and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Whitey_Wistert and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Philadelphia_Phillies and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Batting_average and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Run_batted_in and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Osteomyelitis and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Bone_tumor and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Myocardial_infarction and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Spring_training and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Run_batted_in and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Types_of_tennis_match and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Slugging_percentage and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/On-base_percentage and the value is : 1
+http://dbpedia.org/resource/Major_League_Baseball_All-Star_Game and http://dbpedia.org/resource/Whitey_Kurowski and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/National_League and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Fielding_percentage and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/World_Series and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/World_Series and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/New_York_Yankees and the value is : 1
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Major_League_Baseball_Most_Valuable_Player_Award and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Minor_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Polish_Americans and the value is : 0
+http://dbpedia.org/resource/Harry_Stein_(author) and http://dbpedia.org/resource/Sports_journalism and the value is : 0
+http://dbpedia.org/resource/Harry_Stein_(author) and http://dbpedia.org/resource/All-Time_All_Star_Award_(hurling) and the value is : 0
+http://dbpedia.org/resource/Harry_Stein_(author) and http://dbpedia.org/resource/Major_League_Baseball and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Sports_journalism and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Harry_Stein_(author) and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Poles and the value is : 0
+http://dbpedia.org/resource/Whitey_Kurowski and http://dbpedia.org/resource/Pennsylvania and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Whitey Kurowski (April 4, 1916 October 15, 1999) was an American professional baseball player.
+He played in Major League Baseball as a third baseman for the St. Louis Cardinals (1938 1948) and Philadelphia Phillies (1949 1951).
+Kurowski was a five-time All-Star and was the National League MVP in 1943.
+He was known for his strong throwing arm and his ability to hit for power and average.
+Kurowski was born in Chicago, Illinois, and began his professional baseball career in 1934 with the minor league Decatur Commodores.
+He made his major league debut with the Cardinals in 1938, and was a regular starter by 1940.
+He was selected to the All-Star team in 1941, 1942, 1943, 1945, and 1947.
+In 1943, he led the National League in runs batted in (RBIs) with 120, and was named the league's Most Valuable Player.
+He also led the league in RBIs in 1945 with 108.
+Kurowski was traded to the Phillies in 1949, and played two seasons with them before retiring in.
+
+
+Coref Resolved: 
+
+Whitey Kurowski (April 4, 1916 October 15, 1999) was an American professional baseball player.
+Whitey Kurowski played in Major League Baseball as a third baseman for the St. Louis Cardinals (1938 1948) and Philadelphia Phillies (1949 1951).
+Whitey Kurowski was a five-time All-Star and was the National League MVP in 1943.
+Whitey Kurowski was known for Whitey Kurowski strong throwing arm and Whitey Kurowski ability to hit for power and average.
+Whitey Kurowski was born in Chicago, Illinois, and began Whitey Kurowski professional baseball career in 1934 with the minor league Decatur Commodores.
+Whitey Kurowski made Whitey Kurowski major league debut with St. Louis Cardinals in 1938, and was a regular starter by 1940.
+Whitey Kurowski was selected to the All-Star team in 1941, 1942, 1943, 1945, and 1947.
+In 1943, Whitey Kurowski led National League in runs batted in (RBIs) with 120, and was named National League Most Valuable Player.
+Whitey Kurowski also led National League in RBIs in 1945with 108.
+Whitey Kurowski was traded to Philadelphia Phillies in 1949 , and played two seasons with Philadelphia Phillies before retiring in.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+George John Kurowski (April 19, 1918 December 9, 1999) was a third baseman in Major League Baseball who played his entire career for the St. Louis Cardinals (1949). Kurowski batted and threw right-handed. He debuted on September 23, 1941, and played his final game on October 1, 1949. In a nine-season career, Kurowski posted a .286 batting average with 106 home runs and 529 RBI in 916 games played. Kurowski's childhood nickname came from his already white hair. A native of Reading, Pennsylvania, Kurowski overcame several personal problems. He overcame childhood osteomyelitis, which made him miss a part of a bone on his right forearm. Before he started his baseball career, his older brother died in a mine accident, and his father died from a heart attack during spring training in 1942. His most productive season came in 1945, when he posted career-highs in average (.310), home runs (27), RBI (104), runs (108), doubles (27), slugging percentage (.544) and on-base percentage (.420). An All-Star during five consecutive seasons (1943 47), Kurowski exceeded the 20 home run mark three times to set a major league record for a third baseman (1944 45, 1947), and hit over .300 three times (1945 47). He also led the National League three times in putouts, twice in fielding percentage, and once in double plays. In four World Series appearances, Kurowski hit .253 (21-for-83) with one home run and nine RBI in 23 games, as the Cardinals were world champions in 1942, 1944 and 1946. His only home run in the series, in 1942, off Red Ruffing, broke a 2 2 tie in the ninth inning of Game Five to clinch the title for St. Louis over the New York Yankees. He also appeared five times in the MVP ballot, in 1942 and from 1944 through 1947. In 1949, Kurowski developed arm and elbow problems and his playing career ended. After that, he coached and managed in the minor leagues for 18 years until 1972. He gained induction into the National Polish-American Hall of Fame in 1988. In an article in 1976 in Esquire magazine, sportswriter Harry Stein published an "All-Time All-Star Argument Starter," consisting of five ethnic baseball teams. Kurowski was the third baseman on Stein's Polish team. Kurowski died in Sinking Spring, Pennsylvania, at age 81. 
+
+Coref Resolved: 
+
+George John Kurowski (April 19, 1918 December 9, 1999) was a third baseman in Major League Baseball who played his entire career for the St. Louis Cardinals (1949).George John Kurowski (April 19, 1918 December 9, 1999) batted and threw right-handed.George John Kurowski (April 19, 1918 December 9, 1999) debuted on September 23, 1941, and played George John Kurowski (April 19, 1918 December 9, 1999) final game on October 1, 1949.In a nine-season career, George John Kurowski (April 19, 1918 December 9, 1999) posted a .286 batting average with 106 home runs and 529 RBI in 916 games played.George John Kurowski (April 19, 1918 December 9, 1999) childhood nickname came from George John Kurowski (April 19, 1918 December 9, 1999) already white hair.A native of Reading, Pennsylvania, Kurowski overcame several personal problems.George John Kurowski (April 19, 1918 December 9, 1999) overcame childhood osteomyelitis, which made George John Kurowski (April 19, 1918 December 9, 1999) miss a part of a bone on George John Kurowski (April 19, 1918 December 9, 1999) right forearm.Before George John Kurowski (April 19, 1918 December 9, 1999) started George John Kurowski (April 19, 1918 December 9, 1999) baseball career, George John Kurowski (April 19, 1918 December 9, 1999) older brother died in a mine accident, and George John Kurowski (April 19, 1918 December 9, 1999) father died from a heart attack during spring training in 1942.George John Kurowski (April 19, 1918 December 9, 1999) most productive season came in 1945, when George John Kurowski (April 19, 1918 December 9, 1999) posted career-highs in average (.310), home runs (27), RBI (104), runs (108), doubles (27), slugging percentage (.544) and on-base percentage (.420).An All-Star during five consecutive seasons (1943 47), George John Kurowski (April 19, 1918 December 9, 1999) exceeded the 20 home run mark three times to set a major league record for a third baseman (1944 45, 1947), and hit over .300 three times (1945 47).George John Kurowski (April 19, 1918 December 9, 1999) also led the National League three times in putouts, twice in fielding percentage, and once in double plays.In four World Series appearances, George John Kurowski (April 19, 1918 December 9, 1999) hit .253(21-for-83) with one home run and nine RBI in 23 games, as the Cardinals were world champions in 1942, 1944 and 1946.George John Kurowski (April 19, 1918 December 9, 1999) only home run in World Series , in 1942, off Red Ruffing, broke a 2 2 tie in the ninth inning of Game Five to clinch the title for the Cardinals over the New York Yankees.George John Kurowski (April 19, 1918 December 9, 1999) also appeared five times in the MVP ballot, in 1942and from 1944 through 1947.In 1949, George John Kurowski (April 19, 1918 December 9, 1999) developed arm and elbow problems and George John Kurowski (April 19, 1918 December 9, 1999) playing career ended.After that, George John Kurowski (April 19, 1918 December 9, 1999) coached and managed in the minor leagues for 18 years until 1972.George John Kurowski (April 19, 1918 December 9, 1999) gained induction into the National Polish-American Hall of Fame in 1988.In an article in 1976 in Esquire magazine, sportswriter Harry Stein published an "All-Time All-Star Argument Starter," consisting of five ethnic baseball teams.George John Kurowski (April 19, 1918 December 9, 1999) was the third baseman on sportswriter Harry Stein Polish team.George John Kurowski (April 19, 1918 December 9, 1999) died in Sinking Spring, Pennsylvania, at age 81.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.5 0.3333333333333333 0.5 0.0 0.16666666666666666 0.0 0.5 0.5 0.5 0.0 
+
+Value for ground truth is : 
+1.0 -1 -1 0.5 -1 -1 0.5 0.3333333333333333 0.75 1.0 1.0 1.0 -1 1.0 0.0 -1 0.0 0.0 0.0 0.0 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate minor_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate major_inaccurate 
+

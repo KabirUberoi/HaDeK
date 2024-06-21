@@ -1,0 +1,60 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/32_Flavors and the value is : 1
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Billboard_Hot_100 and the value is : 1
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Blame_It and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Fortuna and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Surrender_Dorothy and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Fortuna and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Acoustic_Soul and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Love_Life_(musical) and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/United_States and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Europe and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Sheryl_Crow and the value is : 0
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Ani_DiFranco and the value is : 1
+http://dbpedia.org/resource/Alana_Davis and http://dbpedia.org/resource/Indigo_Girls and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Carry_On_(franchise) and http://dbpedia.org/resource/Sony_Music and the value is : 0
+http://dbpedia.org/resource/Carry_On_(franchise) and http://dbpedia.org/resource/Super_Bowl and the value is : 0
+http://dbpedia.org/resource/Carry_On_(franchise) and http://dbpedia.org/resource/Sony and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Alana Davis (born October 3, 1968) is an American singer-songwriter and musician.
+She is best known for her hit single "32 Flavors", which was released in 1997 and reached number 28 on the Billboard Hot 100.
+Davis has released four studio albums, Blame It on Me (1996), Fortune Cookies (1998), Surrender Dorothy (2002), and Fortune Cookies The Best of Alana Davis (2004).
+She has also released two EPs, Acoustic Soul (2005) and Love Life (2008).
+Davis has toured extensively throughout the United States and Europe, and has performed with such artists as Sheryl Crow, Ani DiFranco, and The Indigo Girls.
+
+
+Coref Resolved: 
+
+Alana Davis (born October 3, 1968) is an American singer-songwriter and musician.
+Alana Davis (born October 3, 1968) is best known for Alana Davis (born October 3, 1968) hit single "32 Flavors", which was released in 1997 and reached number 28 on the Billboard Hot 100.
+Alana Davis (born October 3, 1968) has released four studio albums, Blame It on Me (1996), Fortune Cookies (1998), Surrender Dorothy (2002), and Fortune Cookies The Best of Alana Davis (born October 3, 1968) (2004).
+Alana Davis (born October 3, 1968) has also released two EPs, Acoustic Soul (2005) and Love Life (2008).
+Alana Davis (born October 3, 1968) has toured extensively throughout the United States and Europe, and has performed with such artists as Sheryl Crow, Ani DiFranco, and The Indigo Girls.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Alana Summer Davis (born May 6, 1974 in New York City) is an American singer-songwriter. Her father, Walter Davis Jr., was an African-American pianist who played alongside such jazz greats as Charlie Parker and Dizzy Gillespie. A record deal with Elektra Records produced Davis' first two albums "Blame It on Me", which was chosen as one of Time's five best albums of 1997, and 2001's "Fortune Cookies", which featured production by The Neptunes and Ed Tuton. She released videos of the songs "32 Flavors" and "Crazy." Davis achieved a radio hit with the single "32 Flavors" from her debut album. The song is a cover version of a track written and previously recorded by Ani DiFranco. "Blame It on Me" stayed on the Billboard Top 200 for seven weeks, peaking at 157 in February 1998 and reaching sales of over 240,000 in the United States. "Murder", also from "Blame It on Me", was sampled on Jay-Z's "Vol. 3... Life and Times of S. Carter". After a guest appearance on the 1999 soundtrack to "The Mod Squad", Davis left Elektra and signed a single deal with SME Records. She released the single "Carry On" on this label, and the song was featured in a Super Bowl commercial for Sony Electronics. Tired of major record labels, Davis went independent in 2005 and formed her own label, Tigress Records. She released a third album, "Surrender Dorothy", on this label, which featured the single "Wide Open". In 2006, Davis toured with Thievery Corporation for a couple of dates as a guest vocalist. 
+
+Coref Resolved: 
+
+Alana Summer Davis (born May 6, 1974 in New York City) is an American singer-songwriter.Alana Summer Davis father, Walter Davis Jr., was an African-American pianist who played alongside such jazz greats as Charlie Parker and Dizzy Gillespie.A record deal with Elektra Records produced Alana Summer Davis first two albums "Blame It on Me", which was chosen as one of Time's five best albums of 1997, and 2001's "Fortune Cookies", which featured production by The Neptunes and Ed Tuton.Alana Summer Davis released videos of the songs "32 Flavors" and "Crazy."Alana Summer Davis achieved a radio hit with the single "32 Flavors" from Alana Summer Davis debut album.the single "32 Flavors" from her debut albumis a cover version of a track written and previously recorded by Ani DiFranco."Blame It on Me", which was chosen as one of Time's five best albums of 1997stayed on the Billboard Top 200 for seven weeks, peaking at 157 in February 1998 and reaching sales of over 240,000 in the United States."Murder", also from "Blame It on Me", which was chosen as one of Time's five best albums of 1997, was sampled on Jay-Z's "Vol. 3... Life and Times of S. Carter".After a guest appearance on the 1999 soundtrack to "The Mod Squad", Alana Summer Davis left Elektra Records and signed a single deal with SME Records.Alana Summer Davis released the single "Carry On" on SME Records, and the single "Carry On" was featured in a Super Bowl commercial for Sony Electronics.Tired of major record labels, Alana Summer Davis went independent in 2005 and formed Alana Summer Davis own label, Tigress Records.Alana Summer Davis released a third album, "Surrender Dorothy", on her own label, Tigress Records, which featured the single "Wide Open".In 2006, Alana Summer Davis toured with Thievery Corporation for a couple of dates as a guest vocalist.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 1.0 0.0 0.0 0.2 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 -1 0.0 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate accurate minor_inaccurate major_inaccurate minor_inaccurate 
+

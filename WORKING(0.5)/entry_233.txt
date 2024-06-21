@@ -1,0 +1,156 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Robert_Moody and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Whitesnake and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Juicy_Couture and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/The_Snakes and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/London and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/England and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Juicy_Couture and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Juicy_Couture and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Whitesnake and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/The_Snakes and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Penguin_Books and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/English_people and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Rock_music and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Juicy_Couture and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Lucy_Beale and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Whitesnake and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Penguin_Books and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Penguin_Books and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Bernie_Marsden and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Penguin_Books and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Samuel_Marsden and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/The_Snakes and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Status_quo and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Bob_Casale and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Whitesnake and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Neil_Murray_(British_musician) and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Penguin_Books and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/BMW_M3 and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Whitesnake and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Penguin_Books and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Neil_Murray_(British_musician) and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Laurie_Wisefield and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Harry_James and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Keyboardist and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Adam_Wakeman and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Keyboardist and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Penguin_Books and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Roger_Chapman and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Frankie_Miller and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Chris_Farlowe and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Penguin_Books and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Eric_Clapton and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Alvin_Lee and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Mick_Taylor and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Bruce_Dickinson and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/New_Bomb_Turks and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Gary_Brooker and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Suggs and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Dennis_Locorriere and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Arnold_Schwarzenegger and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Hunter_Region and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Rick_Wakeman and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Jon_Lord and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Newton_Faulkner and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Uriah_Heep_(band) and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Alice_Cooper and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Mark_King_(snooker_player) and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Alfie_Boe and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Sandi_Thom and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Brian_Auger and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Paul_Weller and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Eric_Bibb and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Meat_Loaf and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Boy_George and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Elkie_Brooks and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Nona_Hendryx and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Mud_Morganfield and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Penguin_Books and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Guitarist and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Duane_Eddy and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Penguin_Books and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Don't_Blame_Me_(song) and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Journeyman and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Journeyman and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Penguin_Books and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Session_musician and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Penguin_Books and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Penguin_Books and the value is : 0
+http://dbpedia.org/resource/Moody_Bible_Institute and http://dbpedia.org/resource/Micky_Dolenz and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Micky Moody (born Michael Robert Moody, 28 August 1950) is an English guitarist, best known for his work with Whitesnake, Juicy Lucy, Snafu, and The Snakes.
+He has also released several solo albums.
+Moody was born in London, England.
+He began playing guitar at the age of 12, and by the age of 15 he was playing in local bands.
+He joined Juicy Lucy in 1969, and played on their first two albums.
+He then joined Snafu in 1974, and played on their first three albums.
+In 1978, he joined Whitesnake, and played on their first five albums.
+He left the band in 1982, and went on to form The Snakes, with whom he released two albums.
+He has also released several solo albums, and has collaborated with many other artists.
+
+
+Coref Resolved: 
+
+Micky Moody (born Michael Robert Moody, 28 August 1950) is an English guitarist, best known for Micky Moody work with Whitesnake, Juicy Lucy, Snafu, and The Snakes.
+Micky Moody has also released several solo albums.
+Micky Moody was born in London, England.
+Micky Moody began playing guitar at the age of 12, and by the age of 15 Micky Moody was playing in local bands.
+Micky Moody joined Juicy Lucyin 1969, and played on Juicy Lucyfirst two albums.
+Micky Moody then joined Snafuin 1974, and played on Snafufirst three albums.
+In 1978, Micky Moody joined Whitesnake, and played on Whitesnakefirst five albums.
+Micky Moody left Whitesnakein 1982, and went on to form The Snakes, with whom Micky Moody released two albums.
+Micky Moody has also released several solo albums, and has collaborated with many other artists.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Michael Joseph "Micky" Moody (born 30 August 1950) is an English guitarist, and a former member of the rock bands Juicy Lucy and Whitesnake. He was also a founder-member of Snafu. Together with his former Whitesnake colleague Bernie Marsden, he founded the Moody Marsden Band, and later, The Snakes, having previously collaborated with unofficial fifth Status Quo member Bob Young in Young Moody. Along with Marsden and ex-Whitesnake bassist Neil Murray, he formed Company of Snakes and M3 Classic Whitesnake, with which they mainly performed early Whitesnake songs. From 2010, he has been working with Murray, guitarist Laurie Wisefield, drummer Harry James, singer Chris Ousey, and keyboard player Michael Bramwell in Monsters of British Rock, which has morphed into Snakecharmer with Adam Wakeman on keyboards. Besides this, Moody has also toured with Roger Chapman, Frankie Miller, and Chris Farlowe. He has also performed live alongside the likes of Eric Clapton, Alvin Lee, Mick Taylor, Bruce Dickinson, Sam Brown, Gary Brooker, Suggs, Dennis Locorriere, Paul Jones, P.P. Arnold, James Hunter, Rick Wakeman, Jon Lord, Newton Faulkner, Uriah Heep, Alice Cooper, Mark King, Alfie Boe, Sandi Thom, Brian Auger, Paul Weller, Eric Bibb, Meat Loaf, Boy George, Elkie Brooks, Nona Hendryx, Mud Morganfield, and one of his early guitar heroes, Duane Eddy. Since 2000, he has released several solo albums "I Eat Them for Breakfast" (2000), "Don't Blame Me" (2006), "Acoustic Journeyman" (2007), and "Electric Journeyman" (2009). A versatile guitarist, Moody has been an active session musician, and his own website lists over 100 albums to which he has contributed musically. 2006 saw the release of the autobiographical "Playing with Trumpets A Rock 'n' Roll Apprenticeship", a memoir about his early days on the music scene. His library music has been featured on such TV programmes as "Waking the Dead", "Bo' Selecta ", "America's Next Top Model", "How to Look Good Naked", "Top Gear", "Horizon", "Jersey Shore", "Mad Men", "Wife Swap", and "Paul Hollywood's Bread". 
+
+Coref Resolved: 
+
+Michael Joseph "Micky" Moody (born 30 August 1950) is an English guitarist, and a former member of the rock bands Juicy Lucy and Whitesnake.Michael Joseph "Micky" Moody was also a founder-member of Snafu.Together with Michael Joseph "Micky" Moody former Whitesnakecolleague Bernie Marsden, Michael Joseph "Micky" Moody founded the Moody Marsden Band, and later, The Snakes, having previously collaborated with unofficial fifth Status Quo member Bob Young in Young Moody.Along with his former Whitesnake colleague Bernie Marsdenand ex-Whitesnakebassist Neil Murray, Michael Joseph "Micky" Moody formed Company of Snakes and M3 Classic Whitesnake, with which they mainly performed early Whitesnakesongs.From 2010, Michael Joseph "Micky" Moody has been working with ex-Whitesnake bassist Neil Murray, guitarist Laurie Wisefield, drummer Harry James, singer Chris Ousey, and keyboard player Michael Bramwell in Monsters of British Rock, which has morphed into Snakecharmer with Adam Wakeman on keyboards.Besides working , Michael Joseph "Micky" Moody has also toured with Roger Chapman, Frankie Miller, and Chris Farlowe.Michael Joseph "Micky" Moody has also performed live alongside the likes of Eric Clapton, Alvin Lee, Mick Taylor, Bruce Dickinson, Sam Brown, Gary Brooker, Suggs, Dennis Locorriere, Paul Jones, P.P. Arnold, James Hunter, Rick Wakeman, Jon Lord, Newton Faulkner, Uriah Heep, Alice Cooper, Mark King, Alfie Boe, Sandi Thom, Brian Auger, Paul Weller, Eric Bibb, Meat Loaf, Boy George, Elkie Brooks, Nona Hendryx, Mud Morganfield, and one of Michael Joseph "Micky" Moody early guitar heroes, Duane Eddy.Since 2000, Michael Joseph "Micky" Moody has released several solo albums "I Eat Them for Breakfast" (2000), "Don't Blame Me" (2006), "Acoustic Journeyman" (2007), and "Electric Journeyman" (2009).A versatile guitarist, Michael Joseph "Micky" Moody has been an active session musician, and Michael Joseph "Micky" Moody own website lists over 100 albums to which Michael Joseph "Micky" Moody has contributed musically.2006saw the release of the autobiographical "Playing with Trumpets A Rock 'n' Roll Apprenticeship", a memoir about Michael Joseph "Micky" Moody early days on the music scene.Michael Joseph "Micky" Moody library music has been featured on such TV programmes as "Waking the Dead", "Bo' Selecta ", "America's Next Top Model", "How to Look Good Naked", "Top Gear", "Horizon", "Jersey Shore", "Mad Men", "Wife Swap", and "Paul Hollywood's Bread".
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 
+
+Value for ground truth is : 
+0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate major_inaccurate accurate minor_inaccurate minor_inaccurate minor_inaccurate minor_inaccurate accurate 
+

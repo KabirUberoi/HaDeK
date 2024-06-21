@@ -1,0 +1,50 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Lucy Akhurst (born 28 April 1971) is an English actress.
+She is best known for her roles in the films The Mummy Returns (2001), The Libertine (2004), and The Descent (2005).
+Akhurst was born in London, England.
+She attended the Royal Academy of Dramatic Art, graduating in 1993.
+She has appeared in numerous television series, including The Bill, Casualty, and Holby City.
+She has also appeared in the films The Mummy Returns (2001), The Libertine (2004), and The Descent (2005).
+Akhurst has also appeared in the stage productions of The Seagull, The Cherry Orchard, and The Taming of the Shrew.
+She has also appeared in the television series The Tudors, The Shadow Line, and The White Queen.
+
+
+Coref Resolved: 
+
+Lucy Akhurst (born 28 April 1971) is an English actress.
+Lucy Akhurst (born 28 April 1971) is best known for Lucy Akhurst (born 28 April 1971) roles in the films The Mummy Returns (2001), The Libertine (2004), and The Descent (2005).
+Lucy Akhurst (born 28 April 1971) was born in London, England.
+Lucy Akhurst (born 28 April 1971) attended the Royal Academy of Dramatic Art, graduating in 1993.
+Lucy Akhurst (born 28 April 1971) has appeared in numerous television series, including The Bill, Casualty, and Holby City.
+Lucy Akhurst (born 28 April 1971) has also appeared in the films The Mummy Returns (2001), The Libertine (2004), and The Descent (2005).
+Lucy Akhurst (born 28 April 1971) has also appeared in the stage productions of The Seagull, The Cherry Orchard, and The Taming of the Shrew.
+Lucy Akhurst (born 28 April 1971) has also appeared in the television series The Tudors, The Shadow Line, and The White Queen.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Lucy Akhurst (b. 18 November 1975 in London) is an English actress, writer, and director who has been working mainly in television since the 1990s. She starred alongside Neil Morrissey in "The Vanishing Man" and then came to prominence in a lead role in 1999's ITV seven-part drama "Wonderful You". She appeared as Tim (Simon Pegg)'s girlfriend for four episodes of the UK comedy "Spaced" and also guest-starred as a zombie in Simon Pegg and Edgar Wright's comedy film "Shaun of the Dead". She also appeared in the 2004 series of the BBC's "Monarch of the Glen". More recently, she wrote, produced, and starred in "Every Seven Years", a short film that has won several awards. She also directed, co-produced, and had a small part in the independent British film, written, co-produced by, and starring her husband Chaz Oldham. She wrote an article in "The Daily Mail" about her experiences in making the film. Akhurst provided the voiceovers for "EastEnders" in March 2009 for the Mitchell family storyline. 
+
+Coref Resolved: 
+
+Lucy Akhurst (b. 18 November 1975 in London) is an English actress, writer, and director who has been working mainly in television since the 1990s.Lucy Akhurst starred alongside Neil Morrissey in "The Vanishing Man" and then came to prominence in a lead role in 1999's ITV seven-part drama "Wonderful You".Lucy Akhurst appeared as Tim (Simon Pegg)'s girlfriend for four episodes of the UK comedy "Spaced" and also guest-starred as a zombie in Simon Pegg and Edgar Wright's comedy film "Shaun of the Dead".Lucy Akhurst also appeared in the 2004 series of the BBC's "Monarch of the Glen".More recently, Lucy Akhurst wrote, produced, and starred in "Every Seven Years", a short film that has won several awards.Lucy Akhurst also directed, co-produced, and had a small part in the independent British film, written, co-produced by, and starring Lucy Akhurst husband Chaz Oldham.Lucy Akhurst wrote an article in "The Daily Mail" about Lucy Akhurst experiences in making the independent British film, written, co-produced by, and starring her husband Chaz Oldham.Lucy Akhurst provided the voiceovers for "EastEnders" in March 2009 for the Mitchell family storyline.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 -1 -1 -1 -1 -1 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate accurate major_inaccurate minor_inaccurate major_inaccurate major_inaccurate major_inaccurate 
+

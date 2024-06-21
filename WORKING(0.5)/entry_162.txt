@@ -1,0 +1,44 @@
+#############SENTENCE_PAIRS############
+
+
+#############GROUND_PAIRS############
+
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+Bob Miller (born October 28, 1945) is a former American football player.
+He played college football at the University of Michigan from 1964 to 1966 and professional football in the American Football League (AFL) for the Buffalo Bills from 1967 to 1969.
+Miller was a two-time All-American at Michigan and was selected in the first round of the 1967 AFL Draft by the Bills.
+He was a member of the Bills' AFL championship teams in 1964 and 1965.
+Miller was inducted into the College Football Hall of Fame in 1988.
+
+
+Coref Resolved: 
+
+Bob Miller (born October 28, 1945) is a former American football player.
+Bob Miller played college football at the University of Michigan from 1964 to 1966 and professional football in the American Football League (AFL) for the Buffalo Bills from 1967 to 1969.
+Bob Miller was a two-time All-American at the University of Michigan and was selected in the first round of the 1967 AFL Draft by the Buffalo Bills .
+Bob Miller was a member of the Buffalo Bills the American Football League (AFL) championship teams in 1964 and 1965.
+Bob Miller was inducted into the College Football Hall of Fame in 1988.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+Robert Marguesse Miller (December 11, 1929 - August 7, 2006) was an American football offensive defensive tackle with the Detroit Lions of the National Football League from 1952 to 1958. Born in Norwalk, Connecticut, he attended the University of Virginia, which finished 8-1 and ranked 13th in the Associated Press Poll in his final year in 1951. After being selected by Detroit in the 1952 NFL Draft, he was on the teams which won NFL Championships in 1952, 1953, and 1957, and also the team which lost the title game in 1954. He was selected an All-Conference defensive tackle in 1956 by The Sporting News. After retiring from football, he was the president and owner of Cavalier Manufacturing. In the 1970s, he became a licensed horse trainer, breeder, and owner of thoroughbred racing stable Del-Rob Farm along with his wife Delphine (the Del in Del-Rob). He died of cancer at age 76 in Clarkston, Michigan. He was inducted into the Virginia Sports Hall of Fame in 2006. 
+
+Coref Resolved: 
+
+Robert Marguesse Miller (December 11, 1929 - August 7, 2006) was an American football offensive defensive tackle with the Detroit Lions of the National Football League from 1952 to 1958.Born in Norwalk, Connecticut, Robert Marguesse Miller attended the University of Virginia, which finished 8-1 and ranked 13th in the Associated Press Poll in Robert Marguesse Miller final year in 1951.After being selected by the Detroit Lions of the National Football League in the 1952 NFL Draft, Robert Marguesse Miller was on the teams which won the National Football League Championships in 1952 , 1953, and 1957, and also the team which lost the title game in 1954.Robert Marguesse Miller was selected an All-Conference defensive tackle in 1956 by The Sporting News.After retiring from football, Robert Marguesse Miller was the president and owner of Cavalier Manufacturing.In the 1970s, Robert Marguesse Miller became a licensed horse trainer, breeder, and owner of thoroughbred racing stable Del-Rob Farm along with Robert Marguesse Miller wife Delphine (the Del in Del-Rob).Robert Marguesse Miller died of cancer at age 76 in Clarkston, Michigan.Robert Marguesse Miller was inducted into the Virginia Sports Hall of Fame in 2006.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+-1 -1 -1 -1 -1 
+
+Value for ground truth is : 
+-1 -1 -1 -1 -1 -1 -1 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+minor_inaccurate major_inaccurate major_inaccurate major_inaccurate minor_inaccurate 
+

@@ -1,0 +1,90 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/American_Educator and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Liberal_arts_college and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/New_York_City and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Harvard_University and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Harvard_University and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/English_literature and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/National_university and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Liberal_arts_college and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Scottish_Americans and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Lexicography and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/University_of_Edinburgh and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Doctor_of_Philosophy and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Harvard_University and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Smith_College and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Doune and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Scotland and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/American_poetry and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Bryn_Mawr_College and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Harvard_University and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Harvard_University and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/William_Shakespeare and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Robert_Burns and the value is : 1
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/English_Renaissance_theatre and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/University_of_Cambridge and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Tudor_period and the value is : 0
+http://dbpedia.org/resource/William_Allan_Neilson and http://dbpedia.org/resource/Webster's_Dictionary and the value is : 1
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+William Allan Neilson (1869 1946) was an American educator and scholar.
+He was the president of Smith College from 1910 to 1939, and was a major figure in the development of the modern liberal arts college.
+Neilson was born in 1869 in New York City.
+He attended Harvard University, where he earned his bachelor's degree in 1891 and his master's degree in 1892.
+He then went on to teach at Harvard, eventually becoming a professor of English literature.
+In 1910, he was appointed president of Smith College, a position he held until 1939.
+During his tenure at Smith, Neilson was instrumental in transforming the college from a small, local institution into a major national university.
+He increased the size of the faculty, expanded the curriculum, and improved the college's financial stability.
+He also established a number of new programs, including the Smith College School for Social Work and the Smith College Summer School for Women Workers in Industry.
+Neilson was a strong advocate for women's education, and he was a major figure in the development of the modern liberal arts college.
+Neilson retired from Smith in.
+
+
+Coref Resolved: 
+
+William Allan Neilson (1869 1946) was an American educator and scholar.
+William Allan Neilson was the president of Smith College from 1910 to 1939, and was a major figure in the development of the modern liberal arts college.
+William Allan Neilson was born in 1869 in New York City.
+William Allan Neilson attended Harvard University, where William Allan Neilson earned William Allan Neilson bachelor's degree in 1891 and William Allan Neilson master's degree in 1892.
+William Allan Neilson then went on to teach at Harvard, eventually becoming a professor of English literature.
+In 1910 , William Allan Neilson was appointed president of Smith College , a position William Allan Neilson held until 1939.
+During William Allan Neilson tenure at Smith College , William Allan Neilson was instrumental in transforming Smith College from a small, local institution into a major national university.
+William Allan Neilson increased the size of the faculty, expanded the curriculum, and improved Smith College financial stability.
+William Allan Neilson also established a number of new programs, including the Smith College School for Social Work and the Smith College Summer School for Women Workers in Industry.
+William Allan Neilson was a strong advocate for women's education, and William Allan Neilson was a major figure in the development of the modern liberal arts college.
+William Allan Neilson retired from Smith College in.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+William Allan Neilson (28 March 1869 - 1946) was a Scottish-American educator, writer, and lexicographer. He graduated from the University of Edinburgh in 1891 and became a Ph.D. at Harvard University in 1898. He was president of Smith College between 1917 and 1939. Neilson was born in Doune, Scotland and emigrated to the United States in 1895, becoming naturalized on 3 August 1905. He taught at Bryn Mawr College from 1898 to 1900, Harvard from 1900 to 1904, Columbia from 1904 to 1906, and Harvard again from 1906 to 1917. Neilson was the author of a number of critical works on William Shakespeare, Robert Burns, and the Elizabethan theatre, editor of the Cambridge and Tudor editions of Shakespeare (1906, 1911), and editor of Webster's New International Dictionary, Second Edition (1934). Less known is his translation of the famous late 14th century Middle English alliterative chivalric romance, Sir Gawain and the Green Knight. 
+
+Coref Resolved: 
+
+William Allan Neilson (28 March 1869 - 1946) was a Scottish-American educator, writer, and lexicographer.William Allan Neilson graduated from the University of Edinburgh in 1891 and became a Ph.D. at Harvard University in 1898.William Allan Neilson was president of Smith College between 1917 and 1939.William Allan Neilson was born in Doune, Scotland and emigrated to the United States in 1895, becoming naturalized on 3 August 1905.William Allan Neilson taught at Bryn Mawr College from 1898to 1900, Harvard University from 1900to 1904, Columbia from 1904to 1906, and Harvard University again from 1906to 1917 .William Allan Neilson was the author of a number of critical works on William Shakespeare, Robert Burns, and the Elizabethan theatre, editor of the Cambridge and Tudor editions of William Shakespeare(1906, 1911), and editor of Webster's New International Dictionary, Second Edition (1934).Less known is William Allan Neilson translation of the famous late 14th century Middle English alliterative chivalric romance, Sir Gawain and the Green Knight.
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+0.0 0.5 0.0 1.0 0.5 1.0 0.6666666666666666 1.0 1.0 0.0 1.0 
+
+Value for ground truth is : 
+0.0 0.6666666666666666 1.0 0.6666666666666666 1.0 0.5 -1 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate minor_inaccurate major_inaccurate minor_inaccurate accurate minor_inaccurate accurate accurate minor_inaccurate minor_inaccurate minor_inaccurate 
+

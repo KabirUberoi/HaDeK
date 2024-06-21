@@ -1,0 +1,69 @@
+#############SENTENCE_PAIRS############
+
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Punk_rock and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Fat_Mike and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Eric_Melvin and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Rhythm_guitar and the value is : 0
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/El_Hefe and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Erik_Sandin and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Rancid_(band) and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Fat_Wreck_Chords and the value is : 1
+
+#############GROUND_PAIRS############
+
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Punk_rock and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/California and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Fat_Mike and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Eric_Melvin and the value is : 1
+http://dbpedia.org/resource/Erik_Sandin and http://dbpedia.org/resource/NOFX and the value is : 1
+http://dbpedia.org/resource/El_Hefe and http://dbpedia.org/resource/Lead_guitar and the value is : 0
+http://dbpedia.org/resource/El_Hefe and http://dbpedia.org/resource/Trumpet and the value is : 0
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Punk_rock and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Green_Day and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/The_Offspring and the value is : 1
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/808_Mafia and the value is : 0
+http://dbpedia.org/resource/NOFX and http://dbpedia.org/resource/Backstage_(magazine) and the value is : 0
+
+
+%%%%%%%%%%%%%%%%%%%%SENTENCES%%%%%%%%%%%%%%%%%
+Sentences : 
+
+NoFX is an American punk rock band from Los Angeles, California.
+Formed in 1983, the band is currently composed of vocalist bassist Fat Mike, lead guitarist Eric Melvin, rhythm guitarist El Hefe, and drummer Erik Sandin.
+They are often credited as one of the most successful independent bands of all time, having sold over 8 million records worldwide.
+NoFX's sound is often characterized by irreverent and humorous lyrics, catchy melodies, and a fast, energetic sound.
+Their lyrics often focus on punk politics, humor, and pop culture.
+The band has released twelve studio albums, fifteen extended plays, four live albums, and numerous 7" singles.
+They have also collaborated with other artists, including NOFX Rancid split albums, and the Fat Wreck Chords compilation albums.
+
+
+Coref Resolved: 
+
+NoFX is an American punk rock band from Los Angeles, California.
+Formed in 1983, NoFX is currently composed of vocalist bassist Fat Mike, lead guitarist Eric Melvin, rhythm guitarist El Hefe, and drummer Erik Sandin.
+NoFX are often credited as one of the most successful independent bands of all time, having sold over 8 million records worldwide.
+NoFX sound is often characterized by irreverent and humorous lyrics, catchy melodies, and a fast, energetic sound.
+NoFX lyrics often focus on punk politics, humor, and pop culture.
+NoFX has released twelve studio albums, fifteen extended plays, four live albums, and numerous 7" singles.
+NoFX have also collaborated with other artists, including NOFX Rancid split albums, and the Fat Wreck Chords compilation albums.
+
+
+%%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
+Ground Truth : 
+
+NOFX are an American punk rock band from Los Angeles, California. The band was formed in 1983 by vocalist bassist Fat Mike and guitarist Eric Melvin. Drummer Erik Sandin joined NOFX shortly after. In 1991, El Hefe joined to play lead guitar and trumpet, rounding out the current line-up. The band rose to popularity with their fifth studio album, "Punk in Drublic" (1994). NOFX's mainstream success was signified by a growing interest in punk rock during the 1990s, but unlike many of their contemporaries (including Green Day and The Offspring), they have never been signed to a major label. NOFX has released twelve studio albums, fifteen extended plays, and a number of seven-inch singles. Their latest studio album, "Self Entitled", was released on September 11, 2012. The group has sold over 8 million records worldwide, making them one of the most successful independent bands of all time. The band also broadcast their own show on Fuse TV entitled "NOFX Backstage Passport". 
+
+Coref Resolved: 
+
+NOFX are an American punk rock band from Los Angeles, California.NOFX was formed in 1983 by vocalist bassist Fat Mike and guitarist Eric Melvin.Drummer Erik Sandin joined NOFX shortly after.In 1991, El Hefe joined to play lead guitar and trumpet, rounding out the current line-up.NOFX rose to popularity with NOFX fifth studio album, "Punk in Drublic" (1994).NOFX mainstream success was signified by a growing interest in punk rock during the 1990s, but unlike many of NOFX contemporaries (including Green Day and The Offspring), NOFX have never been signed to a major label.NOFX has released twelve studio albums, fifteen extended plays, and a number of seven-inch singles.NOFX latest studio album, "Self Entitled", was released on September 11, 2012.NOFX has sold over 8 million records worldwide, making NOFX one of the most successful independent bands of all time.NOFX also broadcast NOFX own show on Fuse TV entitled "NOFX Backstage Passport".
+%%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
+Value for sentences is : 
+1.0 0.8 -1 -1 -1 -1 1.0 
+
+Value for ground truth is : 
+1.0 1.0 1.0 0.0 -1 1.0 -1 -1 -1 0.0 
+
+%%%%%%%%%%%%%%%%%%%%ANNOTATIONS%%%%%%%%%%%%%%%%
+accurate accurate accurate minor_inaccurate accurate accurate accurate 
+
