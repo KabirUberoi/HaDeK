@@ -32,17 +32,17 @@ He was inducted into the World Golf Hall of Fame in 2017.
 
 Coref Resolved: 
 
-0. Tim Finchem (born August 24, 1947) is an American businessman and former Commissioner of the PGA Tour.
-1. Tim Finchem (born August 24, 1947) served as Commissioner from 1994 to 2016.
-2. Tim Finchem (born August 24, 1947) was born in Washington, D.C., and grew up in Bethesda, Maryland.
-3. Tim Finchem (born August 24, 1947) graduated from the University of Maryland in 1969 with a degree in business administration.
-4. Tim Finchem (born August 24, 1947) then attended the University of Virginia School of Law, where Tim Finchem (born August 24, 1947) earned Tim Finchem (born August 24, 1947)5. Juris Doctor degree in 1972.
-6. Tim Finchem (born August 24, 1947) began Tim Finchem (born August 24, 1947) career in the golf industry in 1975, when Tim Finchem (born August 24, 1947) joined the PGA Touras the PGA Tourfirst full-time legal counsel.
-7. Tim Finchem (born August 24, 1947) was promoted to Deputy Commissioner in 1988 and Commissioner in 1994 .
-8. During Tim Finchem (born August 24, 1947) tenure, the PGA Tourgrew from a domestic tour to an international tour, with events in more than 30 countries.
-9. Tim Finchem (born August 24, 1947) also oversaw the introduction of the FedEx Cup, a season-long points competition that culminates in a four-tournament playoff.
-10. Tim Finchem (born August 24, 1947) retired as Commissioner in 2016and was succeeded by Jay Monahan.
-11. Tim Finchem (born August 24, 1947) was inducted into the World Golf Hall of Fame in 2017.
+Tim Finchem (born August 24, 1947) is an American businessman and former Commissioner of the PGA Tour.
+Tim Finchem (born August 24, 1947) served as Commissioner from 1994 to 2016.
+Tim Finchem (born August 24, 1947) was born in Washington, D.C., and grew up in Bethesda, Maryland.
+Tim Finchem (born August 24, 1947) graduated from the University of Maryland in 1969 with a degree in business administration.
+Tim Finchem (born August 24, 1947) then attended the University of Virginia School of Law, where Tim Finchem (born August 24, 1947) earned Tim Finchem (born August 24, 1947)Juris Doctor degree in 1972.
+Tim Finchem (born August 24, 1947) began Tim Finchem (born August 24, 1947) career in the golf industry in 1975, when Tim Finchem (born August 24, 1947) joined the PGA Touras the PGA Tourfirst full-time legal counsel.
+Tim Finchem (born August 24, 1947) was promoted to Deputy Commissioner in 1988 and Commissioner in 1994 .
+During Tim Finchem (born August 24, 1947) tenure, the PGA Tourgrew from a domestic tour to an international tour, with events in more than 30 countries.
+Tim Finchem (born August 24, 1947) also oversaw the introduction of the FedEx Cup, a season-long points competition that culminates in a four-tournament playoff.
+Tim Finchem (born August 24, 1947) retired as Commissioner in 2016and was succeeded by Jay Monahan.
+Tim Finchem (born August 24, 1947) was inducted into the World Golf Hall of Fame in 2017.
 
 
 %%%%%%%%%%%%%%%%%%%%GROUND_TRUTH%%%%%%%%%%%%%%%
@@ -67,21 +67,21 @@ He is a single-figure handicap golfer.
 
 Coref Resolved: 
 
-0. Timothy W. Finchem (born April 19, 1947) is the current Commissioner of Golf's PGA Tour.
+Timothy W. Finchem (born April 19, 1947) is the current Commissioner of Golf's PGA Tour.
 Timothy W. Finchem (born April 19, 1947) was born in Ottawa, Illinois.
-1. Timothy W. Finchem (born April 19, 1947) took the position on June 1, 1994, succeeding Deane Beman, who retired after nearly 20 years in the position .
-2. Timothy W. Finchem (born April 19, 1947) had previously served as Vice President of Business Affairs, Deputy Commissioner, and Chief Operating Officer of Golf's PGA Tour.
+Timothy W. Finchem (born April 19, 1947) took the position on June 1, 1994, succeeding Deane Beman, who retired after nearly 20 years in the position .
+Timothy W. Finchem (born April 19, 1947) had previously served as Vice President of Business Affairs, Deputy Commissioner, and Chief Operating Officer of Golf's PGA Tour.
 Timothy W. Finchem (born April 19, 1947) graduated from Princess Anne High School in Virginia Beach, Virginia.
-3. Timothy W. Finchem (born April 19, 1947) attended the University of Richmond on a debate scholarship, receiving Timothy W. Finchem (born April 19, 1947)4. Bachelor of Arts degree in 1969.
-5. Timothy W. Finchem (born April 19, 1947) graduated from the University of Virginia School of Law in 1973.
-6. After practicing law in Virginia Beach, Virginiafor three years, Timothy W. Finchem (born April 19, 1947) served in the White House during the administration of Jimmy Carter as Deputy Advisor to the President in the Office of Economic Affairs in 1978 and 1979.
-7. In the early 1980s, Timothy W. Finchem (born April 19, 1947) co-founded the National Marketing and Strategies Group in Washington, D.C.
-8. As the position , Timothy W. Finchem (born April 19, 1947) has greatly expanded the earnings opportunities for Golf's PGA Tourplayers both domestically and internationally.
-9. Timothy W. Finchem (born April 19, 1947) has presided over the last three television broadcasting deals (1997, 2001 and 2005) and has maximized the earnings potential of Golf's PGA Tour, and perhaps none was as bold as the most recent deal that excludes ABC and ESPN and challenges the Golf Channel to get better.
-10. In 2006, the total Golf's PGA Tourpurse was 256.8 million, up from 56.4 million in 1994.
-11. That remarkable growth has a lot to do with Tiger Woods, but Timothy W. Finchem (born April 19, 1947) supporters also give Timothy W. Finchem (born April 19, 1947)12. some of the credit.
-13. Timothy W. Finchem (born April 19, 1947) received the 2001 Old Tom Morris Award from the Golf Course Superintendents Association of America, the Golf Course Superintendents Association of Americahighest honor.
-14. Timothy W. Finchem (born April 19, 1947) is a single-figure handicap golfer.
+Timothy W. Finchem (born April 19, 1947) attended the University of Richmond on a debate scholarship, receiving Timothy W. Finchem (born April 19, 1947)Bachelor of Arts degree in 1969.
+Timothy W. Finchem (born April 19, 1947) graduated from the University of Virginia School of Law in 1973.
+After practicing law in Virginia Beach, Virginiafor three years, Timothy W. Finchem (born April 19, 1947) served in the White House during the administration of Jimmy Carter as Deputy Advisor to the President in the Office of Economic Affairs in 1978 and 1979.
+In the early 1980s, Timothy W. Finchem (born April 19, 1947) co-founded the National Marketing and Strategies Group in Washington, D.C.
+As the position , Timothy W. Finchem (born April 19, 1947) has greatly expanded the earnings opportunities for Golf's PGA Tourplayers both domestically and internationally.
+Timothy W. Finchem (born April 19, 1947) has presided over the last three television broadcasting deals (1997, 2001 and 2005) and has maximized the earnings potential of Golf's PGA Tour, and perhaps none was as bold as the most recent deal that excludes ABC and ESPN and challenges the Golf Channel to get better.
+In 2006, the total Golf's PGA Tourpurse was 256.8 million, up from 56.4 million in 1994.
+That remarkable growth has a lot to do with Tiger Woods, but Timothy W. Finchem (born April 19, 1947) supporters also give Timothy W. Finchem (born April 19, 1947)some of the credit.
+Timothy W. Finchem (born April 19, 1947) received the 2001 Old Tom Morris Award from the Golf Course Superintendents Association of America, the Golf Course Superintendents Association of Americahighest honor.
+Timothy W. Finchem (born April 19, 1947) is a single-figure handicap golfer.
 
 %%%%%%%%%%%%%%%%%%%%FRACTIONS%%%%%%%%%%%%%%%%%%
 Value for sentences is : 
