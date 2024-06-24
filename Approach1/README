@@ -1,26 +1,27 @@
-# All link forming approach
+# All Link Forming Approach
 
 ## Features
 
-1. Links are being formed between all entities that lie in the same sentence 
+1. **Link Formation**: Links are created between all entities that lie in the same sentence.
+2. **Scoring**: Each paragraph is scored as the fraction of links that are present in Wikidata divided by the total links in the paragraph, rather than at the sentence level.
+3. **Special Symbol Handling**: All special symbols are removed, but three-worded names are retained.
 
-2. Scoring is done as the fraction of links that are present in wikidata/total links in each paragraph, not at a sentence level.
+## Problems
 
-3. All special symbols are removed and 3 worded names are left in
+1. **Indirect Links**: Links are formed between objects that do not have direct links.
+   - **Example**: 
+     - **Sentence**: `Kabir is a maths student and an instrument player.`
+     - **Issue**: A link is made between "maths student" and "instrument player," which is unlikely to be present in the knowledge graph.
+   
+2. **Wrongful Subject Extraction**: Subjects are sometimes extracted incorrectly, and there is no straightforward way to detect when this happens.
 
-## Problems 
+3. **Paragraph-Level Scoring**: Scoring at the paragraph level means that if most links are correct and only one is incorrect, the paragraph's score remains high.
 
-1. Links are being formed btw objects which do not have direct links- 
-Eg. Kabir is a maths student and an instrument player.  In this, if we make links between all pairs which lie in the same sentence, there will be a link from maths student to instrument player which would most definetly be present in the KG. 
+4. **Same Issues as Version 2**: The approach still suffers from issues present in version 2 of the method.
 
-2. Subjects are being wrongfully extracted and there is no way to figure out when that is happening 
+## Scores
 
-3. As the scoring is done at a paragraph level, if most of the links being formed are correct and only 1 is incorrect, the score for that para is still high. 
+- **Incorrect Sentences**: 0.2
+- **Correct Sentences**: 0.18
 
-4. Same issues as version 2 as well 
-
-## Scores 
-
-0.2 in incorect and 0.18 in correct
-
-On 476 Testcases
+Based on 476 test cases.
