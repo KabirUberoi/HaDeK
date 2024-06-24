@@ -19,7 +19,7 @@
 
 4. **Same Issues as Version 2**: The approach still suffers from issues present in version 2 of the method.
 
-## Scores
+## Scores Achieved
 
 - **Incorrect Sentences**: 0.2
 - **Correct Sentences**: 0.18
